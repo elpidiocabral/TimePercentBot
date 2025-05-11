@@ -6,7 +6,7 @@
 ## One Piece RPG
 ___
 
-{{banner Versao - 2.4}}
+{{banner Versao - 2.4.1}}
 
 {{footnote
   Inspirado no mundo de One Piece, esse sistema é pensado para portar os feitos da obra de maneira a se divertir com liberdade.
@@ -56,7 +56,7 @@ ___
     -  [{{ Determinação}}{{ 16 }}](#p16)
     -  [{{ Escala de Dados}}{{ 16 }}](#p16)
     -  [{{ Haki}}{{ 16 }}](#p16)
-    -  [{{ Akuma no Mi}}{{ 16 }}](#p16)
+    -  [{{ Consumindo uma Akuma no Mi}}{{ 16 }}](#p16)
     -  [{{ Aptidões}}{{ 17 }}](#p17)
     -  [{{ Competências}}{{ 18 }}](#p18)
 - #### [{{ Equipamento}}{{ 20 }}](#p20)
@@ -106,12 +106,13 @@ ___
   -  [{{ Seu Barco}}{{ 65 }}](#p65)
   -  [{{ Navegando}}{{ 65 }}](#p65)
   -  [{{ Batalha Naval}}{{ 65 }}](#p65)
-- ### [{{ Apêndices}}{{ 66 }}](#p66)
-  - #### [{{ Apêndice A: Treino}}{{ 66 }}](#p66)
-  - #### [{{ Apêndice B: Condições}}{{ 67 }}](#p67)
-  - #### [{{ Apêndice C: Fichas}}{{ 70 }}](#p70)
-  - #### [{{ Apêndice D: Akumas no Mi}}{{ 71 }}](#p71)
-  - #### [{{ Apêndice E: Discos *(Dials)*}}{{ 73 }}](#p73)
+- ### [{{ Parte 4: Akumas no Mi}}{{ 66 }}](#p66)
+- ### [{{ Apêndices}}{{ 71 }}](#p71)
+  - #### [{{ Apêndice A: Treino}}{{ 71 }}](#p71)
+  - #### [{{ Apêndice B: Condições}}{{ 72 }}](#p72)
+  - #### [{{ Apêndice C: Exemplos de Frutas}}{{ 75 }}](#p75)
+  - #### [{{ Apêndice D: Discos *(Dials)*}}{{ 76 }}](#p76)
+  - #### [{{ Apêndice E: Fichas}}{{ 77 }}](#p77)
 }}
 
 
@@ -1166,6 +1167,11 @@ A CD para os testes de Determinação é um número de 1 a 20 que é aproximado 
 | 19 e 20             | 2d10                      |
 }}
 
+## Akuma no Mi
+Durante a criação de personagem ou em meio de uma aventura, você pode vir a consumir uma Fruta do Diabo e ganhar seus poderes. 
+
+Frutas disponibilizam poderes extras, poderes incríveis e possíveis incrementos nos atributos. Você pode ler todos os detalhes na seção de [Akumas no Mi](#p66).
+
 ## Haki
 
 ### Cor da Ambição do Armamento
@@ -1176,7 +1182,6 @@ A CD para os testes de Determinação é um número de 1 a 20 que é aproximado 
 
 ### Cor da Ambição do Conquistador
 
-## Akuma no Mi
 
 {{pageNumber,auto}}
 \page
@@ -4136,6 +4141,324 @@ Para aparar um ataque, você realiza um ataque ou uma habilidade *(Gastando o m�
 {{pageNumber,auto}}
 \page
 
+# Akumas no Mi
+
+As **Akuma no Mi**, ou *Frutas do Diabo*, são um dos pilares mais icônicos do mundo de *A Vontade dos Mares*. Místicas, caprichosas e de origem ancestral, essas frutas concedem aos seus usuários poderes únicos — muitas vezes extraordinários — ao custo da sua relação com o mar. Todo aquele que morde uma dessas frutas se torna incapaz de nadar, passando a ser afetado por Kairoseki (Pedra do Mar) e pelas águas do oceano.
+
+No entanto, os dons que carregam são a própria encarnação do impossível: domar elementos, alterar o próprio corpo, tornar-se uma criatura lendária ou manipular a realidade através de ideias.
+
+:
+
+### Criando uma Akuma no Mi
+
+Cada fruta no sistema deve conter os seguintes campos preenchidos para referência narrativa e mecânica:
+
+- **Nome**: Nome da fruta em português e, opcionalmente, sua forma japonesa.  
+  _Exemplo_: Fruta do Fogo (Mera Mera no Mi)
+- **Tipo**: Paramecia, Zoan ou Logia.
+- **Temática**: Descrição poética e funcional do que o usuário se torna e pode fazer.
+- **Desejo que a criou** *(opcional)*: Desejo ou impulso que teria dado origem à fruta. Este elemento é essencial para determinar se o personagem pode ou não atingir o Despertar da fruta.
+:
+#### Exemplo de Fruta Preenchida
+
+**Fruta do Mel (Hani Hani no Mi)**  
+**Tipo**: :: Paramecia de Criação  
+**Temática**: :: Permite ao usuário se tornar um Homem-Mel, sendo capaz de criar, manipular e transformar seu corpo em mel pegajoso e endurecido como aço.  
+**Desejo que a criou**: :: O desejo de um cozinheiro que queria conservar a doçura da vida para sempre.
+
+---
+
+### Tipos de Fruta
+
+Existem três categorias principais de Akuma no Mi:
+
+- **Paramecia** – Frutas ligadas à manipulação de conceitos, alterações físicas ou materiais.
+- **Zoan** – Frutas que permitem transformações em animais ou híbridos, concedendo resistência e poder bruto.
+- **Logia** – Frutas elementais que permitem ao usuário transformar-se e manipular um fenômeno natural.
+
+Cada tipo pode conter subtipos, como descrito a seguir:
+
+\column
+
+
+## Paramecia
+
+Paramecias são o tipo mais comum e versátil de Akuma no Mi. Elas fornecem ao usuário uma habilidade que, em sua essência, rompe a lógica física ou conceitual do mundo. Seu verdadeiro potencial é determinado pela criatividade de quem as domina.
+
+
+### Subtipos de Paramecia
+Ao consumir uma **Paramecia**, o usuário imediatamente se conecta a um tipo específico de poder — um **subtipo**. Cada Paramecia pertence a uma dessas categorias, que define a natureza básica de suas habilidades. Os subtipos de Paramecia são: Criação, Alteração Corporal *(Eterna ou Momentânea)*, Controle de Ambiente, Manipulação de Conceito e Paramecia Especial.
+
+#### Paramecia de Criação
+Permite criar e manipular uma substância, material ou estrutura única à fruta.
+
+**Exemplos**:
+
+---
+
+- Fruta do Fio – cria e manipula fios cortantes.
+- Fruta da Barreira – invoca muros indestrutíveis.
+- Fruta do Mel – cria mel sólido ou líquido, podendo usá-lo como armamento, armadura ou armadilha.
+
+> **Habilidades Básicas da Paramecia de Criação**:
+
+##### Criar Material
+**Custo de Uso**: :: 1d4 de Vigor por unidade criada, Ação 
+Efeito: Produz uma quantidade da substância em questão (kg, litros, metros cúbicos), proporcional ao conceito da fruta.  
+_Exemplo_: A Fruta do Mel produz até 8kg de mel por d4, como uma colmeia real. A Fruta do Sangue gera 5L por d4, em referência ao volume sanguíneo humano.
+
+##### Manipular Material
+**Custo de Uso**: :: Varia conforme a complexidade  
+Efeito: Deformar, arremessar, moldar, solidificar ou animar o material criado. O custo é proporcional à quantidade e uso.
+
+---
+
+#### Paramecia de Alteração Corporal
+Algumas frutas não moldam o mundo ao redor — elas moldam o próprio corpo daquele que as come.
+
+As Paramecias de Alteração Corporal concedem ao usuário uma anatomia anômala, com propriedades únicas que desafiam a lógica comum. Em alguns casos, a transformação é tão íntima que se torna parte essencial de quem o usuário é. Em outros, é uma arma ativável, uma couraça viva ou um catalisador de força.
+
+{{pageNumber,auto}}
+\page
+
+Essas frutas dividem-se em dois subtipos:
+
+--- 
+
+- **Alteração Eterna**: O corpo do usuário passa a existir em um novo estado natural. Sua carne, seus ossos e sua essência estão permanentemente alterados, como se tivessem nascido assim. (Ex: Buggy — Homem Separado, cujos membros flutuam como peças soltas de um brinquedo amaldiçoado.)
+
+**Habilidade Básica:**
+
+***Alteração Permanente (Passiva):*** O corpo do usuário possui uma propriedade física ou lógica ligada ao conceito da fruta. Essa alteração não consome vigor e afeta o cotidiano do usuário tanto quanto o combate.
+
+- **Alteração Momentânea:** O corpo se transforma apenas quando desejado, revelando sua verdadeira natureza nos momentos cruciais. Braços tornam-se lâminas, pele vira diamante, punhos se inflamam com força oculta. (Ex: Jozu — Homem Diamante, que converte seu corpo em cristal impenetrável nos instantes de perigo.)
+
+**Habilidade Básica:**
+
+***Transformação Ativa (Complemento ou Ação Bônus):*** O usuário transforma parte ou todo o seu corpo com base no conceito da fruta. O custo em vigor varia de acordo com a intensidade do efeito e a extensão corporal afetada. Transformar apenas os punhos custa menos do que cobrir o corpo inteiro com a habilidade.
+:
+Essas frutas oferecem ao usuário não apenas poder, mas uma identidade. Um novo corpo. Uma nova forma de existir no mundo.
+
+::
+
+#### Paramecia de Controle de Ambiente
+Algumas frutas não afetam apenas o usuário ou o oponente — elas transformam o próprio palco da batalha. Frutas deste subtipo permitem criar zonas de influência moldadas inteiramente pela vontade do usuário, onde o conceito da fruta se torna uma nova realidade.
+
+Dentro dessa área, o mundo passa a seguir regras diferentes, determinadas pela criatividade, estratégia e domínio da fruta. O ar pode se tornar lâminas flutuantes, o chão pode virar um tabuleiro, a gravidade pode ser redesenhada — o ambiente responde como uma extensão do corpo do usuário.
+:
+**Exemplos**:  
+*A Bodo Bodo no Mi (Fruta do Tabuleiro)* – o usuário cria um campo quadriculado onde todas as coisas se comportam como peças de xadrez. Pode invocar torres, cavalos e soldados que obedecem sua estratégia, mover oponentes como peões e travar batalhas de pura tática.  
+*A Ope Ope no Mi (Fruta da Operação)* – permite ao usuário criar uma “sala cirúrgica” esférica onde tem total controle sobre o espaço: teleporta alvos, inverte posições, realiza cortes limpos sem causar dor, ou até transplanta corações com precisão cirúrgica. Dentro da sala, o usuário se torna um deus da anatomia e da estratégia.
+
+
+> Frutas desse tipo exigem mais do que força: pedem visão tática e controle. Para aqueles que dominam sua zona, o campo de batalha se torna um tabuleiro onde só existe um Rei.
+
+::
+
+#### Paramecia de Manipulação de Conceito
+
+Esse é o domínio daqueles que dobram a realidade não com força, mas com simbolismo. As Paramecias de Manipulação de Conceito operam em um plano mais abstrato — elas não apenas afetam o corpo ou o ambiente, mas reescrevem o significado das coisas. Seus efeitos raramente seguem lógica física comum, pois lidam com ideias profundas, instintos humanos ou arquétipos míticos.
+
+Em mãos criativas, esse tipo de fruta pode redefinir as regras do combate, da mente e até da narrativa.
+
+**Exemplos**:  
+
+---
+
+- *Fruta do Amor (Mero Mero no Mi)* – transforma em pedra qualquer um que sucumba ao encanto e desejo pelo usuário. O amor se torna uma maldição que petrifica.
+- *Fruta do Hormônio (Horu Horu no Mi)* – manipula hormônios que afetam o corpo, o humor, o gênero e a força vital dos alvos com uma precisão quase médica.
+- *Fruta do Castelo (Shiro Shiro no Mi)* – transforma o próprio corpo em uma fortaleza viva, contendo cômodos, estruturas e até soldados miniaturizados em seu interior.
+
+Ao consumir uma dessas frutas, o usuário se torna uma manifestação viva do conceito. Ele não apenas *usa* o amor, o medo, o tempo ou o castelo — ele *é* aquilo.
+
+Frutas assim tendem a oferecer múltiplos efeitos ligados a um mesmo tema e até mito relacionado. Sua verdadeira força, porém, só se revela para aqueles que conseguem interpretar seu conceito com profundidade, e aplicá-lo com ousadia.
+
+::
+
+#### **Paramecia Especial**
+Combina dois ou mais subtipos, sendo consideradas de raridade equivalente a uma Logia ou Zoan Mítica.
+
+**Exemplo**:
+Fruta do Mochi – Criação (gera mochi) + Alteração Corporal (torna-se mochi).
+
+{{pageNumber,auto}}
+\page
+
+## Zoan
+As Zoan canalizam a força primordial da vida. Aqueles que as consomem tornam-se híbridos entre homem e fera — herdam instintos selvagens, músculos enrijecidos e sentidos aguçados. Ao contrário de outros tipos de frutas, que concedem poderes abstratos ou elementais, uma Zoan transforma o corpo e o espírito do usuário em um novo ser.
+
+Não se trata apenas de mudar de forma. O usuário de uma Zoan **vive a fera** que carrega dentro de si.
+
+:
+
+### Vantagens Iniciais
+
+Ao comer uma Zoan, o personagem recebe benefícios imediatos, que crescem com seu domínio sobre a fruta:
+
+- **+1 em Resiliência** imediatamente, e mais +1 a cada 2 níveis da fruta.  
+- **+2 em atributos principais**, dependendo do tipo de criatura:
+
+| Origem da Fera | Bônus de Atributo                          |
+|----------------|--------------------------------------------|
+| Carnívoro      | +1 Força, +1 Raciocínio                    |
+| Herbívoro      | +1 Velocidade, +1 Conhecimento             |
+| Mítica         | +2 Destino                                 |
+| Ancestral      | +2 em dois atributos à escolha             |
+
+- **+X Dados de Reserva extras** para Vida ou Vigor (X = nível da fruta).
+- **Descansos com vantagem** nos dados de reserva de Vida e Vigor.
+- **Acesso a duas habilidades básicas**:
+  - **Forma Híbrida**  
+  - **Forma Animal**
+
+---
+
+### As Formas da Fera
+
+Toda Zoan oferece ao usuário **três estágios de transformação**:
+
+- **Forma Natural**: a forma natural do personagem.
+- **Forma Híbrida**: um meio-termo entre homem e besta, misturando raciocínio e brutalidade.
+- **Forma Animal Completa**: uma imersão total na criatura da fruta.
+
+Com treinamento e criatividade, formas alternativas podem ser desbloqueadas — membros extras, aumentos de escala, ou mesmo transformações parciais como garras e olhos.
+
+:
+
+#### Custos e Escalas
+
+| Tipo da Zoan | Forma Animal | Forma Híbrida | Efeitos Notáveis |
+|--------------|----------------------|------------------------|------------------|
+| **Normal**   | 1d4 por turno | 1d6 por turno          | Garras, sentidos aguçados, força ampliada, entre outros |
+| **Ancestral**| 1d8 por turno | 1d8 por turno          | O usuário inventa livremente os hábitos e poderes do animal extinto |
+| **Mítica**   | 1d10 por turno | 1d8 por turno          | Ganha poderes extras de outro tipo de fruta conforme a mitologia da criatura |
+
+A cada **5 níveis da fruta**, o custo de transformação **reduz uma escala de dado**.  
+Ao atingir o **Despertar**, reduz-se mais uma vez.
+
+> *Exemplo*: Um usuário com Zoan Mítica nível 10 reduziria 1d10 → 1d8 → 1d6 em sua forma animal.
+
+---
+
+### Zoan Ancestral  
+Permite ao usuário transformar-se em uma criatura extinta. Como tais animais não existem no presente, o jogador possui **total liberdade narrativa** para definir os hábitos, comportamento e habilidades especiais da criatura. Essa liberdade é compensada por um custo de vigor mais alto. Zoans Ancestrais são raras, misteriosas e evocam ecos de uma era esquecida.
+
+Usuários de Zoan ancestral podem usar quantos dados quiser de suas reservas em qualquer descanso e recuperam o dobro de Exaustão. 
+
+---
+
+### Zoan Mítica  
+Baseadas em **seres lendários**, essas Zoans são as mais poderosas do tipo. Além das formas clássicas, concedem ao usuário **poderes adicionais normalmente vistos em outros tipos de fruta**, como:
+
+- **Manipulação de elementos** (chamas, relâmpagos, névoas)
+- **Curas milagrosas**
+- **Efeitos simbólicos e metafísicos** ligados ao mito da criatura (ex: veneno de serpente divina, domínio do céu ou submundo)
+
+Zoans Míticas são tão raras que sua aparição muitas vezes marca a história.
+
+---
+
+### Transformar-se é só o Começo
+
+Uma Zoan verdadeira não é apenas um animal em forma humana. Ela molda o temperamento, os hábitos, os gestos e até o olhar do personagem.  
+Durante o combate, a transformação deve ser mais do que estatística: **é um momento dramático, selvagem e narrativo**.  
+
+Dominar uma Zoan exige mais que força — exige **reconhecer e aceitar a fera que existe em você.**
+
+\page
+
+## Logia
+As Logias conectam o usuário à essência pura de um elemento natural. Ao consumir uma dessas frutas, o corpo do usuário se funde com a substância, apagando os limites entre carne e fenômeno.
+
+Não é apenas um poder — é uma metamorfose. Um logia não manipula o fogo, *ele é o fogo*. Deixam de existir como seres convencionais e tornam-se brisa, relâmpago, maré, fumaça, gelo, magma, luz. Os ataques que antes ameaçavam sua carne agora atravessam um corpo volátil e intocável.
+
+---
+
+#### Habilidades Iniciais de Toda Logia
+Similar as Paramecias de Criação, um Logia tem acesso a Habilidade de Criação e Manipulação na mesma proporção, além da capacidade de se transformar no elemento.
+
+- **Criação Elemental:** Gera livremente o seu elemento a partir do próprio corpo.
+- **Transformação Elemental:** Pode transformar o corpo em seu elemento, recebendo suas propriedades e ganhando *intangibilidade* contra ataques físicos e convencionais.
+- **Manipulação:** Controla grandes quantidades do elemento ao seu redor, podendo moldar o ambiente, bloquear caminhos, sufocar alvos ou desencadear desastres.
+
+---
+
+### Intangibilidade: A Marca das Logias
+
+No coração das frutas do tipo Logia está o dom da **intangibilidade** — a capacidade de tornar o corpo completamente imune a ataques físicos ao assumir forma elementar.
+
+Porém, dominar esse poder exige tempo e competência. Nos primeiros usos, o usuário deve se concentrar, reagir rapidamente e gastar vigor. Mas com o domínio, esse efeito se torna constante, instintivo, inabalável.
+
+##### Escalonamento da Intangibilidade (por Competência)
+
+| Competência | Efeito de Intangibilidade                                     |
+|-------------|---------------------------------------------------------------|
+| **Nível 1** | Reação, Custo alto (*Xd4 + X* de Vigor), duração até o início do próximo turno. |
+| **Nível 2** | Reação, custo médio (*Xd4* de Vigor), mesmo efeito. |
+| **Nível 3** | Reação, custo baixo (*X/2 d4*), maior confiabilidade. |
+| **Nível 4** | Foco + Reação, custo leve (*X/2 d2*), sustenta-se enquanto o foco for mantido. |
+| **Nível 5** | Sempre ativo. O corpo se mantém em estado elemental constante. Apenas *Haki* e fraquezas naturais podem feri-lo. |
+
+---
+
+#### Detalhamento por Nível de Competência
+
+##### Intangibilidade (Competência 1)
+**Custo de Uso:** :: *Xd4 + X* de Vigor (onde *X* é o nível de Classe)  
+**Tipo de Ação:** :: Reação, requer Foco  
+**Efeito:** Torna-se intangível até o início do próximo turno. O corpo se desmaterializa em seu elemento.  
+*Fraquezas como Haki ou elementos opostos ainda causam dano normalmente.*
+
+##### Intangibilidade (Competência 2)
+**Custo de Uso:** :: *Xd4* de Vigor  
+**Tipo de Ação:** :: Reação  
+**Efeito:** Mesmo que o nível 1, mas com custo menor e sem necessidade de foco.  
+*Fraquezas continuam eficazes.*
+
+##### Intangibilidade (Competência 3)
+**Custo de Uso:** :: *X/2 d4* de Vigor  
+**Tipo de Ação:** :: Reação  
+**Efeito:** O efeito permanece o mesmo, mas o custo agora é significativamente mais leve.  
+*Ideal para defesas rápidas consecutivas.*
+
+##### Intangibilidade (Competência 4)
+**Custo de Uso:** :: *X/2 d2* de Vigor  
+**Tipo de Ação:** :: Foco contínuo + Reação  
+**Efeito:** Enquanto o foco for mantido, o usuário se mantém intangível.  
+*Requer concentração e energia leve.*
+
+##### Intangibilidade (Competência 5)
+**Efeito Permanente:**  
+Não há custo. A forma elemental é o novo estado base do usuário.  
+Ataques físicos atravessam o corpo como vento. Apenas Haki ou elementos de fraqueza podem afetá-lo.
+
+---
+
+### Personificação Elementar
+Ser um usuário de Logia é caminhar entre mundos — o mundo da matéria e o das forças naturais. Em combate, são catástrofes ambulantes. Fora dele, podem moldar climas, abrir caminhos e devastar terrenos.  
+
+Mas nem tudo é invencível: Haki, planejamento e fraquezas elementais garantem que mesmo um Logia precise de estratégia e disciplina para vencer.
+
+
+\page
+
+## Considerações Sobre as Frutas do Diabo
+
+- O **tipo e subtipo** de uma fruta definem suas **habilidades básicas** iniciais — que são automaticamente desbloqueadas ao consumi-la.
+- O **Despertar** ocorre quando o usuário atinge o **nível 10 da fruta** e **se alinha com o desejo que a criou**, revelando o verdadeiro potencial do poder e desbloqueando novas formas de uso.
+- Jogadores e mestres são **encorajados a criar frutas originais** com base nos modelos e exemplos apresentados neste guia.
+- O **equilíbrio do sistema** não depende apenas dos números, mas do contexto, da forma como as habilidades são utilizadas e do papel que cada personagem exerce na narrativa.
+- Frutas poderosas requerem **criatividade, estratégia e risco**. A versatilidade é uma arma — mas também um convite à ousadia.
+- O verdadeiro limite de uma Akuma no Mi é a **imaginação do personagem que a domina**.
+- Exemplos prontos de Akumas no Mi originais estão disponíveis nos **apêndices do sistema** para consulta e inspiração.
+
+
+## Despertar
+*Versão 3.0 ...*
+
+{{pageNumber,auto}}
+\page
+
 # Apêndices
 
 ## Treino
@@ -4327,88 +4650,481 @@ Terminar um descanso longo reduz o nível de exaustão de uma criatura em um val
 {{pageNumber,auto}}
 \page
 
-## Ficha de Personagem
+## Exemplos de Frutas do Diabo
+Uma lista extensa de exemplos com Akumas no Mi criadas diretamente para A Vontade dos Mares.
 
-## Ficha do Barco
+:
+### Kusa Kusa no Mi — Fruta da Grama
+
+**Tipo:** :: Logia
+**Aparência:** :: Uma fruta alongada com casca verde vibrante e espirais em forma de folhas enroladas. Seu cheiro lembra terra molhada e relva fresca.
+
+**Temática:** :: Permite ao usuário se tornar um *Humano-Grama*, podendo criar, manipular e se transformar no elemento grama. Essa grama é espessa, viva e pode ser endurecida como ferro ou espalhada como musgo invasivo. A fruta oferece um domínio absoluto sobre a vegetação rasteira — capaz de encobrir terrenos, enraizar inimigos ou criar lanças e redes a partir do solo.  
+
+**Desejo que a criou:** :: O desejo de um guerreiro camponês que sonhava com um mundo onde a terra fértil engolisse os impérios de pedra.
+
+---
+
+#### Habilidades da Kusa Kusa no Mi
+
+##### Corpo Natural  
+**Tipo:** :: Passiva  
+O corpo do usuário é feito de fibras vegetais vivas. Ele se torna **imune a venenos, esporos e toxinas**, mas adquire **fraqueza contra fogo** — sofrendo +1 escala de dano de fontes flamejantes.
+
+##### Criar Grama  
+**Custo de Uso:** :: Xd4 de Vigor | Ação ou Complemento  
+Cria até **X m² de grama espessa e viva**. A grama pode ser rasteira, emaranhada ou crescer como vinhas densas. Cada m² pode ser tão resistente quanto ferro comum, e pode ser moldado posteriormente. Pode ser usada como armadilha, plataforma ou cobertura.
+
+##### Manipular Grama  
+**Custo de Uso:** :: Variável | Ação ou Ação Bônus  
+O usuário pode mover, torcer e erguer a grama criada em tempo real. Pode usá-la para prender, empurrar, erguer barreiras, criar pontes ou formar armas vegetais.  
+- Prender: Salvaguarda de Destreza (CD = 10 + Maestria) para não ficar contido.  
+- Lançar: Alcance médio (10m), 2d6 de dano concussivo ou perfurante.  
+- Formação defensiva: Concede +2 CA em uma direção, dura 1 turno.  
+
+##### Transformação em Grama  
+**Custo de Uso:** :: Escalável com Competência | Reação ou Ação Bônus  
+O usuário pode transformar parcial ou totalmente seu corpo em fibras vegetais, se dispersando como relva solta ou se fundindo ao solo. Este é o núcleo da **intangibilidade Logia**, escalonada conforme a tabela abaixo:
+
+| Competência | Efeito de Intangibilidade                                     |
+|-------------|---------------------------------------------------------------|
+| **Nível 1** | Reação, Custo alto (*Xd4 + X*), dura até o início do próximo turno |
+| **Nível 2** | Reação, custo médio (*Xd4*), mesmo efeito                      |
+| **Nível 3** | Reação, custo baixo (*X/2 d4*), ativação confiável             |
+| **Nível 4** | Foco + Reação, custo leve (*X/2 d2*), mantida com Foco         |
+| **Nível 5** | Sempre ativa, exceto contra Haki e ataques flamejantes        |
+
+Durante a transformação, o corpo pode se misturar com superfícies naturais (solo, parede de pedra, madeira), ocultando a presença do usuário. Em terrenos com vegetação ou com grama própria, o usuário pode **viajar furtivamente** de um ponto a outro como se fosse parte do ambiente.
+
+> **Nota Especial:** A grama criada pela fruta **não é combustível natural** e só pode ser queimada com fogo intenso ou contínuo. Ainda assim, ataques flamejantes sempre ignoram sua resistência, o que força o jogador a pensar taticamente.
+
+{{pageNumber,auto}}
+\page
+
+### Tsu no Tsu no Mi — Fruta dos Chifres
+
+**Tipo:** :: Paramecia de Criação  
+**Aparência:** :: Uma fruta alongada com textura espinhosa e saliências rígidas que se assemelham a galhadas. Seu casco é branco-acinzentado com espirais douradas e cheiro de madeira queimada.
+
+**Temática:** :: O usuário dessa fruta torna-se um *Homem-Chifre*, capaz de criar e manipular **dois tipos distintos de chifres**:  
+- **Cornos**: ocos, resistentes, de longa duração e formatos rígidos.  
+- **Galhadas**: ramificadas, de crescimento rápido, altamente flexíveis e maleáveis, porém frágeis.  
+
+Essas estruturas podem surgir a partir do próprio corpo ou de superfícies inorgânicas tocadas com as mãos, ganhando usos ofensivos, defensivos e até sensoriais. A Tsu no Tsu no Mi é uma fruta versátil — perfeita para emboscadas, duelos territoriais e controle de campo.
+
+**Desejo que a criou:** :: O desejo de um cervo ancestral que morreu resistindo sozinho à destruição de sua floresta, ansiando por transformar sua proteção natural em armas.
+
+---
+
+#### Habilidades da Horn Horn no Mi
+
+##### Criar Chifre (Cornos ou Galhadas)
+**Custo de Uso:** :: 1d4 a 3d4 | Ação ou Complemento  
+Cria estruturas simples ou ornamentadas, com durabilidade proporcional ao tipo.
+
+##### Manipular Chifre
+**Custo de Uso:** :: variável | Ação  
+Dobra, molda, expande ou fragmenta chifres já criados.
+
+##### Investida de Cornos  
+**Custo de Uso:** :: 2d4 de Vigor | Ação + Movimento  
+Cria um par de cornos em sua cabeça e investe 5m em linha reta. Alvos atingidos fazem uma Salvaguarda de Destreza ou Força. Em caso de Sucesso: recebem 1d10 de dano e são deslocados 1m. Em caso de Falha: recebem 2d10 de dano, são empurrados 5m e caem no chão.
+
+##### Arremesso de Chifres  
+**Custo de Uso:** :: 1d6 por chifre | Ação  
+**Alcance:** :: 15m.  
+Cria e lança 1 ou mais cornos ocos e pontiagudos como projéteis.  Causa 2d8 de dano perfurante por chifre.  
+Chifres podem cravar-se em superfícies sólidas como obstáculos improvisados.
+
+##### Galhada Flexível  
+**Custo de Uso:** :: 2d4 de Vigor | Complemento  
+Cria uma galhada viva e flexível de até 6m de extensão.  
+
+---
+
+- Pode ser usada como chicote (1d8 de dano + efeito de agarrão).  
+- Pode agarrar objetos ou puxar alvos com uma Salvaguarda de Força.
+
+##### Escudo de Chifres  
+**Custo de Uso:** :: 1d4 de Vigor | Ação Bônus ou Reação
+Cria um escudo rígido de cornos que concede **+X de CA** por 1 turno, sendo X igual ao nível de Fruta. Pode ser moldado para cobrir áreas maiores (cone ou cúpula) ao custo de mais 1d6 de Vigor.
+
+##### Camuflagem Ramificada  
+**Custo de Uso:** :: 3d4 de Vigor | Ação + Foco  
+Cria galhadas finas e translúcidas que se moldam ao ambiente. Concede vantagem em testes de Furtividade por 3 turnos. O efeito é anulado se o usuário se mover ou atacar sem recobrir-se.
+
+##### Amplificação Sensorial  
+**Custo de Uso:** :: 1d4 de Vigor | Ação + Foco
+Cria uma dessas estruturas sensoriais especializadas:  
+
+---
+
+- **Chifre Grande no Ouvido:** Ouve até 30m ignorando cobertura parcial.
+- **Binóculos de Galhada:** Visão noturna ou raio X limitado (paredes finas)  
+- **Galhada Sensível a Odor:** detecta inimigos ocultos em até 40m  
+Efeito dura até 3 turnos ou até ser desativado.
+
+---
+
+##### Obstáculos de Chifre  
+**Custo de Uso:** :: 3d4 de Vigor | Ação Completa  
+Cria até 4 cornos ocos emergindo do chão ou paredes ao redor, dificultando movimentação inimiga.  
+- Cada obstáculo cobre 1.5m².  
+- Inimigos que tentarem atravessar fazem uma Salvaguarda de Destreza ou Velocidade para evitar 2d6 de dano e ficarem Contidos.
+
+---
+
+> **Nota Estratégica:** Combinar cornos para defesa e galhadas para manipulação dá ao usuário uma das melhores ferramentas de controle de campo entre as Paramecias de Criação.
 
 
 {{pageNumber,auto}}
 \page
 
-## Akumas no Mi
-Frutas do diabo.
+### Hani Hani no Mi — Fruta do Mel
+
+**Tipo:** :: Paramecia Especial — Criação + Alteração Corporal Momentânea  
+**Aparência:** :: Uma fruta bulbosa, dourada e translúcida como âmbar, coberta por espirais em forma de colmeia. Seu cheiro adocicado atrai insetos mesmo antes de ser tocada.
+
+**Temática:** :: O usuário desta fruta torna-se um *Homem-Mel*, capaz de criar, manipular e transformar seu corpo em um mel espesso, pegajoso e com propriedades únicas. O mel pode ser moldado como aço endurecido ou dispersado como um pólen fino. Essa versatilidade concede ao usuário um leque tático que vai da contenção à proteção, da armadilha à debilitação inimiga.
+
+**Desejo que a criou:** :: O desejo de um cozinheiro que queria conservar a doçura da vida para sempre, mesmo em tempos de guerra.
+
+---
+
+#### Habilidades da Hani Hani no Mi
+
+##### Criar Mel  
+**Custo de Uso:** :: 1d4 por unidade | Ação  
+Cria 8kg de mel espesso por dado de vigor. O mel é denso, levemente ácido e extremamente pegajoso.
+
+##### Manipular Mel  
+**Custo de Uso:** :: Variável | Ação  
+Molda o mel criado para formar barreiras, tentáculos, formas sólidas ou líquidas. O custo depende da quantidade e complexidade da ação.
 
 ::
 
-### Zoans
+##### Favo de Mel  
+**Custo de Uso:** :: 1d6 de Vigor | Ação ou Reação  
+Endurece instantaneamente o mel, formando uma camada resistente com textura de favo. Pode ser usada como armadura parcial ou escudo.  
+- **Efeito:** +2 CA até o início do próximo turno.  
+- Pode ser moldado em placas móveis, paredes ou grilhões.
 
-#### Normal
-#### Ancestral
-#### Mítica
+##### Jogar Pólen  
+**Custo de Uso:** :: 1d8 de Vigor | Ação Completa  
+Espalha uma nuvem de pólen adocicado e aderente num raio de 6m ao redor do usuário.  
+- Inimigos devem fazer uma Salvaguarda de Resistência (CD 10 + Maestria).  
+- **Falha:** recebem 2 Marcadores de Melado.  
+- **Sucesso:** recebem 1 marcador.
 
-##### Forma Híbrida
-##### Forma Animal
-##### Aumento do Custo de Treino
+##### Transformação Parcial  
+**Custo de Uso:** :: 1d6 de Vigor | Ação Bônus  
+Transforma braços ou pernas em mel sólido, moldável ou fluido.  
+- Braços: estendem 2m, ignoram armaduras leves.  
+- Pernas: criam propulsão e permitem +5m de deslocamento.  
+- Dura 2 turnos.
 
-### Paramecias
+---
 
-#### Tipos
+#### Marcadores de Melado
 
-Criação:
-Alteração Corporal:
-Manipulação de Ambiente:
-Manipulação de Conceito:
+Sempre que uma habilidade aplicar **Melado**, o alvo recebe **Marcadores** — acúmulos de mel em seu corpo que dificultam movimentação, ações e defesa.
 
-\column
+| Ação usada para se limpar           | Marcadores Removidos |
+|----------------------|----------------------|
+| Ação                 | Remove até 2         |
+| Complemento          | Remove até 1         |
+| Não agir             | Nenhum removido      |
 
-### Logias
+#### Efeitos Acumulativos:
 
-#### Intangibilidade
+- **1 a 4 Marcadores**:  
+  - -1 em todas as jogadas de d20  
+  - -1 em Resistência e Agilidade
 
-Usuários inexperientes de Logia precisam estar constantemente concentrados para transformar seu corpo em elemento, tornando-se intangíveis.  
-À medida que a competência aumenta, o uso da intangibilidade se torna tão natural quanto respirar.
+- **5 Marcadores**:  
+  - Incapaz de usar Reações
 
-##### Intangibilidade (Competência 1):
-**Custo de Uso:** :: Xd4 + X de Vigor onde X é igual ao nível de Classe, Reação, Foco
-Você se torna intangível a todo tipo de dano até o início do seu próximo turno.
-Golpes com haki ou de elementos opostos (fraquezas) ainda causam dano normalmente.
+- **6 Marcadores**:  
+  - Desvantagem em jogadas de acerto e Salvaguardas
 
-##### Intangibilidade (Competência 2):
-**Custo de Uso:** :: Xd4 de Vigor onde X é igual ao nível de Classe, Reação 
-Você se torna intangível a todo tipo de dano até o início do seu próximo turno.
-Golpes com haki ou de elementos opostos (fraquezas) ainda causam dano normalmente.
+- **7 Marcadores**:  
+  - **Paralisado pelo Mel**  
+  - No final de cada turno, faz uma Salvaguarda de Força (CD 14) para se libertar.  
 
-##### Intangibilidade (Competência 3):
-**Custo de Uso:** :: X/2 d4 de Vigor onde X é igual ao nível de Classe, Reação 
-Você se torna intangível a todo tipo de dano até o início do seu próximo turno.
-Golpes com haki ou de elementos opostos (fraquezas) ainda causam dano normalmente.
+> Marcadores são removidos individualmente e permanecem entre turnos. Combinações com o pólen e a manipulação estratégica do campo tornam esta uma das frutas mais perigosas para oponentes que dependem de mobilidade ou esquiva.
 
-##### Intangibilidade (Competência 4):
-**Custo de Uso:** ::  X/2 d2 de Vigor onde X é igual ao nível de Classe, Reação, Foco 
-Você se torna intangível a todo tipo de dano enquanto você mantiver o foco.
-Golpes com haki ou de elementos opostos (fraquezas) ainda causam dano normalmente.
+:
 
-##### Intangibilidade (Competência 5):
-Sempre Ativo!  
-Seu corpo se encontra em estado constante de fluidez elemental.  
-Apenas *Haki* ou elementos de fraqueza podem atingi-lo com eficácia.
+> **Nota Narrativa:** Em campo, o mel não é apenas arma — é presença. Enrosca, prende, endurece. Um oponente coberto de mel luta contra o próprio peso. Uma parede de favo pode salvar uma vida. E uma nuvem dourada pode virar o fim de uma luta antes que ela comece.
+
+{{pageNumber,auto}}
+\page
+
+### Bari Bari no Mi — Fruta da Barreira
+
+**Tipo:** :: Paramecia de Manipulação de Conceito  
+**Aparência:** :: Uma fruta oval azul-esverdeada com casca semelhante a vidro. Suas espirais internas refletem a luz como prismas, lembrando superfícies de cristal.
+
+**Temática:** :: O usuário desta fruta se torna um *Homem-Barreira*, capaz de criar paredes invisíveis ou translúcidas de pura resistência. Estas barreiras são quase intransponíveis, servindo tanto como defesa quanto como projéteis ofensivos. Embora apenas uma barreira possa existir por vez, suas aplicações são inúmeras — da defesa total ao arremesso destrutivo.
+
+**Desejo que a criou:** :: *Desconhecido...*
+
+:
+#### Propriedades e Regras Especiais
+
+- **Barreiras são quase indestrutíveis.**  
+- Podem ser **invisíveis** ou **semi-transparentes** (cor definida pelo usuário).  
+- Não bloqueiam sons ou ondas de choque (mas sim *Karatê Tritão*).  
+- Inimigos que atacarem desarmados e sem Haki recebem **metade do dano causado** de volta.  
+- **Foco é necessário** para manter a barreira ativa.  
+- **Apenas uma barreira pode existir por vez.**
+
+
+##### Escalas de Tamanho da Barreira
+| Área Máxima    | Custo de Vigor      | Requisito                      |
+|----------------|---------------------|--------------------------------|
+| Até 2m²        | 1                   | —                              |
+| Até 4m²        | 1d4                 | —                              |
+| Até 8m²        | 4d4                 | —                              |
+| Até 16m²       | 8d8                 | Competência 2                  |
+| Até 32m²       | 32d8                | Competência 3                  |
+| Até 64m²       | 50d20               | DESPERTAR                     |
+
+**Vida da Barreira:** :: 100 × Nível da Fruta  
+
+:
+#### Habilidades da Bari Bari no Mi
+
+##### Barreira Invisível  
+**Pré-Requisito:** :: 1 mão livre  
+**Custo:** :: 4d4 de Vigor + Tamanho, Complemento ou Reação  
+Cria uma barreira invisível fina a até 1m de distância. Possui **metade da Vida Base**.  
+Pode ser fortificada para se tornar uma Barreira Sólida com **metade do custo novamente** e 1 Complemento adicional.
+
+##### Barrier (Barreira Sólida)  
+**Pré-Requisito:** :: 1 mão livre  
+**Custo:** :: 4d6 + Tamanho, Ação  
+Cria uma barreira semi-transparente em formato retangular a até 1m.  
+Serve como defesa, cobertura ou plataforma.
+
+##### Barrier Crash  
+**Pré-Requisito:** :: Uma barreira ativa  
+**Custo:** :: 2d6 de Vigor, Complemento  
+Arremessa a barreira em linha reta por até **10m + Deslocamento**, desfazendo-a ao final.  
+Faça um teste de acerto (**Força ou Destreza + Nível de Fruta**)  
+**Dano:** 1d10 × Nível da Fruta + (Força ou Destreza)
+
+##### Barrier Bulls  
+**Pré-Requisito:** :: Uma barreira ativa + 2 mãos livres  
+**Custo:** :: 2d6 de Vigor, Complemento + Movimento  
+Move a barreira com força, avançando até +10m com o usuário atrás.  
+Inimigos fazem Salvaguarda de Destreza ou Resiliência:  
+
+---
+
+- **Falha:** 2d10 + Mod. (Força ou Destreza) + 1d10 × Nível da Fruta e são arremessados para os lados  
+- **Sucesso:** Tomam metade do dano
+
+##### Barreira Semi-Completa  
+**Pré-Requisito:** :: 2 mãos livres + Competência 2  
+**Custo:** :: 5d4 de Vigor + Tamanho, Ação Completa  
+Cria uma barreira **em cúpula parcial** cobrindo área de até 180º, com o **dobro da Vida Base**.
+
+##### Barreira Completa  
+**Pré-Requisito:** :: 2 mãos livres + Competência 2  
+**Custo:** :: 8d4 de Vigor + Tamanho, Ação Completa  
+Cria uma barreira **em esfera completa** envolvendo o usuário, com o **dobro da Vida Base**.
+
+##### Mover Barreira  
+**Custo:** :: 1 de Vigor, Ação Bônus ou Reação  
+Move sua barreira ativa lentamente até **10m de distância** em linha reta.
+
+##### Moldar  
+**Pré-Requisito:** :: Uma barreira ativa + 1 ou 2 mãos livres  
+**Custo:** :: Tamanho atual, Ação Bônus  
+Permite moldar a barreira em outra forma geométrica: pirâmide, escada, espinho, plano inclinado etc.
+
+##### Restituir  
+**Pré-Requisito:** :: Uma barreira ativa + 1 ou 2 mãos livres  
+**Custo:** :: Metade do Custo original + Metade do Tamanho, Complemento  
+Restaura a vida da barreira ativa até o valor total da sua Vida Base. Pode ser usada a qualquer momento, enquanto a barreira ainda existir.
+
 
 
 {{pageNumber,auto}}
 \page
 
-## Frutas Autorais
+### Bodo Bodo no Mi — Fruta do Tabuleiro
+**Tipo:** :: Paramecia de Controle de Ambiente  
+**Aparência:** :: Uma romã grande, com espirais que se formam em ângulos retos, como labirintos, alternando entre as cores branco e preto.
 
-### Fruta do Chifre
-#### (Horn Horn no Mi)
-___
-**Tipo** :: Paramecia De Criação
-___
+**Temática:** :: Permite ao usuário se tornar um *Homem Manipulador de Tabuleiro*. Ele pode criar campos quadriculados que se comportam como tabuleiros de xadrez (ou shogi, se for nativo de Wano), controlando peças, estruturas e o espaço ao seu redor. Dentro dessa zona, tudo o que é tocado pelo usuário pode se tornar parte do jogo — aliado ou inimigo. O usuário invoca peças estratégicas e manipula a geometria da batalha com inteligência tática.
 
-#### Temática
-**O usuário** desta fruta é capaz de criar Chifres *(cornos e vasculares)* a partir do seu corpo ou de superfícies inorgânicas em que toque com suas mãos e então manipulá-los, tornando-se assim um ***"Homem Chifre"***. 
+**Desejo que a criou:** :: Um desejo de dominar todos os conflitos como se fossem partidas de xadrez — previsíveis, controláveis e elegantes.
 
-Existem os chifres ocos e resistêntes de longa duração e limitação em formato  (cornos) & as galhadas com rápido crescismento, duração, maleabilidade mas pouca resistência/duração.
+> Esta fruta é temida por sua dificuldade de uso. Estratégica e simbólica, ela exige inteligência, foco e visão. Um movimento mal feito pode ser fatal. 
+
+---
+
+#### Habilidades da Bodo Bodo no Mi
+
+##### Chess  
+**Custo de Uso:** :: Xd4 de Vigor | Ação  
+Cria uma zona quadriculada no chão com alcance variável *(10m² p/ d4 de Vigor)*. O campo transforma o solo em um tabuleiro vivo. Peças invocadas e efeitos de outras habilidades só funcionam enquanto o campo estiver ativo.
+
+##### Square Chess  
+**Custo de Uso:** :: 3d6 de Vigor | Ação  
+Cria uma versão cúbica do Chess, envolvendo o usuário e todos ao redor. As peças aliadas podem andar pelas paredes e teto da estrutura. Inimigos que tentam atravessar a borda levam 3d8 de dano elétrico se falharem em uma Salvaguarda de Resiliência ou Vontade.
+
+##### Cavaleiro Peão  
+**Custo de Uso:** :: 2d6 de Vigor | Ação  
+Invoca um soldado peão com 15 PV, ataque com 1d8+2 de dano, e movimento em linha reta. Ele ataca inimigos próximos, servindo como guarda ou batedor. Dura até ser destruído.
+
+##### Torre de Defesa  
+**Custo de Uso:** :: 3d4 de Vigor | Ação  
+Invoca uma torre fortificada que pode bloquear áreas (CA 18, 25 PV). Opcionalmente, pode ser arremessada causando 3d10 de dano em linha reta. 
+
+##### Roque  
+**Custo de Uso:** :: 1d4 de Vigor | Ação bônus ou Reação  
+Troca de posição com uma torre aliada em linha reta. Pode ser usado para esquiva, defesa ou reposicionamento tático.
+
+##### Bispo Sagrado  
+**Custo de Uso:** :: 3d4 de Vigor | Ação  
+Invoca um sacerdote com CA 12 e 30 de Vida que cura 2d6+Maestria de PV por turno e ignora obstáculos ao mover-se em diagonal. 
+
+##### Xeque-Mate  
+**Custo de Uso:** :: 4d8 de Vigor | Ação Completa (requer condição)  
+Se um inimigo estiver cercado por 3 ou mais peças aliadas, todos os ataques contra ele têm acerto automático e causam dano crítico (ignora esquiva). Só pode ser usado uma vez por descanso.
+
+> **Nota especial:** Caso o usuário seja de Wano, a fruta adapta seus efeitos para o estilo de jogo *Shogi* em vez de xadrez. Isso altera a estética e o nome das peças, mas não os efeitos mecânicos.
+
+
+{{pageNumber,auto}}
+\page
+
+### Kiri Kiri no Mi — Fruta do Banquete
+
+**Tipo:** :: Paramecia Especial — Manipulação de Conceito e Controle de Ambiente  
+**Aparência:** :: Uma fruta retorcida, com gomos vermelhos e verdes que lembram fatias de carne grelhada e casca que libera vapor quente. Espirais queimadas se formam em sua superfície.
+
+**Temática:** :: O usuário dessa fruta torna-se um *Humano Preparador de Banquetes*, capaz de realizar cortes brutais com precisão cirúrgica e liberar calor intenso como uma fornalha rústica. Ele transforma a luta em um processo de cozimento cruel — seus inimigos são tratados como ingredientes, e a arena se torna sua cozinha. 
+
+**Desejo que a criou:** :: Um sobrevivente faminto de um massacre, cujo único desejo era cortar, caçar e devorar com fúria primitiva. Sua obsessão por preparar carne, mesmo sem requinte, moldou essa fruta.
+
+---
+
+#### Habilidades da Kiri Kiri no Mi
+
+##### Desmantelar
+**Custo de Uso:** ::
+- Ação Completa: 3d4 de Vigor → Causa 3d6 + Força (ou Destreza) de dano cortante
+- Complemento: 2d4 de Vigor → 2d6 + modificador
+- Ação Bônus: 1d4 de Vigor → 1d6 + modificador  
+**Alcance:** :: 5m p/ Nível de Fruta
+
+Projeta uma onda de corte afiada e semi-transparente à frente. Faz uma jogada de ataque com Força ou Destreza + Competência da fruta. A lâmina corta o ar como se fosse carne.
+
+##### Clivar
+**Custo de Uso:** :: 2d6 de Vigor, Conjunto à ação de ataque  
+**Efeito:** :: 2d8 + Força de dano perfurante. Se o alvo for de carne, metade do dano causa **Ferimento**.  
+Ao atingir um ponto vital, o corte penetra profundamente, como se estivesse “abrindo o corte para preparo”.
+
+##### Abra — Chama Divina
+**Pré-requisitos:** :: Ter usado *Desmantelar* e *Clivar* no combate atual  
+**Custo de Uso:** :: 4d12 de Vigor, Ação Completa  
+Cria uma flecha flamejante de intenção culinária divina. Faz uma jogada de ataque à distância com modificador **X** (à escolha do jogador), onde X é o nível de fruta.
+
+---
+
+- Se o alvo já foi atingido por *Desmantelar* e *Clivar*, ignora distância.  
+- Em caso de acerto, o alvo recebe **2d6 + X de dano de fogo** e fica **Chamuscado por 2d6 turnos**.
+- A flecha explode em uma área de 10m². Todos na área realizam Salvaguarda de Destreza:
+  - **Falha:** 4d6 de dano + Chamuscado por 2d6 turnos (3d6 se já estiver chamuscado)
+  - **Sucesso:** Metade do dano, sem condição adicional
+
+---
+
+##### Tempero Mortal
+**Custo de Uso:** :: 2d6 de Vigor, Complemento
+Espalha um pó de especiarias ocultas que age como substância irritante. Inimigos próximos realizam Salvaguarda de Resiliência ou Vitalidade ou sofrem:
+
+---
+
+- 1d6 de dano interno + **Desvantagem** em ataques por 1 turno
+- Ardência ocular, lacrimejamento, náusea ou paralisia leve (a critério do mestre)
+
+---
+
+##### Cozinha Malevolente
+**Custo de Uso:** :: 3d8 de Vigor, Ação Completa + Foco  
+Cria uma zona de 10m de raio ao redor do usuário. Dentro da área:
+- Todos os ataques da fruta causam **+1 dado extra de dano**
+- Inimigos sofrem **1d4 de dano cortante e 1d4 de dano de fogo** no início de seus turnos
+- A zona dura enquanto o usuário mantiver foco (até 3 turnos)
+
+> **Nota Tática:** A Kiri Kiri no Mi brilha em longos combates contra múltiplos oponentes — cozinhando-os lenta e cruelmente até o ponto ideal.
+
+
+{{pageNumber,auto}}
+\page
+
+### Sasu Sasu no Mi — Fruta da Estaca
+
+**Tipo:** :: Paramecia de Criação e Manipulação de Conceito  
+**Aparência:** :: Uma fruta ovalada, coberta por protuberâncias que lembram espinhos de ferro. Suas espirais formam padrões de cruzes entrelaçadas. Tem coloração roxa metálica e um leve cheiro de terra molhada.
+
+**Temática:** :: Transforma o usuário em um *Homem das Estacas*, capaz de invocar e manipular estacas sombrias que surgem do chão, do corpo ou do ambiente. Essas estacas não são apenas materiais — elas simbolizam **juramentos, selamentos e mortes não concluídas**.  
+O usuário pode usá-las para perfurar, imobilizar ou até selar o movimento ou poderes de um inimigo. Em batalha, cada estaca é mais que uma arma — é uma sentença.
+
+**Desejo que a criou:** :: O desejo de um carrasco que morreu arrependido por não concluir sua última execução. Seu arrependimento era tão profundo que desejou eternamente “manter os condenados no lugar”.
+
+---
+
+#### Habilidades da Sasu Sasu no Mi
+
+##### Criação de Estaca
+**Custo de Uso:** :: 1d4 de Vigor por estaca, Complemento
+**Efeito:** Cria uma ou mais (Máximo igual ao nível de fruta) estacas metálicas com 1,5m de comprimento em qualquer superfície sólida a até 10m de distância.  
+Cada estaca pode causar **1d8 de dano perfurante** ao emergir sob um alvo (Salvaguarda de Destreza ou Velocidade para evitar).  
+Estacas permanecem no cenário como obstáculos físicos até serem destruídas.
+
+##### Lança Cruciforme  
+**Custo de Uso:** :: 2d6 de Vigor, Ação e Complemento
+**Alcance:** :: 20m  
+Arremessa uma estaca com velocidade absurda. Se o ataque atingir, o alvo é empalado e fica **Contido** (Salvaguarda de Força no início de cada turno para se libertar).  
+Dano: **2d10 perfurante + bônus de Força ou Destreza**  
+Se o alvo estiver contra uma parede ou solo duro, recebe **+1d10** de dano extra.
+
+##### Prisão de Estacas  
+**Custo de Uso:** :: 3d6 de Vigor Ação Completa  
+Cria uma cela de estacas em volta de até 3 alvos num raio de 6m.  
+Cada alvo afetado deve realizar uma Salvaguarda de Destreza ou Velocidade:  
+- **Falha:** Fica **Contido** por 2 turnos  
+- **Sucesso:** Reduz deslocamento à metade por 2 turnos  
+As estacas formam paredes de 2m de altura e cobrem totalmente a área.
+
+##### Estaca Pactual  
+**Custo de Uso:** :: 2d4 de Vigor, Ação Bônus, Foco
+Crava uma estaca especial no chão sob seus próprios pés.  
+Enquanto permanecer a até 15m dessa estaca, o usuário recebe:
+- +2 de Resistência e Agilidade
+- Vantagem contra efeitos de empurrão, puxão e queda  
+- Ao sair do alcance ou perder o foco, a estaca explode e causa **1d6 por nível de fruta** em dano cortante aos inimigos num raio de 3m
+
+##### Encerrar a Luta  
+**Pré-requisito:** :: Alvo com menos de 50% de Vida, 3 estacas cravadas no cenário próximo ao alvo  
+**Custo de Uso:** :: 4d12 de Vigor, Ação Completa  
+O usuário realiza uma série de sinais com as mãos. As três estacas disparam ao mesmo tempo contra o inimigo.  
+O alvo realiza uma Salvaguarda de Força ou Destino **com desvantagem**.  
+- **Falha:** sofre **4d12 de dano perfurante** e fica **Paralisado** por 1 turno  
+- **Sucesso:** sofre metade do dano e fica **Contido**
+
+##### Espinhos Vivos (Passiva)
+Toda estaca criada pela Sasu Sasu no Mi vibra levemente e responde à vontade do usuário.  
+- Pode movimentar estacas em até 2m por turno como Ação Bônus (máx. 3 simultâneas)  
+- Estacas podem bloquear passagens, proteger aliados ou funcionar como armadilhas ocultas
+
+> **Nota Tática:** A Sasu Sasu no Mi é ideal para usuários estratégicos que querem controlar o terreno, restringir mobilidade e punir inimigos por se moverem. Seu despertar pode permitir que as estacas “julguem” o inimigo por suas intenções ou ações passadas.
 
 {{pageNumber,auto}}
 \page
@@ -4447,6 +5163,13 @@ Com uma reação, você usa o impact dial para absorver um dano direcionado a vo
 Com uma ação você pode liberar todo dano guardado no Dial, usando 1d4 de vigor p/ isso. O alvo da liberação faz uma Salvaguarda de Vitalidade ou Resiliência, tomando metade do dano em caso de sucesso ou o dano inteiro e sendo empurrado por 5m p/ cada 5 de dano recebido em caso de falha.
 
 Após liberar energia acumulada, o Impact Dial não pode ser usado por 2 turnos.
+
+{{pageNumber,auto}}
+\page
+
+## Ficha de Personagem
+
+## Ficha do Barco
 
 {{pageNumber,auto}}
 \page
