@@ -29,6 +29,7 @@ for (file of commands) {
 // online console alert
 client.on("ready", () => {
     console.log(`Online in -> ${client.user.tag}!`);
+    client.user.setActivity('A Vontade dos Mares', { type: 0 });
 });
 
 // handler?
