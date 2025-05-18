@@ -12,7 +12,7 @@ ___
   Inspirado no mundo de One Piece, esse sistema é pensado para portar os feitos da obra de maneira a se divertir com liberdade.
 }}
 
-![background image](https://i.pinimg.com/originals/fa/88/f8/fa88f8ff481637a28722b16d70c67c56.jpg){position:absolute,bottom:0,right:0,height:110%}
+![background image](https://i.pinimg.com/originals/fa/88/f8/fa88f8ff481637a28722b16d70c67c56.jpg){position:absolute,bottom:0,right:-65px,height:110%}
 
 \page
 
@@ -107,10 +107,11 @@ ___
 - ### [{{ Parte 4: Akumas no Mi}}{{ 66 }}](#p66)
 - ### [{{ Apêndices}}{{ 71 }}](#p71)
   - #### [{{ Apêndice A: Treino}}{{ 71 }}](#p71)
-  - #### [{{ Apêndice B: Condições}}{{ 72 }}](#p72)
-  - #### [{{ Apêndice C: Exemplos de Frutas}}{{ 75 }}](#p75)
-  - #### [{{ Apêndice D: Discos *(Dials)*}}{{ 80 }}](#p82)
-  - #### [{{ Apêndice E: Fichas}}{{ 81 }}](#p83)
+  - #### [{{ Apêndice B: Tipos de Dano}}{{ 72 }}](#p72)
+  - #### [{{ Apêndice C: Condições}}{{ 73 }}](#p73)
+  - #### [{{ Apêndice D: Exemplos de Frutas}}{{ 76 }}](#p76)
+  - #### [{{ Apêndice E: Discos *(Dials)*}}{{ 85 }}](#p85)
+  - #### [{{ Apêndice F: Fichas}}{{ 86 }}](#p86)
 }}
 
 {{note
@@ -1691,7 +1692,15 @@ Ao subir de Nível em sua classe, você recebe 10 pontos para desbloquear mais d
 Ao subir de Nível em sua classe, certos níveis mostrados na tabela permitem que o personagem escolha um novo trunfo da lista de [Trunfos](#p43).
 }}
 
+::
+### Ganhando Vida e Vigor
+No nível 1, o seu valor de Vida e Vigor iniciais são definidos pela sua classe.
+
+Ao progredir de nível em sua classe , do nível 2 em diante, você recebe uma valor de vida igual a um dado + resistência e de vigor igual a um dado + persistência.
+Você confere quais os dados de vida e vigor olhando a tabela de [escala de dados](#p16) e vendo qual o dado correspondente para sua vitalidade (vida) e sua vontade (vigor).
+
 \column
+
 ::
 {{classTable,decoration,frame
 ##### Níveis de Profissão Em One Piece
@@ -4672,6 +4681,51 @@ Você ganha *Pontos de Treino* por:
 {{pageNumber,auto}}
 \page
 
+## Tipos de Dano
+
+Em **A Vontade dos Mares**, todo ferimento se enquadra em três categorias, conforme sua origem e intensidade:
+
+---
+
+### Danos Simples  
+São cortes, impactos e efeitos do mundo natural ou de armas comuns. Proteções físicas e defesas rudimentares reduzem esse dano, mas não o anulam.  
+ **Contundente** :: Impactos brutais que esmagam ossos (martelos, quedas).  
+ **Cortante**    :: Fios e lâminas afiadas que rasgam carne (espadas, garras).  
+ **Perfurante**  :: Pontas e projéteis que atravessam couraças (lanças, flechas).  
+ **Ácido**       :: Líquidos ou vapores corrosivos de criaturas e substâncias naturais.  
+ **Elétrico**    :: Descargas diretas de tensão — trovões simples e choques mecânicos.  
+ **Gélido**      :: Frio cortante que congela tecidos até o interior.  
+ **Ígneo**       :: Chamas vivas de origem natural (erupções, fogueiras).  
+ **Venenoso**    :: Toxinas biológicas que invadem o corpo sem vestígio de poder.  
+ **Energético**     :: Onda de força concentrada capaz de arremessar ou desnivelar o terreno.  
+ **Trovejante**  :: Vibração sonora de alta intensidade que sacode estruturas e tímpanos.  
+ **Radiante**    :: Raios de luz pura e penetrante que queimam sem se dispersar.  
+
+---
+
+### Danos Complexos  
+Produzidos por Frutas, Dials ou invenções avançadas: concentram poder ou força além do natural. Podem ser reduzidos, mas sempre carregam um componente inexorável.  
+ **Plásmico**    :: Versão intensificada do dano Elétrico. Descarga de energia pura e condensada que queima estruturas internas.   
+ **Incinerante** :: Versão intensificada do dano Ígneo. Labareda de temperatura extrema, impossível de extinguir por meios comuns.  
+ **Glacial**     :: Versão intensificada do dano Gélido. Frio aplastante que cristaliza metais em instantes.  
+ **Letífero**    :: Versão intensificada do dano Venenoso. Toxina intensificada que corrói órgãos e sistemas vitais.  
+ **Lacerante**   :: Versão intensificada do dano Cortante. Corte afiado e profundo, que abre fendas permanentes na carne.  
+ **Esmagador**   :: Versão intensificada do dano Contundente. Golpe colossal que comprime tudo sob força inumana.  
+ **Vibracional** :: Versão intensificada do dano Trovejante. Onda de choque ressonante que fragmenta materiais sólidos.  
+ **Antimônico**  :: Versão intensificada do dano Ácido. Corrosão extrema que destrói até a própria substância de objetos e carne.  
+ **Incisivo**    :: Versão intensificada do dano Perfurante. Perfuração ultra-reforçada, capaz de romper a mais dura armadura.  
+
+---
+
+### Dano Verdadeiro 
+É o violento ataque ao âmago da existência — não há barreira que retenha essa força interior. Somente Haki do Armamento Avançado ou fontes de poder comparáveis pode tentar mitigar seu impacto.  
+ **Disruptivo**     :: Explosão interna das moléculas, rasgando o ser de dentro para fora *(ex: golpes com Haki do Armamento Avançado)*.  
+ **Gravitacional**  :: Compressão universal que esmaga qualquer forma de vida sob peso inimaginável *(ex: técnicas da Fruta do Terremoto e Fruta da Gravidade)*.  
+ **Cronal**         :: Distorção temporal súbita que acelera ou regride o envelhecimento em um instante *(ex.: poder da Fruta da Idade de Bonney)*.
+
+{{pageNumber,auto}}
+\page
+
 ## Condições
 
 Algumas das habilidades de criaturas são capazes de causar condições especiais ao seu personagem, porém, você também é capaz de causá-las através de algumas de suas habilidades, ataques ou fruta do diabo.
@@ -4833,6 +4887,100 @@ Você assume uma forma entre humana e animal.
 **Custo de Uso:** :: 2d6 de Vigor, Ação  
 
 Você avança em linha reta até 6m e realiza um ataque com seus chifres. Se acertar, o alvo deve passar em um teste de Resistência (CD 12 + Força). Se falhar, é empurrado 3m e derrubado. 
+
+{{pageNumber,auto}}
+\page
+
+### Tori Tori no Mi, Modelo: ThunderBird
+
+**Tipo:** :: Zoan Mítica 
+**Aparência**: :: Uma fruta azul-acinzentada com espirais douradas e penas minúsculas brotando da casca. Ela emite uma leve eletricidade e tem gosto metálico e picante.
+
+**Temática**: :: Permite ao usuário se transformar em uma lendária Thunderbird, ave mítica que domina tempestades, se tornando um Homem-ThunderBird. O usuário ganha formas híbridas e completas com asas, garras e plumagem de energia, além da habilidade de **criar e manipular separadamente** *raios* e *ventos*, como uma Paramecia de Criação Elemental.
+
+**Desejo que a criou**: :: ...
+
+#### Efeitos Permanentes
+- +2 Destino, +1 Resiliência p/ Nível de fruta.
+- **Asas Protetoras**: Pode planar e reduzir dano de queda à metade.
+- **Domínio Climático**: Recebe Vantagem em testes de Conhecimento relacionados a fenômenos naturais ou clima.
+- **Corpo Eletrificado**: Causadores de dano corpo a corpo sofrem 1 de dano elétrico ao acertar ataques sem armas ou Haki.
+- **Rei da Tempestade**: Ganha imunidade a dano elétrico e não pode ser empurrado por ventarnias.
+
+#### Formas da Zoan
+
+##### Forma Animal – Thunderbird  
+**Custo de Uso:** :: 1d10 por turno, Ação Bônus para transformar  
+**Efeitos**: :: +2 Força, +4 Velocidade, +4 Destino, +12m de deslocamento. Ganha Asas com Voo igual ao deslocamento, Ataques com Garras (dano: 1d8+For). Não pode usar armas ou ferramentas.
+
+Você se transforma completamente em uma gigantesca Thunderbird, com asas que geram trovões e olhos brilhando como relâmpagos.
+
+##### Forma Híbrida  
+**Custo de Uso:** :: 1d8 por turno, Ação Bônus para transformar  
+**Efeitos**: :: +1 Força, +2 Velocidade, +2 Destino, +6m de deslocamento. Ganha Asas com Voo limitado (até metade do Deslocamento), Ataques com Garras (dano: 1d6+For). Pode usar armas e técnicas normalmente.
+
+Você assume uma forma híbrida com braços emplumados, olhos tempestuosos e garras elétricas.
+
+#### Habilidades
+
+##### Criar Raios  
+**Custo de Uso:** :: 1d4 de Vigor por unidade criada | Ação  
+Cria 1 carga elétrica instável (até 20.000 volts por unidade). Pode ser armazenada por até 3 turnos em objetos ou disparada diretamente.
+
+##### Manipular Raios  
+**Custo de Uso:** :: Variável, Ação (variável para cargas baixas) 
+Conduz, arremessa ou molda a carga elétrica criada da forma que quiser, podendo ser para atingir alvos ou ampliar ataques. Algumas opções:
+:
+**1 carga (Ação Bônus)**:  
+
+---
+
+  - **Custo:** 1d2 de Vigor  
+  - **Efeito:** Adiciona +1d4 de dano elétrico ao próximo ataque corpo a corpo.  
+
+> **2 cargas (Complemento)**:  
+
+---
+
+- **Custo:** 1d6 de Vigor  
+- **Efeito:** Dispara um raio linear de até 6m. Todos os inimigos na linha sofrem 1d8 de dano elétrico.  
+
+Inimigos devem fazer uma **Salvaguarda de Resistência (CD 12)**. Em caso de **Falha**: recebem **Exposição Elétrica 2**. Em caso de **Sucesso**: não sofrem penalidade adicional.
+
+> **3 cargas (Ação Completa)**:  
+
+---
+
+- **Custo:** 2d6 de Vigor  
+- **Efeito:** Libera uma descarga elétrica em área circular de 3m ao redor do usuário.  
+
+Inimigos na área sofrem 2d8 de dano elétrico. 
+Devem fazer uma **Salvaguarda de Destreza ou Vitalidade (CD 14)**. 
+Em caso de **Falha**: são **derrubados**. 
+Em caso de  **Sucesso**: permanecem em pé 
+
+:
+##### Criar Ventos  
+**Custo de Uso:** :: 1d4 de Vigor por rajada | Complemento  
+Invoca uma rajada de vento forte, suficiente para apagar chamas, desviar flechas ou mover objetos leves.
+
+##### Manipular Ventos  
+**Custo de Uso:** :: Variável | Ação  
+Controla correntes de ar, redirecionando projéteis, ampliando saltos ou criando redemoinhos.  
+
+---
+
+- Pode aumentar deslocamento em +3m por turno.  
+- Pode aplicar Desvantagem em um ataque à distância inimigo numa reação (1d4 de Vigor).  
+- Pode criar um redemoinho de 3m de raio que dura 2 turnos, dificultando movimento (2d6 de Vigor).
+
+:
+
+##### Grito Tempestuoso  
+**Custo de Uso:** :: 3d6 de Vigor | Ação  
+Em forma híbrida ou animal emite um grito ancestral que convoca nuvens escuras e eletrifica o ar.  
+
+O céu escurece, ventos ganham intensidade e todos os inimigos num raio de 6m fazem Salvaguarda de Vontade ou Destino. **Falha:** Um leve cai sobre o inimigo, ficando com Desvantagem em jogadas de ataque até o final do próximo turno e sofrem 4d6 de dano elétrico. **Sucesso:** Apenas metade do dano e sem penalidade.
 
 {{pageNumber,auto}}
 \page
