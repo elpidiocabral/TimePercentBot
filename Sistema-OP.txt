@@ -1,12 +1,12 @@
  {{frontCover}}
 
-{{logo ![](/assets/naturalCritLogoRed.svg)}}
+{{logo ![](https://i.imgur.com/FVyv8KZ.png)}}
 
 # A Vontade dos Mares
 ## One Piece RPG
 ___
 
-{{banner Versao - 2.4.1}}
+{{banner Versao - 2.4.3}}
 
 {{footnote
   Inspirado no mundo de One Piece, esse sistema é pensado para portar os feitos da obra de maneira a se divertir com liberdade.
@@ -73,8 +73,6 @@ ___
   -  [{{ Povo Do Céu}}{{ 26 }}](#p26)
   -  [{{ Anão Tontata}}{{ 27 }}](#p27)
 
-\column
-
 - #### [{{ Classes}}{{ 28 }}](#p28)
   -  [{{ Lutador}}{{ 29 }}](#p29)
   -  [{{ Guerrilheiro}}{{ 30 }}](#p30)
@@ -85,7 +83,7 @@ ___
   -  [{{ Assassino}}{{ 36 }}](#p36)
   -  [{{ Ladrão}}{{ 38 }}](#p38)
 - #### [{{ Profissões}}{{ 39 }}](#p39)
-  -  [{{ Capitão}}{{ 39 }}](#p39)
+  -  [{{ Capitão}}{{ 40 }}](#p40)
   -  [{{ Combatente}}{{ 41 }}](#p41)
   -  [{{ Navegador}}{{ 42 }}](#p42)
   -  [{{ Médico}}{{ 43 }}](#p43)
@@ -111,17 +109,20 @@ ___
   - #### [{{ Apêndice A: Treino}}{{ 71 }}](#p71)
   - #### [{{ Apêndice B: Condições}}{{ 72 }}](#p72)
   - #### [{{ Apêndice C: Exemplos de Frutas}}{{ 75 }}](#p75)
-  - #### [{{ Apêndice D: Discos *(Dials)*}}{{ 76 }}](#p76)
-  - #### [{{ Apêndice E: Fichas}}{{ 77 }}](#p77)
+  - #### [{{ Apêndice D: Discos *(Dials)*}}{{ 80 }}](#p82)
+  - #### [{{ Apêndice E: Fichas}}{{ 81 }}](#p83)
 }}
 
+{{note
+##### Faça parte de nossa comunidade!
+[Clique aqui](https://discord.gg/twzf2h3XyV) para entrar no discord da Vontade dos Mares e ficar por dentro das atualizações do sistema, fichas, campanhas oficiais e muito mais!
+}}
 
-{{skipCounting}}
 \page
 
 # Parte 1: Mecânicas de Jogo
 
-*A Vontade dos Mares* é um sistema de RPG inspirado no universo de **One Piece**, com forte inspiração na mecânica e design de sistemas consolidados, como D&D 5e e Runarcana. Construído para oferecer liberdade narrativa, combate impactante e uma progressão baseada em escolhas significativas.  
+*A Vontade dos Mares* é um sistema de RPG inspirado no universo de **One Piece**, com forte inspiração na mecânica e design de sistemas consolidados, como [Runarcana](https://wiki.runarcana.org/Página_principal) e *Mutantes e Malfeitores*. Construído para oferecer liberdade narrativa, combate impactante e uma progressão baseada em escolhas significativas.  
 Aqui, cada personagem é forjado por suas vivências, sua tripulação, suas derrotas — e, acima de tudo, por sua **vontade inquebrável**.
 
 A mecânica do jogo gira em torno de atributos principais que definem suas capacidades, ações por turno que estruturam o combate, e reservas que regulam sua energia e resistência durante a aventura. O sistema é centrado em classes únicas, profissões variadas, estilos de combate, e uma gama de técnicas e habilidades únicas.
@@ -169,7 +170,7 @@ Essa prática é representada pela mecânica de **Pontos de Treino**, distribuí
 
 O atributo de **Carisma** é quase que inteiramente voltado para prestígio social e interação. Nem todos os problemas se resolvem com violência e combate desenfreado. Tratos, negociações, chantagens e alianças são necessárias para passar pelos desafios impostos pelos mares.
 
-{{skipCounting}}
+{{pageNumber,auto}}
 \page
 
 ## Combate
@@ -248,19 +249,19 @@ Escolha um tipo de dano (como *fogo*, *eletricidade*, *ácido*, *veneno*, etc.),
 
 - É necessário ter acesso a um **material apropriado** (óleo inflamável, toxina natural, pó elétrico...) ou aprovação do mestre com base em contexto.
 
-{{pageNumber,auto}}
-\page
-
-
 - Quando usado para **impregnar o próprio corpo** (como punhos ou pernas), você **também sofre** o **dado mínimo** do dano elemental causado (ex: 1 em 1d4).
 
 O mestre pode permitir que o jogador teste **Improviso** ou **Engenharia** para improvisar o material, desde que haja justificativa narrativa.
 
 
+
 **Reação** ::  
 Você pode executar uma façanha fora do seu turno em resposta a um evento imediato, como sofrer um ataque ou ver um aliado cair.
 
----
+
+{{pageNumber,auto}}
+\page
+
 
 ### Reações
 
@@ -343,9 +344,6 @@ Atacar com uma arma de longo alcance enquanto estiver engajado em combate corpo 
 - **Acerto Crítico:** Um resultado natural 20 no d20 causa **dano crítico**. Role **o dobro dos dados de dano** da arma ou técnica usada.
 - **Falha Crítica:** Um resultado natural 1 significa **falha automática**, podendo gerar consequências narrativas negativas.
 
-{{pageNumber,auto}}
-\page
-
 #### Ataques de Oportunidade
 
 Se um inimigo **sair do seu alcance corpo a corpo** sem usar a ação de **Desengajar**, você pode gastar **1 de Vigor** para realizar um ataque imediato contra ele.
@@ -358,6 +356,9 @@ Nesse sisteema, algumas características de classe, trunfos, habilidades e outra
 | | **Escala de Dano** ||||||||
 |---|-----|-----|-----|-----|-----|------|------|----------|
 | 1 |	1d2 |	1d3 |	1d4 |	1d6 |	1d8 |	1d10 | 1d12 |	1d12 + X |
+
+{{pageNumber,auto}}
+\page
 
 Dessas forma, quando o dano alcança 1d12, seu passo seguinte se torna a adição de 1d4 virando 1d12 + 1d4 e a progressão passa a valer para esse novo dado. Ao se tornar 1d12, repete-se a lógica adicionando +1d4. Para dados múltiplos segue-se a mesma lógica. Ex.: 6d6, 6d8, 6d10, 6d12, 6d12 + 1d4, 6d12 + 1d6
 
@@ -381,6 +382,8 @@ As Salvaguardas são testes **defensivos**, realizados em resposta a **efeitos n
 Em uma Salvaguarda, o jogador rola **1d20 + modificador do atributo principal apropriado**, comparando o resultado com a **Classe de Dificuldade (CD)** do efeito.
 
 Se o resultado for **igual ou superior à CD**, o personagem **resiste parcialmente ou totalmente** ao efeito. Caso contrário, **sofre as consequências** normalmente.
+
+Todas as salvaguardas dão a opção de escolha entre dois atributos para a rolabem.
 
 ---
 
@@ -410,6 +413,26 @@ Após 5 dias sem tratamento médico, ferimentos ou lesões se tornam *profundas*
 ##### Feridas Profundas
 Ao levar metade ou mais de sua vida em *ferimentos* você cai a 0 pontos de vida.  
 Ao levar metade ou mais de seu vigor em *lesões* você não consegue fazer nenhuma ação além de se mover com metade de seu deslocamento.
+
+{{descriptive
+#### Formatos de Ataques e Efeitos em Área
+
+No sistema **A Vontade dos Mares**, diversas técnicas e ataques afetam áreas ou grupos de inimigos. Os principais formatos são:
+
+| **Formato**        | **Descrição**                                                                 |
+|--------------------|--------------------------------------------------------------------------------|
+| **Ataque Direto**  | Um único alvo, até 1,5m. Usado em ataques corpo a corpo padrão.                |
+| **Linha Reta**     | Afeta todos numa linha até X metros (ex: rajadas, cortadas rápidas).           |
+| **Cone**           | Abertura em forma de leque, normalmente 3m ou 6m à frente do usuário.          |
+| **Raio**           | Área circular centrada no alvo ou no ponto escolhido. Ex: “Raio de 4m”.        |
+| **Explosão**       | Efeito em área, normalmente circular. Pode atingir aliados se mal utilizada.   |
+| **Área Adjacente** | Todos que estejam ao redor do usuário (ex: 1,5m em todas direções).            |
+| **Campo/Área Persistente** | Cria uma zona que permanece ativa por turnos (ex: gás, melado, lama).   |
+| **Empurrão Linear**| Força o alvo a recuar X metros em linha reta (teste de Força/Resistência).     |
+
+}}
+
+
 
 {{pageNumber,auto}}
 \page
@@ -573,7 +596,6 @@ Esses eventos podem ser ativados em situações cruciais da história — como a
 {{pageNumber,auto}}
 \page
 
-
 # Guia Rápido para Criação de Personagem
 O que deve-se levar em consideração para criar um personagem? E suas habilidades?
 
@@ -582,7 +604,7 @@ A criação da ficha pode parecer complicada, mas na verdade é um passo-a-passo
 Ao ler essa seção, você será totalmente capaz de criar um personagem e suas habilidades sem maiores problemas.
 
 ### Primeiras Escolhas
-Ao imaginar seu personagem, primeiro você escolhe: sua [Raça](#p18), que define sua origem e sua aparência; sua [Classe](#p20), qual vai guiar como você se comporta em combate; e, por fim, sua [Profissão](#p26), que define o que você é capaz de fazer em uma embarcação ou para sobreviver. 
+Ao imaginar seu personagem, primeiro você escolhe: sua [Raça](#p24), que define sua origem e sua aparência; sua [Classe](#p28), qual vai guiar como você se comporta em combate; e, por fim, sua [Profissão](#p39), que define o que você é capaz de fazer em uma embarcação ou para sobreviver. 
 
 #### Sonho
 Seu personagem precisa de um sonho que guia suas ações. Sua maior ambição em vida e sua determinação para alcançar seus objetivos são medidas pelo seu sonho.
@@ -592,7 +614,7 @@ Seu sonho deve ser uma frase curta que o descreve. EX: *"Eu quero ser o rei dos 
 Então você e o mestre darão um valor para sua **Determinação**, que vai de 0% à 100%. O valor final é a média entre os dois valores *(Pontue em múltiplos de 5)*.
 
 #### Atributos
-Para distribuir seus pontos entre os 10 atributos principais de cada ser, você deve escolher um [Potencial](#p11). 
+Para distribuir seus pontos entre os 10 atributos principais de cada ser, você deve escolher um [Potencial](#p15). 
 
 O potencial ilustra sua força latente desde o nascimento. Anomalias, como Kaido, tem atributos altos desde o nascimento. Já humanos comuns, como Nami, tem atributos iniciais mais baixos. 
 
@@ -612,7 +634,7 @@ Com a distribuição finalizada, você pode gerar os seus 5 Atributos Derivados 
 **Carisma:** :: APARÊNCIA + DESTINO
 
 ##### Atributos Escaláveis  
-- Sua ***Vida*** e ***Vigor*** iniciais são definidos pela [Classe](#p20) escolhida.
+- Sua ***Vida*** e ***Vigor*** iniciais são definidos pela [Classe](#p28) escolhida.
 - A dificuldade de o acertar com golpes *(Classe de Acerto)* e a dificuldade de desviarem de seus efeitos *(Classe de Dificuldade)* são calculados da sequinte forma: 
 ***CA*** = 1 + *(Agilidade OU Resistência)* e ***CD*** = 1 + *(Persistência OU Disciplina)*.
 
@@ -620,10 +642,10 @@ Com a distribuição finalizada, você pode gerar os seus 5 Atributos Derivados 
 
 - ***Sorte*** é um valor fixo que ilustra como os eventos aleatórios influenciam sua vida. Ao criar seu personagem, você joga 1d20, o resultado será sua sorte até o fim do jogo.
 
-- [Deslocamento](#p10): Define o quanto você se move em um turno e escala de acordo com a Agilidade.
+- [Deslocamento](#p14): Define o quanto você se move em um turno e escala de acordo com a Agilidade.
 
 #### Aptidões e Competências
-Você deve definir as atividades e matérias em que você é bom *([Aptidões](#p13))* e as armas e ferramantas que sabe usar *([Competências](#p14))*.
+Você deve definir as atividades e matérias em que você é bom *([Aptidões](#p17))* e as armas e ferramantas que sabe usar *([Competências](#p18))*.
 
 - Para Aptidões, você tem 5 pontos + Bônus de Profissão e Raça para distribuir *(Custo 1 por nível)*.
 - Para Competências, você tem 5 pontos + Bônus de Classe e Raça para distribuir *(Custo igual ao Nível)*.
@@ -632,7 +654,7 @@ Você deve definir as atividades e matérias em que você é bom *([Aptidões](#
 Você tem equipamentos iniciais de acordo com sua Classe e História
 
 #### Criação de Habilidades
-Com seu personagem montado, você usa da temática e interação entre suas características para criar suas [Habilidades](#p34) ou aprender Habilidades comuns do mundo *(Mais detalhes sobre criação no apêndice)*.
+Com seu personagem montado, você usa da temática e interação entre suas características para criar suas [Habilidades](#p59) ou aprender Habilidades comuns do mundo *(Mais detalhes sobre criação no apêndice)*.
 
 Pontos de Habilidade servem para você gastar e aprender as mesmas a medidade que progride com seu personagem. Você tem 10 + *(100 - Determinação)* de pontos de Habilidade no nível 1.
 
@@ -643,7 +665,7 @@ Define seus objetivos: Curto Prazo, Médio Prazo, Longo Prazo.
 
 Escolhe características que o definem: Benéficas *(Qualidades,	2 ou mais)*, Maléficas *(Defeitos, 2 ou mais)* e uma Habilidade Inútil *(Comum em One Piece, Ex: Sanji ser capaz de realizar cirurgias plásticas com seus chutes e odiar isso)*
 
-Conjunto ao mestre, determine seus ideais: [Reputação](#p7), [Moral](#p8).
+Conjunto ao mestre, determine seus ideais: [Reputação](#p12), [Moral](#p12).
 
 {{pageNumber,auto}}
 \page
@@ -722,9 +744,6 @@ Descreva uma habilidade cômica ou irrelevante em combate, mas que define seu pe
 
 Essas habilidades são espaço para humor e surpresa — às vezes podem brilhar nos momentos mais improváveis.
 
-{{pageNumber,auto}}
-\page
-
 ### Características Maléficas  
 E os seus demônios?
 
@@ -733,6 +752,9 @@ Liste ao menos 2 traços negativos. Pode ser um defeito de caráter (“impulsiv
 Esses traços são ganchos poderosos para a história e devem ser explorados pelo mestre como desafios narrativos.
 
 > Ninguém chega ao topo sem cicatrizes. Mostre as suas.
+
+{{pageNumber,auto}}
+\page
 
 ### Reputação
 
@@ -816,6 +838,22 @@ NAMI (antes de Arlong Park) é um exemplo.
 ***Poder pela Enganação (P/E):*** é o sonho de se tornar algo de grande prestígio, matar alguém, possuir algo, governar, ter riquezas,
 impor sua vontade ou simplesmente ser poderoso, por meio de mentiras, encenações ou controlando outras pessoas.  
 DONQUIXOTE DOFLAMINGO, BUGGY e SAKAZUKI são exemplos.
+
+
+{{descriptive
+### Guia de Tamanhos de Criatura
+
+Este guia define o espaço ocupado, alcance padrão e impacto mecânico dos diferentes tamanhos de criatura no sistema "A Vontade dos Mares".
+
+| Tamanho      | Espaço Ocupado | Alcance Padrão |  **Notas** |
+|:-------------|:---------------|:---------------|-----------|
+| Minúsculo    | 0,5m x 0,5m    | 0,5m |  Pode ocupar o mesmo espaço que outras criaturas |
+| Pequeno      | 1m x 1m | 1,5m | Pode passar por espaços apertados |
+| Médio        | 1,5m x 1,5m    | 1,5m | Tamanho padrão |
+| Grande       | 3m x 3m | 2m | Pode ser montado, ataques podem afetar área adjacente |
+| Enorme       | 6m x 6m | 3m | Pode causar dano em área com o corpo |
+| Colossal     | 9m+ x 9m+ | 4m+ | Ignora obstáculos menores, ataques em área massiva     |
+}}
 
 {{pageNumber,auto}}
 \page
@@ -1272,6 +1310,8 @@ Testes de aptidão somam o atributo relacionado mesmo se você tiver 0 pontos ne
 
 ##### Armas Brancas 
 
+---
+
 - Combate Desarmado;
 - Armas Improvisadas *(Cano de PVC do Sabo)*;
 - Adagas;
@@ -1304,7 +1344,7 @@ Testes de aptidão somam o atributo relacionado mesmo se você tiver 0 pontos ne
 
 ###### Armas de Estocada/Duelo
 - Rapieira / Floretes / Sabres (Estocada);
-
+:
 ##### Armas a Distância
 - Fundas;
 - Estilingues;
@@ -1322,6 +1362,8 @@ Testes de aptidão somam o atributo relacionado mesmo se você tiver 0 pontos ne
 
 ##### Armas Exóticas
 
+---
+
 - Bombas de Fumaça;
 - Correntes com Gancho / Corda e Gancho;
 - Estrepes e Semelhantes;
@@ -1331,7 +1373,17 @@ Testes de aptidão somam o atributo relacionado mesmo se você tiver 0 pontos ne
 - Kusarigamas;
 - Macuahuitl
 
+##### Armaduras e Escudos
+
+---
+
+- Escudo Pequeno;
+- Escudo Médio;
+- Escudo Grande;
+
 ##### Ferramentas/Instrumentos Gerais
+
+---
 
 - Soco Inglês;
 - Arma Especializada (Apenas Especialista);
@@ -1343,9 +1395,20 @@ Testes de aptidão somam o atributo relacionado mesmo se você tiver 0 pontos ne
 - Armadilhas;
 - Marionetes / Bonecos de Fio;
 - Kit de Disfarce (maquiagem, tintas, perucas, acessórios);
-- Kit de Primeiros Socorros;
+- Kit de Primeiros Socorros / Kit de Medicina;
+
+##### Comunicação
+
+---
+
+- Den Den Mushi (comunicação padrão);
+- Baby Den Den Mushi (pessoal);
+- Den Den Mushi Visual (imagem e som);
+- Câmera Fotográfica ou Luneta;
 
 ##### Ferramentas de Manutenção/Criação
+
+---
 
 - Kit de Manutenção de Armas Brancas;
 - Kit de Manutenção de Armas de Fogo;
@@ -1357,6 +1420,8 @@ Testes de aptidão somam o atributo relacionado mesmo se você tiver 0 pontos ne
 \page
 
 ##### Ferramentas de Profissão
+
+---
 
 - Instrumento Musical;
 - Instrumentos de Cozinha;
@@ -1370,16 +1435,26 @@ Testes de aptidão somam o atributo relacionado mesmo se você tiver 0 pontos ne
 - Fornalha / Forja;
 - Kit de Arrombamento/Ladrão (ganzuás, óleo, alavanca);
 
-
-##### Comunicação
-
-- Den Den Mushi (comunicação padrão);
-- Baby Den Den Mushi (pessoal);
-- Den Den Mushi Visual (imagem e som);
-- Câmera Fotográfica ou Luneta;
-
 :
 Armas/Ferramentas na mesma linha são de tipos parecidos, usando a mesma competência.
+:
+
+##### Itens Narrativos e Úteis
+Itens que não necessitam de competência para seu uso.
+| Item                            | Tipo       | Descrição e Uso Sugerido |
+|---------------------------------|------------|----------------------------|
+| **Faixa de Meditação** | Narrativo | Vantagem em teste de Foco 1x por dia (persistência/controle mental). |
+| **Faixa de Concentração** | Narrativo  | Mantém uma habilidade de Foco mesmo ao falhar no teste, 1x por sessão. |
+| **Capa com Bainha Oculta** | Narrativo  | Esconde até 2 armas leves. Vantagem ao sacar furtivamente. |
+| **Estojo de Munição** | Mecânico   | Contém 20 munições. Recarrega 1d6 munições por descanso curto (com Improviso). |
+| **Luva de Engenheiro** | Mecânico   | 1x por sessão, improvisa uma ferramenta ou arma leve com Engenharia. |
+| **Ração Emocional** | Narrativo  | Cura 1d4 Vida após performance emocional. Criada por Músico. |
+| **Apito de Comando** | Narrativo  | Alcance sonoro de 50m. Coordena ações, pode ser usado como gatilho. |
+| **Rede Dobrável** | Mecânico   | Arremessável. Imobiliza alvo com teste oposto de Destreza/Velocidade. |
+| **Óleo de Aquecimento Muscular**| Mecânico   | Bônus de +1 em ataque desarmado no 1º turno de combate. 1 uso p/ combate. |
+| **Frasco de Óleo de Silêncio**, **Silenciador** | Mecânico   | Aplica em arma leve. Torna o ataque silencioso por 1 minuto. |
+| **Cápsula de Fumaça** | Mecânico   | Gera neblina em 3m de raio por 1 turno. Impede visão direta. |
+| **Graxa Deslizante** | Mecânico   | Permite escapar de amarras, agarrões ou grades. Garante 1 rerrolagem em tentativa. |
 
 \column
 
@@ -1558,6 +1633,23 @@ d
 
 Durabilidade
 }}
+
+## Kits
+
+##### Todos os Kits Funcionais
+| Nome do Kit                        | Tipo        | Descrição e Uso Sugerido |
+|-----------------------------------|-------------|--------------------------|
+| **Kit Médico Simples** | Médico | Bandagens, ervas, frascos. Cura leve com Conhecimento ou Medicina. |
+| **Kit de Navegação** | Navegador   | Bússola, sextante, mapa. Vantagem em Navegação Marítima. |
+| **Kit de Cozinha Portátil** | Cozinheiro  | Temperos, panela. Produz 2 refeições leves por descanso longo (cura 1d4 Vigor). |
+| **Kit de Escavação** | Arqueólogo  | Pincel, estilete, escova. Vantagem em testes de História e exploração de ruínas. |
+| **Kit de Ferramentas de Carpintaria** | Carpinteiro | Martelo, serrote, pregos. Repara itens e estruturas com Eng. Naval. |
+| **Kit de Cientista** | Cientista | Reagentes, frascos, tubos. Testa substâncias ou cria toxinas leves com Alquimia. |
+| **Kit de Treino** | Suporte | Bandagem, óleo, fruta. Remove 1 nível de exaustão em descanso. |
+| **Kit de Armadilhas Simples** | Guerrilheiro| Cordas, estacas, óleo. Monta armadilhas básicas (queda, laço, queimadura). |
+| **Kit de Improviso** | Especialista| Cola, fios, parafusos. Cria soluções improvisadas com Engenharia ou Improviso. |
+| **Kit de Infiltração** | Assassino | Bomba de fumaça, trapo escuro, óleo de silêncio. Auxilia furtividade e fuga. |
+| **Kit de Distração** | Ladrão | Moedas falsas, graxa, tralhas. Vantagem em Enganação e Diversão. |
 
 {{pageNumber,auto}}
 \page
@@ -1753,6 +1845,7 @@ Você gasta 1D10 de Vigor, inimigos acertados pelo dano de Electro devem fazer u
 **Customização:** Ao criar novas habilidades para seu personagem Mink, você pode adicionar o uso do Electro nelas, se beneficiando de seus efeitos.
 
 ### Sulong
+*Atualização 3.0...*
 
 \column
 
@@ -1865,7 +1958,7 @@ As classes em *A Vontade dos Mares* não restringem sua criatividade — elas se
 Ao escolher sua Classe, você não define apenas como luta — define quem você é diante do mundo.  
 É seu primeiro passo rumo à lenda que os mares jamais esquecerão.
 
-\column
+::
 
 #### Dano Desarmado p/ Cada Classe ao Longo dos Níveis
 | Nível de Classe | Lutador | Guerrilheiro | Artista Marcial | Outras Classes
@@ -1875,6 +1968,8 @@ Ao escolher sua Classe, você não define apenas como luta — define quem você
 | 09 | 1d10 + Força | 1d8 + Força  | 3d4 + Bônus | Força |
 | 13 | 2d6 + Força  | 1d10 + Força | 4d4 + Bônus | Força |
 | 17 | 2d10 + Força  | 2d6 + Força  | 5d4 + Bônus | Força |
+
+::::
 
 #### Vida e Vigor Inicial p/ Classe *(Nível 1)*
 | Classe | Vida Inicial | Vigor Inicial | 
@@ -1888,8 +1983,17 @@ Ao escolher sua Classe, você não define apenas como luta — define quem você
 |Assassino      | 4 + RES | 12 + PERS |  
 |Ladino         | 4 + RES | 12 + PERS | 
 
-#### Incremento no Valor de Habilidade
-Ao subir de Nível você recebe 2 pontos para distribuir entre seus Atributos Principais.
+#### Equipamento Inicial por Classe
+| Classe          | Armas / Ferramentas                                          | Item Temático / Kit                                   | Belli Inicial |
+|-----------------|--------------------------------------------------------------|--------------------------------------------------------|---------------|
+| *Lutador*       | 1 Ferramenta a escolha **ou** 1 Soco Inglês | Kit de treino | B$6.000       |
+| *Guerrilheiro*  | 2 Armas diferentes à escolha | Kit de armadilhas simples ou 1 Kit de reparar armas à escolha | B$5.500 |
+| *Artista Marcial* | Nenhuma arma inicial | Faixa de meditação, Vestimenta tradicional leve | B$6.000 |
+| *Espadachim*    | 2 Armas de Corte à Escolha | Kit de manutenção de armas brancas, capa com bainha | B$6.500       |
+| *Atirador*      | 1 Arma à Distância a Escolha, 1 Arma com propriedade arremessável | Estojo de munição (20 tiros, kit de recarga básica), lenço de mira | B$7.000       |
+| *Especialista*  | Arma Customizada, 1 Ferramenta a Escolha | Luva de engenheiro, kit de improviso | B$6.500 |
+| *Assassino*     | 2 Armas Leves | Kit de infiltração | B$6.000 |
+| *Ladrão*        | 1 Adaga, Kit de Ladrão | Capuz ou manta de fuga, Kit de distração | B$5.500 |
 
 {{pageNumber,auto}}
 \page
@@ -1990,11 +2094,11 @@ Você realiza um único ataque armado com acerto automático.
 
 - **Arsenal:** O golpe é tão variado e imprevisível que o alvo é recebe 2 de Exaustão e fica Enfraquecido por 2 turnos. Caso o alvo esteja armado, ele é desarmado pelo golpe.
 
-{{pageNumber,auto}}
-\page
-
 - **Beserker:** Você grita com fúria e causa medo visceral. Todos os inimigos num raio de 20 metros fazem Salvaguarda de Vontade ou Destino, ficando Amedrontados por 2 turnos em caso de falha.
 - **Campeão:** O impacto é tão poderoso que o alvo fica Caído e não pode realizar Reações até o fim do próximo turno.
+
+{{pageNumber,auto}}
+\page
 
 - **Gladiador:** Você usa sua ferramenta ou arma secundária como armadilha durante o ataque. O alvo é Contido até passar uma Salvaguarda de Força ou Destreza no final dos turnos subsequentes.
 - **Guerreiro:** Seu golpe colide com tamanha precisão que você *anula todas as defesas do alvo até o próximo turno* (CA natural e escudos ignorados, resistências suspensas).
@@ -2574,10 +2678,29 @@ expandir ainda mais seu leque de possibilidades.
 
 Toda tripulação funcional precisa de profissionais competentes — seja um navegador que prevê tempestades, um médico que estanca feridas em segundos, ou um cozinheiro que levanta o moral com uma só colherada. As Profissões são o que sustentam a vida entre as ondas.
 
-
-##### Lista de Profissões Convencionais:
-
 \column
+
+##### Equipamento Inicial por Profissão
+| Profissão       | Ferramentas / Itens de Função                            | Kit Temático / Suprimentos                               | Belli Inicial |
+|-----------------|----------------------------------------------------------|-----------------------------------------------------------|---------------|
+| *Capitão*    | Bússola simples, diário de bordo | Capa estilosa + 1 ração especial + apito de comando | B$6.000 |
+| *Combatente* | Bandagem reforçada, tônico de recuperação leve | Ração de combate (2 usos) + estojo de aquecimento rápido  | B$5.500 |
+| *Navegador*  | Kit de Navegação | Capa contra vento + ração leve + óculos de precisão | B$6.000       |
+| *Médico*     | Kit médico simples | Jaleco ou lenço branco + 2 tónicos fracos | B$6.000 |
+| *Artilheiro* | Vara de calibragem, Kit de Manutenção de Armas de Fogo | Cinto de ferramentas + 1 bomba de fumaça básica | B$5.500 |
+| *Cozinheiro* | Kit de cozinha portátil, Instrumentos de cozinha | 2 refeições leves, avental estiloso | B$6.000 |
+| *Músico*     | Instrumento Musical | Kit de cordas ou palhetas, 1 ração emocional (cura leve por narrativa) | B$5.500 |
+| *Arqueólogo* | Caderno de anotações, pincel e escova | Kit de escavação básica, Fragmento de mapa antigo | B$5.500 |
+| *Carpinteiro*| Kit de Ferramentas | Bloco de madeira especial, Colete de couro | B$6.000       |
+| *Timoneiro*  | Manopla de navegação, mini-bússola | Luvas antiderrapantes, 1 rede dobrável | B$5.500 |
+| *Cientista*  | Frascos, tubo de ensaio, reagentes básicos | Óculos de proteção, jaleco velho, bloco de notas | B$6.500 |
+
+:::::::::::::::::
+
+##### Lista de Profissões Convencionais *(Geralmente Piratas)*:
+
+{{pageNumber,auto}}
+\page
 
 ## Capitão
 ***Atributo Principal: Carisma***
@@ -2604,7 +2727,6 @@ Ex: *Capitães como Luffy, Roger e Kaido são combatentes por profissão secund�
 #### Escolhendo sua Profissão Secundária
 Você não ganha a habilidade de atributos de nível 1 da profissão. Você ganha a habilidade ativa de nível 1 da profissão.
 
-
 ### Distribuir Ordens
 Ao atingir o **2º nível**, você se torna capaz de coordenar seus aliados em meio ao caos do combate.
 
@@ -2612,9 +2734,6 @@ Você pode usar uma **Ação Bônus** para emitir **Ordens** a aliados que possa
 Você pode emitir um número de Ordens igual ao seu **Bônus de Maestria** por **Descanso Curto**.
 
 Cada aliado pode ser afetado por **uma ordem por turno**.
-
-{{pageNumber,auto}}
-\page
 
 **Ordens Disponíveis:**
 
@@ -2632,20 +2751,20 @@ No **3º nível**, sua autoridade se impõe mesmo em meio ao caos da batalha.
 - Se um aliado falhar num teste de atributo principal em combate, você pode usar sua Reação para permitir que ele **role novamente com vantagem**.  
   *(Pode ser usado um número de vezes igual ao seu Carisma por descanso longo).*
 
----
-
 ### Presença Inabalável
 Ao alcançar o **4º nível**, sua presença sozinha é capaz de alterar o curso de uma batalha.
+
+---
 
 - Você emana uma aura de comando em um raio de 20 metros. Enquanto os aliados estiverem nessa área:
   - Eles recebem vantagem em teste de Iniciativa.
   - Eles podem usar sua Ação Livre para se comunicar entre si, mesmo em caos, vento forte ou batalha naval.
   - Eles ganham vantagem para resistir a efeitos de medo, confusão ou pânico.
 
----
-
 ### Voz do Rei
 Ao chegar ao **5º nível**, sua voz se torna o estandarte da sua tripulação, capaz de inspirar ou calar até os mais determinados inimigos.
+
+---
 
 - Ao entrar em combate, você pode escolher uma palavra ou frase símbolo *(ex: “Vencer!”, “Retalhar!”, “Resistam!”)*. Durante os próximos 10 minutos, todos os seus aliados recebem *+1d4 em seus testes de ataque, resistência e dano* sempre que agirem motivados pela palavra.
 
@@ -2914,9 +3033,6 @@ Você domina a criação de munições personalizadas e a arte do tiro técnico 
 
 **Armas de Mão:** Você pode realizar **um disparo como reação**, gastando 1 de Vigor, se estiver sendo alvejado a distância e for bem-sucedido em um teste de Agilidade (CD do atacante).
 
-{{pageNumber,auto}}
-\page
-
 ### Preparação Tática  
 Ao atingir o 4º nível, você aprende a preparar disparos e munições com precisão estratégica.
 
@@ -2929,7 +3045,10 @@ Ao atingir o 4º nível, você aprende a preparar disparos e munições com prec
 
 > Essa preparação pode ser combinada com munições especiais do nível 2, criando interações táticas ricas (ex: munição incendiária com Carga Potente).
 
----
+
+{{pageNumber,auto}}
+\page
+
 
 ### Domínio de Artilharia  
 Ao atingir o **5º nível**, você alcança o ápice da sua rota de especialização.
@@ -3058,6 +3177,17 @@ As Profissões Independentes representam esse tipo de trajetória:
 Ao escolher uma Profissão Independente, você assume também um **papel político e social** dentro do mundo de *A Vontade dos Mares*. Isso pode trazer recompensas únicas, mas também obrigações, supervisão e riscos maiores.
 
 Você pode ser o braço da justiça ou a ponta da lança de uma rebelião. Mas, acima de tudo, você é alguém que não se limita a um navio. Você age pelo mundo — e o mundo te conhece.
+
+::
+
+##### Equipamento Inicial por Profissões Independentes
+| Profissão         | Ferramentas / Itens de Função | Kit Temático / Suprimentos | Belli Inicial |
+|:------------------|-------------------------------|----------------------------|---------------|
+| *Caçador de Recompensas* | Lista de procurados, 10m de Corda | Ração de patrulha, poncho de sobrevivência | B$5.500       |
+| *Marinheiro*        | Uniforme básico, apito naval | Manual de conduta + 2 rações + insígnia do Governo Mundial | B$6.000       |
+| *Revolucionário*    | Capa de viagem reversível, manifesto oculto | Ração camuflada + compartimento secreto para mensagens | B$5.500 |
+
+\column
 
 ##### Lista de Profissões Independentes:
 
@@ -3564,9 +3694,6 @@ As criaturas da sua taça costumam ter aparências adoráveis mesmo quando escon
 - Enquanto não estiver em combate, você pode fazer uma jogada de Atuação ou Convencimento contra uma criatura, com CD definida pelo Mestre. Em um sucesso, a criatura se torna Enfeitiçada por você até seu próximo descanso longo ou até que você ou seus aliados a ataquem. Você pode tentar fazer isso um número de vezes igual ao seu bônus de maestria por Descanso Completo.
 - O primeiro ataque que você faz em um combate contra uma criatura Enfeitiçada por você é considerado um ataque surpresa.
 
-{{pageNumber,auto}}
-\page
-
 ### Bola de Pelos
 *Pré-requisito: Mink*
 
@@ -3574,6 +3701,9 @@ Você possui um pouco mais de pelagem que os outros Minks, se ela é bonita e vi
 
 - Enquanto estiver Agarrado, você pode utilizar sua reação para receber 1 ponto de dano e escapar. Você pode fazer isso um número de vezes igual ao seu bônus de maestria por descanso completo.
 - Ao ser atingido por um ataque à distância, você pode utilizar sua reação para que o ataque seja considerado uma falha. Você pode fazer isso um número de vezes igual ao seu bônus de maestria por descanso completo.
+
+{{pageNumber,auto}}
+\page
 
 ### Bom Comerciante
 *Pré-Requisito: Humano*
@@ -3715,9 +3845,6 @@ Criar habilidades é a principal forma de personalizar o estilo de luta do seu p
 
 Você quer criar uma habilidade para um personagem ágil que usa correntes para prender o inimigo. Seu foco é **controle leve** com algum dano.
 
-{{pageNumber,auto}}
-\page
-
 - Você decide:
   - **Tipo de Ação**: Complemento.
   - **Custo de Vigor**: 1d4.
@@ -3729,6 +3856,9 @@ Você quer criar uma habilidade para um personagem ágil que usa correntes para 
 ---
 
 Essas diretrizes vão te ajudar a criar com consistência, mas lembre-se: mais importante que o equilíbrio, é a habilidade representar quem seu personagem é.
+
+{{pageNumber,auto}}
+\page
 
 ### Categorias de Habilidades
 Embora não sejam regras fixas, estas categorias ajudam a organizar o tipo de efeito que cada habilidade pode ter:
@@ -3801,9 +3931,6 @@ Para estimar o custo de uma habilidade em Pontos de Habilidade (PH), leve em con
 | *Foco obrigatório*          | Precisa manter concentração                         | -1 a -3 PH        |
 | *Pré-requisito restrito*    | Trunfo raro, fruta, arma específica                 | -1 a -2 PH        |
 
-{{pageNumber,auto}}
-\page
-
 ##### Tabela de Efeitos Especiais
 | *Efeito Especial*           | Descrição                                            | Custo em PH       |
 |:----------------------------|:-----------------------------------------------------|------------------:|
@@ -3812,6 +3939,9 @@ Para estimar o custo de uma habilidade em Pontos de Habilidade (PH), leve em con
 | *Multiplicadores em área*  | Efeito se aplica a vários alvos ou multiplicadores  | +3 a +8 PH        |
 | *Efeitos de longa duração* | Permanece ativo por vários turnos                   | +2 a +5 PH        |
 | *Explosão narrativa*        | Habilidade épica, uma vez por dia, dano massivo      | 20+ PH            |
+
+{{pageNumber,auto}}
+\page
 
 Essas tabelas devem ser cruzadas. Por exemplo, uma habilidade de **dano potente (12 PH)** com **ação livre (+4 PH)** e **custo de vigor alto (-4 PH)** fica com custo final **cerca de 12 PH**.
 
@@ -4317,6 +4447,8 @@ Ao comer uma Zoan, o personagem recebe benefícios imediatos, que crescem com se
 
 Toda Zoan oferece ao usuário **três estágios de transformação**:
 
+---
+
 - **Forma Natural**: a forma natural do personagem.
 - **Forma Híbrida**: um meio-termo entre homem e besta, misturando raciocínio e brutalidade.
 - **Forma Animal Completa**: uma imersão total na criatura da fruta.
@@ -4326,6 +4458,9 @@ Com treinamento e criatividade, formas alternativas podem ser desbloqueadas — 
 :
 
 #### Custos e Escalas
+Por conta da natureza animal das Zoans e seus incrementos naturais em atributos, seus usuários tem mais dificuldade em melhorar atributos com o treino. 
+
+Pagando preços mais altos, como indicado na seção de treino.
 
 | Tipo da Zoan | Forma Animal | Forma Híbrida | Efeitos Notáveis |
 |--------------|----------------------|------------------------|------------------|
@@ -4349,6 +4484,8 @@ Usuários de Zoan ancestral podem usar quantos dados quiser de suas reservas em 
 
 ### Zoan Mítica  
 Baseadas em **seres lendários**, essas Zoans são as mais poderosas do tipo. Além das formas clássicas, concedem ao usuário **poderes adicionais normalmente vistos em outros tipos de fruta**, como:
+
+---
 
 - **Manipulação de elementos** (chamas, relâmpagos, névoas)
 - **Curas milagrosas**
@@ -4478,9 +4615,7 @@ Você ganha *Pontos de Treino* por:
 - **Boa interpretação de personagem:** 1 ou mais pontos
 - **Feito incrível durante a sessão:** 1 ou mais pontos
 
-::
-
-{{classTable,decoration,frame
+{{classTable,frame
 ##### Pontos de Treino ganhos p/ Disciplina
 | Disciplina  | Pontos de Treino Ganhos |
 |:-------------------------------------------:|:----------:|
@@ -4508,7 +4643,7 @@ Você ganha *Pontos de Treino* por:
 
 ### Treinos Diversos
 
-{{classTable,decoration,frame
+{{classTable,frame
 ##### Usando os Pontos de Treino
 | Melhoria | Custo em Pontos |
 |:---------|:----------------|
@@ -4522,6 +4657,16 @@ Você ganha *Pontos de Treino* por:
 | Nível de Classe | Próximo Nível x 20 |
 | Nível de Fruta | Próximo Nível x 10 |
 | Adquirir Trunfo | 20 |
+}}
+:
+{{classTable,frame
+##### Custos de Treino p/ Usuários de Zoan
+| Melhoria | Custo em Pontos |
+|:---------|:----------------|
+| Atributo Príncipal ≥ 0 | Próximo Nível x 4 |
+| Atributo Derivado | Próximo Nível x 3 |
+| Atributo Príncipal Negativo | (+Próximo Nível) x 5 |
+| Nível de Fruta | Próximo Nível x 12 |
 }}
 
 {{pageNumber,auto}}
@@ -4581,12 +4726,12 @@ Algumas das habilidades de criaturas são capazes de causar condições especiai
 ### Envenenado
 - Uma criatura envenenada recebe dano venenoso no início de cada um de seus turnos até que seja curada, remova a fonte de seu veneno ou receba um antídoto apropriado. A quantidade de dano recebida varia de acordo com cada tipo de veneno.
 
-{{pageNumber,auto}}
-\page
-
 ### Exposição
 - Um alvo com essa condição recebe o valor indicado como dano adicional de qualquer fonte pela duração.
 - Ex. Um alvo que esteja com 2 pontos de Exposição, ao receber um golpe de espada que cause 3 pontos de dano, recebe 5 pontos de dano. 
+
+{{pageNumber,auto}}
+\page
 
 ### Exaustão
 Algumas habilidades especiais e perigos do ambiente, como fome, escorbuto e exposição prolongada a temperaturas congelantes ou escaldantes, podem levar a uma condição especial chamada Exaustão. A Exaustão é medida em dez níveis, para cada nível de Exaustão, todas as suas jogadas que envolvam um d20, como salvaguardas, jogadas de ataque e aptidões, além da sua CD e seus atributos de Agilidade e Resistência, recebem uma penalidade igual ao seu nível de exaustão.
@@ -4635,11 +4780,11 @@ Terminar um descanso longo reduz o nível de exaustão de uma criatura em um val
 - A criatura tem resistência contra todos os tipos de dano.
 - A criatura é imune a veneno e doenças, embora um veneno ou doença que já esteja em seu sistema sejam suspendidos, não neutralizados.
 
-{{pageNumber,auto}}
-\page
-
 ### Provocado
 - Uma criatura provocada é obrigada a atacar o alvo da provocação da melhor forma possível para ela. A criatura não pode se mover por vontade própria para longe da fonte de provocação e deve usar sua movimentação para se aproximar do alvo da provocação da melhor forma possível.
+
+{{pageNumber,auto}}
+\page
 
 ### Sangramento
 - Algumas habilidades especiais e algumas armas podem causar Sangramento, o sangramento é medido em pontos, esses pontos são cumulativos. Ao receber 1 ponto de sangramento você recebe 1 ponto de dano no início de cada um de seus turnos, ao receber um novo ponto de sangramento você recebe 2 pontos de dano ao invés de 1 e assim por diante. Seus pontos de Sangramento se mantém até que você cure ao menos 1 ponto de vida, ou alguém faça um teste de medicina com CD igual a 8 + o dobro do valor atual de sangramento. Médicos realizam esse teste com vantagem.
@@ -4654,6 +4799,45 @@ Terminar um descanso longo reduz o nível de exaustão de uma criatura em um val
 Uma lista extensa de exemplos com Akumas no Mi criadas diretamente para A Vontade dos Mares.
 
 :
+### Ushi Ushi no Mi, Modelo: Cervo
+
+**Tipo:** :: Zoan de Herbívoro
+**Aparência**: :: Uma fruta amarronzada e alongada, com pequenas protuberâncias que lembram galhadas brotando de seu topo. Seu gosto é adstringente e amargo.
+
+**Temática**: :: Permite ao usuário se transformar em um **cervo** ou em um híbrido cervo-humano, adquirindo agilidade extrema, saltos poderosos, sentidos apurados e chifres afiados. Se tornando assim um Humano-Cervo.
+
+**Desejo que a criou**: :: "Queria fugir para um lugar seguro, onde ninguém mais pudesse me alcançar."
+
+#### Efeitos Permanentes
+- +1 Resiliência, +1 Velocidade, +1 Conhecimento, +3m Deslocamento.
+- **Visão Aguçada**: Vantagem em testes de Percepção visual.
+- **Reflexos Cervídeos**: Na Forma Animal, Esquiva consome Complemento ao invés de Ação.
+
+#### Formas da Zoan
+
+##### Forma Animal – Cervo  
+**Custo de Uso:** :: 1d4 por turno, Ação Bônus para transformar
+**Efeitos**: :: +2 Força, +2 Velocidade, +6m de deslocamento. Ganha Chifres Naturais como Arma (dano: 1d6+For). Não pode usar armas ou ferramentas.
+
+Você se transforma completamente em um cervo.  
+
+##### Forma Híbrida
+**Custo de Uso:** :: 1d6 por turno, Ação Bônus para transformar
+**Efeitos**: :: +1 Força, +1 Velocidade, +3m de deslocamento. Ganha Chifres Naturais como Arma (dano: 1d6+For). Pode usar equipamentos e técnicas normalmente.
+
+Você assume uma forma entre humana e animal.  
+
+#### Habilidades
+
+##### Investida Galhada   
+**Custo de Uso:** :: 2d6 de Vigor, Ação  
+
+Você avança em linha reta até 6m e realiza um ataque com seus chifres. Se acertar, o alvo deve passar em um teste de Resistência (CD 12 + Força). Se falhar, é empurrado 3m e derrubado. 
+
+{{pageNumber,auto}}
+\page
+
+
 ### Kusa Kusa no Mi — Fruta da Grama
 
 **Tipo:** :: Logia
@@ -5168,8 +5352,14 @@ Após liberar energia acumulada, o Impact Dial não pode ser usado por 2 turnos.
 \page
 
 ## Ficha de Personagem
+Você pode acessar a ficha de personagem e exemplos de sua criação no discord oficial do sistema.
+
+[Clique aqui](https://discord.gg/twzf2h3XyV) ou escaneie o QRCode abaixo para fazer parte de nossa comunidade.
+
+![qrcode](https://i.imgur.com/udUW1bY.png) {width:325px,mix-blend-mode:multiply}
 
 ## Ficha do Barco
+*Próxima att...*
 
 {{pageNumber,auto}}
 \page
@@ -5196,7 +5386,7 @@ Um agradecimento especial a todos os amigos que leram até aqui!
 
 
 {{logo
-![](/assets/naturalCritLogoWhite.svg)
+![](https://i.imgur.com/FVyv8KZ.png)
 Um Sistema de Elpidio Cabral
 }}
 
