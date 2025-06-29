@@ -3,11 +3,11 @@ const { EmbedBuilder } = require('discord.js');
 module.exports = {
   run: async (client, msg, args) => {
     const embed = new EmbedBuilder()
-      .setTitle("📘 Comandos Disponíveis – A Vontade dos Mares")
+      .setTitle("📘 Comandos Disponíveis – A Vontade dos Mares & Vampiro V5")
       .setColor(0x0099ff)
       .addFields(
         {
-          name: "🔍 Consulta",
+          name: "🔍 Consulta - A Vontade dos Mares",
           value: "`%buscar`, `%reação`, `%trunfo`",
         },
         {
@@ -25,11 +25,20 @@ module.exports = {
             "`%r dX%` – Teste de Resistência de Determinação (CD = 20 - X/5)",
         },
         {
+          name: "🧛 Vampiro: A Máscara (V5)",
+          value:
+            "`%v` – Teste de Incitar Sangue (Rouse Check)\n" +
+            "`%v X` – Teste com X dados normais\n" +
+            "`%v X fY` ou `%v X Yf` – Teste com X dados, Y de Fome\n" +
+            "`%v X fY dZ` – Teste com dificuldade Z\n" +
+            "🔹 O resultado pode indicar Sucesso Crítico, Bagunçado, Margem ou Falha.",
+        },
+        {
           name: "🎭 Narrativo",
           value: "*Em desenvolvimento*",
         }
       )
-      .setFooter({ text: "Sistema A Vontade dos Mares – One Piece RPG" });
+      .setFooter({ text: "Sistema A Vontade dos Mares – One Piece RPG & Vampiro V5" });
 
     msg.channel.send({ embeds: [embed] });
   }
