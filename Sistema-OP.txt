@@ -6,7 +6,7 @@
 ## One Piece RPG
 ___
 
-{{banner Versao - 2.4.3}}
+{{banner Versao - 3.0}}
 
 {{footnote
   Inspirado no mundo de One Piece, esse sistema é pensado para portar os feitos da obra de maneira a se divertir com liberdade.
@@ -19,100 +19,118 @@ ___
 {{toc,wide
 # Sumário
 
-- ### [{{ Parte 1: Mecânicas de Jogo}}{{ 3 }}](#p3)
-  - ###### [{{ Exploração}}{{ 3 }}](#p3)
-  - ###### [{{ Interação}}{{ 3 }}](#p3)
-  - ###### [{{ Combate}}{{ 4 }}](#p4)
-    - [{{ Rodadas e Turnos}}{{ 4 }}](#p4)
-    - [{{ Em Seu Turno}}{{ 4 }}](#p4)
-    - [{{ Reações}}{{ 5 }}](#p5)
-    - [{{ Classe de Acerto e Classe de Dificuldade}}{{ 5 }}](#p5)
-    - [{{ Realizando um Ataque}}{{ 5 }}](#p5)
-    - [{{ Escala de Dano}}{{ 6 }}](#p6)
-    - [{{ Testes e Salvaguardas}}{{ 6 }}](#p6)
-    - [{{ Foco}}{{ 6 }}](#p6)
-    - [{{ Dano Permanente}}{{ 6 }}](#p6)
-    - [{{ Descansando}}{{ 7 }}](#p7)
-    - [{{ Evento “Cinemático”}}{{ 9 }}](#p9)
-  - ###### [{{ Clash}}{{ 8 }}](#p8)
-  - ###### [{{ Ataques em grupo}}{{ 9 }}](#p9)
-  - ###### [{{ Pilha de Ações}}{{ 9 }}](#p9)
-  - ###### [{{ A Regra do Contexto}}{{ 9 }}](#p9)
-- #### [{{ Guia Rápido - Criação de Personagem}}{{ 10 }}](#p10)
-- ### [{{ Parte 2: Personagens}}{{ 11 }}](#p11)
-  - #### [{{ Quem é Seu Personagem}}{{ 11 }}](#p11)
-    - [{{ Ilha de Origem}}{{ 11 }}](#p11)
-    - [{{ História}}{{ 11 }}](#p11)
-    - [{{ Sonho}}{{ 11 }}](#p11)
-    - [{{ Objetivos}}{{ 11 }}](#p11)
-    - [{{ Características}}{{ 11 }}](#p11)
-    - [{{ Moral}}{{ 12 }}](#p12)
-  - #### [{{ Atributos}}{{ 13 }}](#p13)
-    - [{{ Atributos Escaláveis}}{{ 13 }}](#p13)
-    - [{{ Atributos Principais}}{{ 13 }}](#p13)
-    -  [{{ Atributos Derivados}}{{ 14 }}](#p14)
-    -  [{{ Ação do Destino}}{{ 14 }}](#p14)
-    -  [{{ Distribuição por Potencial}}{{ 15 }}](#p15)
-    -  [{{ Determinação}}{{ 16 }}](#p16)
-    -  [{{ Escala de Dados}}{{ 16 }}](#p16)
-    -  [{{ Haki}}{{ 16 }}](#p16)
-    -  [{{ Consumindo uma Akuma no Mi}}{{ 16 }}](#p16)
-    -  [{{ Aptidões}}{{ 17 }}](#p17)
-    -  [{{ Competências}}{{ 18 }}](#p18)
-- #### [{{ Equipamento}}{{ 20 }}](#p20)
-  -  [{{ Qualidade e Durabilidade}}{{ 22 }}](#p22)
-  -  [{{ Grau de Raridade}}{{ 22 }}](#p22)
-  -  [{{ Armas Amaldiçoadas}}{{ 22 }}](#p22)
-  -  [{{ Usando Armaduras}}{{ 22 }}](#p22)
-  -  [{{ Melhorando e Consertando}}{{ 22 }}](#p22)
-- #### [{{ Progressão de Nível}}{{ 23 }}](#p23)
-- #### [{{ Raças}}{{ 24 }}](#p24)
-  -  [{{ Humano}}{{ 24 }}](#p24)
-  -  [{{ Homem-Peixe ou Tritão}}{{ 25 }}](#p25)
-  -  [{{ Mink}}{{ 26 }}](#p26)
-  -  [{{ Povo Do Céu}}{{ 26 }}](#p26)
-  -  [{{ Anão Tontata}}{{ 27 }}](#p27)
-
-- #### [{{ Classes}}{{ 28 }}](#p28)
-  -  [{{ Lutador}}{{ 29 }}](#p29)
-  -  [{{ Guerrilheiro}}{{ 30 }}](#p30)
-  -  [{{ Artista Marcial}}{{ 33 }}](#p33)
-  -  [{{ Espadachim}}{{ 34 }}](#p34)
-  -  [{{ Atirador}}{{ 35 }}](#p35)
-  -  [{{ Especialista}}{{ 35 }}](#p35)
-  -  [{{ Assassino}}{{ 36 }}](#p36)
-  -  [{{ Ladrão}}{{ 38 }}](#p38)
-- #### [{{ Profissões}}{{ 39 }}](#p39)
-  -  [{{ Capitão}}{{ 40 }}](#p40)
-  -  [{{ Combatente}}{{ 41 }}](#p41)
-  -  [{{ Navegador}}{{ 42 }}](#p42)
-  -  [{{ Médico}}{{ 43 }}](#p43)
-  -  [{{ Artilheiro}}{{ 44 }}](#p44)
-  -  [{{ Cozinheiro}}{{ 45 }}](#p45)
-  -  [{{ Músico}}{{ 46 }}](#p46)
-  -  [{{ Arqueólogo}}{{ 46 }}](#p46)
-  -  [{{ Carpinteiro}}{{ 46 }}](#p46)
-  -  [{{ Timoneiro}}{{ 46 }}](#p46)
-  -  [{{ Cientista}}{{ 47 }}](#p47)
-- #### [{{ Profissões Independentes}}{{ 48 }}](#p48)
-  -  [{{ Caçador de Recompensas}}{{ 48 }}](#p48)
-  -  [{{ Marinheiro}}{{ 49 }}](#p49)
-  -  [{{ Revolucionário}}{{ 50 }}](#p50)
-- #### [{{ Trunfos}}{{ 51 }}](#p51)
-- ### [{{ Mecânica de Compra e Criação de Habilidades}}{{ 59 }}](#p59)
-- ### [{{ Parte 3: Navegando}}{{ 65 }}](#p65)
-  -  [{{ Seu Barco}}{{ 65 }}](#p65)
-  -  [{{ Navegando}}{{ 65 }}](#p65)
-  -  [{{ Batalha Naval}}{{ 65 }}](#p65)
-- ### [{{ Parte 4: Akumas no Mi}}{{ 66 }}](#p66)
-- ### [{{ Apêndices}}{{ 71 }}](#p71)
-  - #### [{{ Apêndice A: Treino}}{{ 71 }}](#p71)
-  - #### [{{ Apêndice B: Tipos de Dano}}{{ 72 }}](#p72)
-  - #### [{{ Apêndice C: Condições}}{{ 73 }}](#p73)
-  - #### [{{ Apêndice D: Exemplos de Frutas}}{{ 76 }}](#p76)
-  - #### [{{ Apêndice E: Discos *(Dials)*}}{{ 85 }}](#p85)
-  - #### [{{ Apêndice F: Fichas}}{{ 86 }}](#p86)
+- ### [{{ Parte 1: Mecânicas de Jogo}}{{ 3}}](#p3)
+  - ###### [{{ Exploração}}{{ 3}}](#p3)
+  - ###### [{{ Interação}}{{ 3}}](#p3)
+  - ###### [{{ Combate}}{{ 4}}](#p4)
+    - [{{ Rodadas e Turnos}}{{ 4}}](#p4)
+    - [{{ Em Seu Turno}}{{ 4}}](#p4)
+    - [{{ Reações}}{{ 5}}](#p5)
+    - [{{ Classe de Acerto e Classe de Dificuldade}}{{ 5}}](#p5)
+    - [{{ Realizando um Ataque}}{{ 5}}](#p5)
+    - [{{ Escala de Dano}}{{ 5}}](#p5)
+    - [{{ Testes e Salvaguardas}}{{ 6}}](#p6)
+    - [{{ Foco}}{{ 6}}](#p6)
+    - [{{ Dano Permanente}}{{ 6}}](#p6)
+    - [{{ Descansando}}{{ 7}}](#p7)
+  - ###### [{{ Clash}}{{ 8}}](#p8)
+  - ###### [{{ Ataques em grupo}}{{ 9}}](#p9)
+  - ###### [{{ Pilha de Ações}}{{ 9}}](#p9)
+  - ###### [{{ A Regra do Contexto}}{{ 9}}](#p9)
+  - ###### [{{ Evento “Cinemático”}}{{ 9}}](#p9)
+- #### [{{ Guia Rápido para Criação de Personagem}}{{ 10}}](#p10)
+- ### [{{ Parte 2: Personagens}}{{ 11}}](#p11)
+  - #### [{{ Quem é Seu Personagem}}{{ 11}}](#p11)
+    - [{{ Ilha de Origem}}{{ 11}}](#p11)
+    - [{{ História}}{{ 11}}](#p11)
+    - [{{ Sonho}}{{ 11}}](#p11)
+    - [{{ Objetivos}}{{ 11}}](#p11)
+    - [{{ Características}}{{ 11}}](#p11)
+    - [{{ Moral}}{{ 12}}](#p12)
+  - #### [{{ Atributos}}{{ 13}}](#p13)
+    - [{{ Atributos Escaláveis}}{{ 13}}](#p13)
+    - [{{ Atributos Principais}}{{ 13}}](#p13)
+    -  [{{ Atributos Derivados}}{{ 14}}](#p14)
+    -  [{{ Ação do Destino}}{{ 14}}](#p14)
+    -  [{{ Distribuição por Potencial}}{{ 15}}](#p15)
+    -  [{{ Determinação}}{{ 16}}](#p16)
+    -  [{{ Escala de Dados}}{{ 16}}](#p16)
+    -  [{{ Akuma no Mi}}{{ 16}}](#p16)
+    -  [{{ Aptidões}}{{ 17}}](#p17)
+    -  [{{ Competências}}{{ 18}}](#p18)
+  - #### [{{ Equipamento}}{{ 21}}](#p21)
+    -  [{{ Qualidade e Durabilidade}}{{ 23}}](#p23)
+    -  [{{ Grau de Raridade}}{{ 23}}](#p23)
+      - [{{ Meito – Armas de Grau}}{{ 23}}](#p23)
+    -  [{{ Armas Amaldiçoadas}}{{ 23}}](#p23)
+    -  [{{ Usando Armaduras}}{{ 24}}](#p24)
+  - #### [{{ Melhorando e Consertando}}{{ 24}}](#p24)
+  
+- #### [{{ Progressão de Nível}}{{ 25}}](#p25)
+  -  [{{ Ganhando Vida e Vigor}}{{ 25}}](#p25)
+  
+- #### [{{ Raças}}{{ 26}}](#p26)
+  -  [{{ Humano}}{{ 26}}](#p26)
+  -  [{{ Homen-Peixe ou Tritão}}{{ 27}}](#p27)
+  -  [{{ Mink}}{{ 28}}](#p28)
+  -  [{{ Povo Do Céu}}{{ 28}}](#p28)
+  -  [{{ Anão Tontata}}{{ 29}}](#p29)
+  
+- #### [{{ Classes}}{{ 30}}](#p30)
+  -  [{{ Lutador}}{{ 31}}](#p31)
+  -  [{{ Guerrilheiro}}{{ 32}}](#p32)
+  -  [{{ Artista Marcial}}{{ 35}}](#p35)
+  -  [{{ Espadachim}}{{ 36}}](#p36)
+  -  [{{ Atirador}}{{ 37}}](#p37)
+  -  [{{ Especialista}}{{ 38}}](#p38)
+  -  [{{ Assassino}}{{ 39}}](#p39)
+  -  [{{ Ladrão}}{{ 41}}](#p41)
+  
+- #### [{{ Profissões}}{{ 42}}](#p42)
+  -  [{{ Capitão}}{{ 43}}](#p43)
+  -  [{{ Combatente}}{{ 44}}](#p44)
+  -  [{{ Navegador}}{{ 45}}](#p45)
+  -  [{{ Médico}}{{ 46}}](#p46)
+  -  [{{ Artilheiro}}{{ 47}}](#p47)
+  -  [{{ Cozinheiro}}{{ 48}}](#p48)
+  -  [{{ Músico}}{{ 49}}](#p49)
+  -  [{{ Carpinteiro}}{{ 50}}](#p50)
+  -  [{{ Timoneiro}}{{ 51}}](#p51)
+  -  [{{ Arqueólogo}}{{ 52}}](#p52)
+  -  [{{ Exótico}}{{ 53}}](#p53)
+  -  [{{ Cientista}}{{ 54}}](#p54)
+  
+- #### [{{ Profissões Independentes}}{{ 55}}](#p55)
+  -  [{{ Caçador de Recompensas}}{{ 56}}](#p56)
+  -  [{{ Marinheiro}}{{ 57}}](#p57)
+  -  [{{ Revolucionário}}{{ 58}}](#p58)
+    
+ - #### [{{ Trunfos}}{{ 59}}](#p59)
+ 
+- ### [{{ Mecânica de Compra e Criação de Habildiades}}{{ 67}}](#p67)
+  -  [{{ Guia de Criação de Habilidades}}{{ 67}}](#p67)
+  
+- ### [{{ Parte 3: Navegação}}{{ 73}}](#p73)
+  -  [{{ Navegando}}{{ 73}}](#p73)
+  -  [{{ Batalha Naval}}{{ 73}}](#p73)
+  
+- ### [{{ Akumas no Mi}}{{ 75}}](#p75)
+  -  [{{ Criando uma Akuma no Mi}}{{ 75}}](#p75)
+  -  [{{ Tipos de Fruta}}{{ 75}}](#p75)
+  
+- ### [{{ Apêndices}}{{ 80}}](#p80)
+  - #### [{{ Apêndice A: Treino}}{{ 80}}](#p80)
+  - #### [{{ Apêndice B: Tipos de Dano}}{{ 81}}](#p81)
+  - #### [{{ Apêndice C: Condições}}{{ 82}}](#p82)
+  
+  - #### [{{ Apêndice D: Exemplos de Frutas do Diabo}}{{ 85}}](#p85)
+  
+  - #### [{{ Apêndice E: Dials (discos)}}{{ 94}}](#p94)
+  
+  - #### [{{ Apêndice F: Ficha de Personagem}}{{ 95}}](#p95)
 }}
+
+
 
 {{note
 ##### Faça parte de nossa comunidade!
@@ -196,27 +214,26 @@ Durante seu turno, o seu personagem pode se mover em uma distância igual ao seu
 :
 ##### A estrutura básica de um turno é:
 
-#### **Ação**  
+#### Ação  
 Representa a principal atividade que você pode realizar no turno. As ações mais comuns estão descritas na tabela "Ações em Combate".
 
-#### **Complemento (da ação)**
+#### Complemento (da ação)
 Uma ação menor, porém relevante. Pode ser ativar uma habilidade, realizar um segundo ataque *(caso a classe permita)* ou qualquer ação com esforço reduzido.
 
-#### **Ação Bônus**
+#### Ação Bônus
 Liberada por habilidades, classes ou trunfos. Normalmente é uma ação especial rápida com limitações de uso.
 
-#### **Ação Livre**  
+#### Ação Livre  
 Atividades triviais ou reflexivas que não demandam esforço significativo, como falar, deixar cair um item ou gesticular.
 
-#### **Movimento**
+#### Movimento
 Você pode se deslocar até o valor total de seu **Deslocamento** (baseado em sua **Agilidade**).
 
-#### **Interação com Objeto** 
+#### Interação com Objeto 
 Uma ação rápida que envolve objetos, como abrir uma porta destrancada, sacar uma arma leve ou puxar uma alavanca.
-:
+
 Personagens com alta **Agilidade** podem ter ações adicionais no turno, conforme definido na tabela de Agilidade nos Atributos Derivados.
 
-:
 
 ##### Ações em Combate
 
@@ -248,13 +265,16 @@ Com uma **Ação**, você utiliza um material especial ou fonte improvisada para
 
 Escolha um tipo de dano (como *fogo*, *eletricidade*, *ácido*, *veneno*, etc.), de acordo com a fonte utilizada. Até o final do seu próximo turno, seus ataques com essa arma causam **+1d2 a +1d6 de dano adicional** do tipo escolhido.
 
+---
+
 - É necessário ter acesso a um **material apropriado** (óleo inflamável, toxina natural, pó elétrico...) ou aprovação do mestre com base em contexto.
 
 - Quando usado para **impregnar o próprio corpo** (como punhos ou pernas), você **também sofre** o **dado mínimo** do dano elemental causado (ex: 1 em 1d4).
 
 O mestre pode permitir que o jogador teste **Improviso** ou **Engenharia** para improvisar o material, desde que haja justificativa narrativa.
 
-
+**Desengajar Forçado** ::
+Você pode usar a ação de Desengajar como um Complemento ao custo de 1d4 de Vigor.
 
 **Reação** ::  
 Você pode executar uma façanha fora do seu turno em resposta a um evento imediato, como sofrer um ataque ou ver um aliado cair.
@@ -406,8 +426,8 @@ Você pode encerrar uma habilidade de foco quando desejar.
 #### Ferimentos & Lesões
 Ataques críticos e dano máximo de habilidades que você receba causam dano severo. Ao levar esse tipo de dano de ataques cortantes, perfurantes ou elementais você fica com um **ferimento**. Ao levar esse tipo de dano de ataques contundentes, esmagamento, enérgetico ou psíquico você fica com uma **lesão**.
 :
-***Ferimentos:*** Diminuem a Vida máxima no dano recebido.   
-***Lesões:*** Diminuem o Vigor máximo no dano recebido.
+***Ferimentos:*** Diminuem a Vida máxima na metade dano recebido.   
+***Lesões:*** Diminuem o Vigor máximo na metade dano recebido.
 :
 Após 5 dias sem tratamento médico, ferimentos ou lesões se tornam *profundas*.  
 
@@ -516,7 +536,7 @@ A sua Determinação continua subtraída pelo uso até um Descanso Completo.
 ## Clash
 Um Clash acontece quando você, ou um inimigo, desafia um oponente para uma colisão de *Determinação*. 
 
-A qualquer momento durante um combate você pode interromper a ordem de iniciativa para desafiar um inimigo para um Clash. Ambos escolhem uma de suas habilidades, revelando suas escolhas antes da rolagem, e colidem enquanto realizam um teste de Determinação resistida. Ambos devem gastar o mínimo de vigor exigido pela habilidade utilizada.  
+A qualquer momento durante um combate você pode interromper a ordem de iniciativa para desafiar um inimigo para um Clash. Ambos escolhem uma de suas habilidades, revelando suas escolhas antes da rolagem, e colidem enquanto realizam um teste de Colisão de Determinação. Ambos devem gastar o mínimo de vigor exigido pela habilidade utilizada.  
 O vencedor causa os efeitos de sua habilidade e ganha vantagens de acordo com o Clash executado.  
 *(Aqueles com Haki do Conquistador desperto vencem o Clash automaticamente contra quem não possui a determinação de um rei)*
 
@@ -545,8 +565,20 @@ Caso o perdedor caia a 0 pontos de vida nesse Clash, ele não pode realizar o te
 :
 ***Clashs Avançados:***
 
-***Speed Blitz:***
+***Blitz Clash:*** O objetivo de um *blitz* é demonstrar o quão superior você é em relação ao oponente, seja por impedir que o mesmo reaja a sua velocidade extrema ou ignorar os seus ataques como se não causassem dano. 
 
+Um blitz custa 2 usos de clash para ser proposto e acontece imediatamente, podendo ser proposto somente durante o final de um turno, sem mover os envolvidor ou os forçar a usar habilidades e ataques. Quando sua Agilidade é maior que sua Resistência, você impõe um SpeedBlitz, caso contrário você impõe um TankBlitz *(Caso ambos os atributos sejam iguais, você escolhe qual Blitz irá utilizar)*. 
+
+---
+
+- ***SpeedBlitz.*** Ao vencer, o seu oponente perde o próximo turno e fica incapaz de utilizar reações até o final do próximo turno do vencedor. Caso sua Agilidade seja maior que a do oponente, ele fica um turno extra sem poder usar reações.
+
+Você soma sua Agilidade ao teste de Determinação. 
+
+- ***TankBlitz.*** Ao vencer, seu oponente causa somente metade de dano em você até o final do próximo turno do vencedor. Até o final do seu próximo, você tem o dobro do seu deslocamento ao andar em direção ao perdedor e você ganha +1 de CA para cada 10% de Determinação. Caso sua Resistência seja maior que a do oponente, você passa um turno extra com movimeto e CA aumentos pelo Blitz.
+
+Você soma sua Resistência ao teste de Determinação.
+:
 ***Clash do Conquistador:***
 
 :
@@ -792,7 +824,7 @@ A reputação pode ser usada para persuadir ou intimidar outras pessoas, ou para
 
 
 ### Moral
-*(Mecânica aproveitada de outro sistema)*  
+*(Mecânica aproveitada de outro sistema, créditados no fim do livro)*  
 É raro que alguém se lance aos perigos do mar sem que possua um sonho, algo que descreve de maneira ampla seu objetivo e suas
 atitudes para isso. O sonho é uma combinação de dois fatores: o tipo de realização (conhecimento, liberdade e poder), e como ele
 trilhará a maior parte do caminho deste sonho (companheirismo, força ou enganação). Assim, nove caminhos são definidos.
@@ -968,13 +1000,13 @@ Usada em testes de iniciativa, ações em sequência e esquiva.
 ###### Movimento com Base na Agilidade
 | Agilidade | Movimento p/ min | 
 |:---------:|:----------------:|
-|    -1     |     1m p/min     |
-|     0     |     1m p/min     |
-|     1     |     5m p/min     |
-|     5     |     25m p/min    |
-|    10     |     50m p/min    |
-|    20     |    100m p/min    |
-|    40     |    200m p/min    |
+|    -1     |     1.5m p/min   |
+|     0     |     1.5m p/min    |
+|     1     |     3m p/min     |
+|     5     |     15m p/min    |
+|    10     |     30m p/min    |
+|    20     |    60m p/min    |
+|    40     |    120m p/min    |
 
 - A cada **10 de Agilidade**: ganha **+1 Reação Extra**  
 - A cada **25 de Agilidade**: ganha **+1 Complemento Extra**  
@@ -1062,6 +1094,8 @@ O Potencial determina a distribuição inicial dos seus atributos, refletindo de
 
 Cada tipo de Potencial tem um conjunto fixo de valores que você deve atribuir entre seus 10 Atributos Principais.
 
+O valor máximo permitido que um atributo seu pode chegar no nível 1 é **7**.
+
 ##### Lista com todos os Potenciais:
 
 ### **Desastre Sobrenatural**  
@@ -1103,6 +1137,7 @@ Cada tipo de Potencial tem um conjunto fixo de valores que você deve atribuir e
   Possuem talentos naturais distintos, e quando focam neles, atingem feitos incríveis. Mas não são imbatíveis — apenas notavelmente bons.
 
 ---
+\column
 
 ### **Humano**  
 *Ex: Nami, Usopp, Coby*
@@ -1124,7 +1159,7 @@ Cada tipo de Potencial tem um conjunto fixo de valores que você deve atribuir e
   Todos começam em **00**  
   Você possui **12 pontos livres** para distribuir onde quiser  
   Pode **diminuir atributos** para ganhar pontos extras  
-  Pode ultrapassar o **limite 10** no Nível 1
+  Um atributo seu pode chegar ao valor de **10** no Nível 1
 - **Características:**
   - Seu corpo é **parcialmente robótico** (mínimo: 30%)
   - +2 em **Resistência**
@@ -1143,6 +1178,9 @@ Cada tipo de Potencial tem um conjunto fixo de valores que você deve atribuir e
   - Nenhuma
 - **Descrição:**  
   Você é patético. Sua existência só é relevante porque está no caminho dos sonhos dos outros. Um lembrete cruel de que nem todos brilham.
+
+### Gigante
+*Atualização 4.0...*
 
 {{pageNumber,auto}}
 \page
@@ -1212,6 +1250,7 @@ Durante a criação de personagem ou em meio de uma aventura, você pode vir a c
 Frutas disponibilizam poderes extras, poderes incríveis e possíveis incrementos nos atributos. Você pode ler todos os detalhes na seção de [Akumas no Mi](#p66).
 
 ## Haki
+*Atualização 4.0...*
 
 ### Cor da Ambição do Armamento
 
@@ -1226,12 +1265,22 @@ Frutas disponibilizam poderes extras, poderes incríveis e possíveis incremento
 \page
 
 ## Aptidões
-Aptidões são como tarefas/conhecimentos que seu personagem é bom em executar/fazer. Tendo uma pontuação indo de 0 a 5, sendo 0 "não sabe fazer" e 5 "o melhor que faz isso".
 
-Testes de aptidão somam o atributo relacionado mesmo se você tiver 0 pontos nela; teste de aptidão podem custar Vigor em muitas ocasiões.
+Aptidões representam os conhecimentos e habilidades que seu personagem desenvolve ao longo da vida. Elas abrangem tanto capacidades físicas e sociais quanto técnicas e intelectuais, e são utilizadas sempre que um teste exige especialização.
+
+Cada aptidão possui uma pontuação entre 0 e 5:
+
+---
+
+- *0* significa nenhuma familiaridade ou prática com a tarefa.
+- *5* representa excelência absoluta, comparável a mestres em sua área.
+
+Quando você realiza um teste envolvendo uma aptidão, deve somar o atributo relacionado mesmo que sua pontuação nela seja 0. Em algumas situações, testes de aptidão também exigem gasto de Vigor, especialmente em tarefas complexas, extensas ou feitas sob pressão.
+
+As aptidões estão divididas em grupos por afinidade temática, mas o sistema também permite criar aptidões personalizadas quando a narrativa ou a construção do personagem exigir. Classes e profissões concedem níveis de aptidão coerentes com o papel que representam no mundo, e é possível aprimorar aptidões tanto ao subir de nível quanto através de treino ou experiência durante o seu progresso.
 
 :
-{{classTable,decoration,frame
+{{classTable,frame
 ##### Benefícios Ganhos p/ Pontos de Aptidão
 | Nº de Pontos | Benefício Ganho |
 |:-:|:---------------------------|
@@ -1290,12 +1339,23 @@ Testes de aptidão somam o atributo relacionado mesmo se você tiver 0 pontos ne
 \page
 
 ## Competências
- Competências são coisas específicas em que seu personagem é bom no uso. 
- 
- Tendo uma pontuação indo de 0 a 5, sendo 0 "não sabe usar" e 5 "o melhor no uso disso".
+
+Competências representam o domínio técnico do personagem sobre armas, ferramentas e equipamentos específicos. Elas definem se o personagem sabe utilizar certo tipo de recurso com eficiência e segurança, ou se está improvisando sem preparo.
+
+Cada competência vai de 0 a 5, onde:
+
+---
+
+- 0 indica que o personagem mal sabe como empunhar ou ativar o item.
+- 5 representa excelência prática e íntima familiaridade com aquele tipo de equipamento.
+
+Mesmo com zero pontos, é possível tentar usar uma arma ou ferramenta, mas isso impõe severas penalidades. À medida que o personagem progride em uma competência, ele se torna mais preciso, confiável e capaz de extrair todo o potencial do equipamento — inclusive desbloqueando especializações únicas.
+
+Competências não afetam diretamente o dano ou efeitos dos equipamentos, mas alteram a maneira como eles são utilizados e maximizam sua performance. Cada classe e profissão concede acesso a certas competências de forma natural, mas qualquer personagem pode aprimorar novas competências através de treino ou progressão de nível.
+
 
 :
-{{classTable,decoration,frame
+{{classTable,frame
 #### Benefícios Ganhos p/ Pontos de Competência  
 *Cada nível custa seu valor em pontos de Competência*
 
@@ -1398,6 +1458,9 @@ Testes de aptidão somam o atributo relacionado mesmo se você tiver 0 pontos ne
 - Kit de Disfarce (maquiagem, tintas, perucas, acessórios);
 - Kit de Primeiros Socorros / Kit de Medicina;
 
+{{pageNumber,auto}}
+\page
+
 ##### Comunicação
 
 ---
@@ -1417,9 +1480,6 @@ Testes de aptidão somam o atributo relacionado mesmo se você tiver 0 pontos ne
 - Kit de Química;
 - Kit de Escultura;
 
-{{pageNumber,auto}}
-\page
-
 ##### Ferramentas de Profissão
 
 ---
@@ -1436,28 +1496,9 @@ Testes de aptidão somam o atributo relacionado mesmo se você tiver 0 pontos ne
 - Fornalha / Forja;
 - Kit de Arrombamento/Ladrão (ganzuás, óleo, alavanca);
 
-:
-Armas/Ferramentas na mesma linha são de tipos parecidos, usando a mesma competência.
-:
+###### Armas/Ferramentas na mesma linha são de tipos parecidos, usando a mesma competência.
 
-##### Itens Narrativos e Úteis
-Itens que não necessitam de competência para seu uso.
-| Item                            | Tipo       | Descrição e Uso Sugerido |
-|---------------------------------|------------|----------------------------|
-| **Faixa de Meditação** | Narrativo | Vantagem em teste de Foco 1x por dia (persistência/controle mental). |
-| **Faixa de Concentração** | Narrativo  | Mantém uma habilidade de Foco mesmo ao falhar no teste, 1x por sessão. |
-| **Capa com Bainha Oculta** | Narrativo  | Esconde até 2 armas leves. Vantagem ao sacar furtivamente. |
-| **Estojo de Munição** | Mecânico   | Contém 20 munições. Recarrega 1d6 munições por descanso curto (com Improviso). |
-| **Luva de Engenheiro** | Mecânico   | 1x por sessão, improvisa uma ferramenta ou arma leve com Engenharia. |
-| **Ração Emocional** | Narrativo  | Cura 1d4 Vida após performance emocional. Criada por Músico. |
-| **Apito de Comando** | Narrativo  | Alcance sonoro de 50m. Coordena ações, pode ser usado como gatilho. |
-| **Rede Dobrável** | Mecânico   | Arremessável. Imobiliza alvo com teste oposto de Destreza/Velocidade. |
-| **Óleo de Aquecimento Muscular**| Mecânico   | Bônus de +1 em ataque desarmado no 1º turno de combate. 1 uso p/ combate. |
-| **Frasco de Óleo de Silêncio**, **Silenciador** | Mecânico   | Aplica em arma leve. Torna o ataque silencioso por 1 minuto. |
-| **Cápsula de Fumaça** | Mecânico   | Gera neblina em 3m de raio por 1 turno. Impede visão direta. |
-| **Graxa Deslizante** | Mecânico   | Permite escapar de amarras, agarrões ou grades. Garante 1 rerrolagem em tentativa. |
-
-\column
+:
 
 {{classTable,decoration,frame
 #### Especializações  
@@ -1477,6 +1518,45 @@ Itens que não necessitam de competência para seu uso.
 }}
 
 Cao você possua mais do que uma especialização que adiciona custo ao uso de uma arma, os custos são somados.
+
+{{pageNumber,auto}}
+\page
+
+### Itens Narrativos e Úteis
+Itens que não necessitam de competência para seu uso.
+| Item                            | Tipo       | Descrição e Uso Sugerido |
+|---------------------------------|------------|----------------------------|
+| **Faixa de Meditação** | Narrativo | Vantagem em teste de Foco 1x por dia (persistência/controle mental). |
+| **Faixa de Concentração** | Narrativo  | Mantém uma habilidade de Foco mesmo ao falhar no teste, 1x por sessão. |
+| **Capa com Bainha Oculta** | Narrativo  | Esconde até 2 armas leves. Vantagem ao sacar furtivamente. |
+| **Estojo de Munição** | Mecânico   | Contém 20 munições. Recarrega 1d6 munições por descanso curto (com Improviso). |
+| **Luva de Engenheiro** | Mecânico   | 1x por sessão, improvisa uma ferramenta ou arma leve com Engenharia. |
+| **Ração Emocional** | Narrativo  | Cura 1d4 Vida após performance emocional. Criada por Músico. |
+| **Apito de Comando** | Narrativo  | Alcance sonoro de 50m. Coordena ações, pode ser usado como gatilho. |
+| **Rede Dobrável** | Mecânico   | Arremessável. Imobiliza alvo com teste oposto de Destreza/Velocidade. |
+| **Óleo de Aquecimento Muscular**| Mecânico   | Bônus de +1 em ataque desarmado no 1º turno de combate. 1 uso p/ combate. |
+| **Frasco de Óleo de Silêncio**, **Silenciador** | Mecânico   | Aplica em arma leve. Torna o ataque silencioso por 1 minuto. |
+| **Cápsula de Fumaça** | Mecânico   | Gera neblina em 3m de raio por 1 turno. Impede visão direta. |
+| **Graxa Deslizante** | Mecânico   | Permite escapar de amarras, agarrões ou grades. Garante 1 rerrolagem em tentativa. |
+
+\column
+
+### Kits
+
+##### Todos os Kits Funcionais
+| Nome do Kit                        | Tipo        | Descrição e Uso Sugerido |
+|-----------------------------------|-------------|--------------------------|
+| **Kit Médico Simples** | Médico | Bandagens, ervas, frascos. Cura leve com Conhecimento ou Medicina. |
+| **Kit de Navegação** | Navegador   | Bússola, sextante, mapa. Vantagem em Navegação Marítima. |
+| **Kit de Cozinha Portátil** | Cozinheiro  | Temperos, panela. Produz 2 refeições leves por descanso longo (cura 1d4 Vigor). |
+| **Kit de Escavação** | Arqueólogo  | Pincel, estilete, escova. Vantagem em testes de História e exploração de ruínas. |
+| **Kit de Ferramentas de Carpintaria** | Carpinteiro | Martelo, serrote, pregos. Repara itens e estruturas com Eng. Naval. |
+| **Kit de Cientista** | Cientista | Reagentes, frascos, tubos. Testa substâncias ou cria toxinas leves com Alquimia. |
+| **Kit de Treino** | Suporte | Bandagem, óleo, fruta. Remove 1 nível de exaustão em descanso. |
+| **Kit de Armadilhas Simples** | Guerrilheiro| Cordas, estacas, óleo. Monta armadilhas básicas (queda, laço, queimadura). |
+| **Kit de Improviso** | Especialista| Cola, fios, parafusos. Cria soluções improvisadas com Engenharia ou Improviso. |
+| **Kit de Infiltração** | Assassino | Bomba de fumaça, trapo escuro, óleo de silêncio. Auxilia furtividade e fuga. |
+| **Kit de Distração** | Ladrão | Moedas falsas, graxa, tralhas. Vantagem em Enganação e Diversão. |
 
 {{pageNumber,auto}}
 \page
@@ -1582,13 +1662,32 @@ Cao você possua mais do que uma especialização que adiciona custo ao uso de u
 | Câmera ou Luneta | 150 Belly | 1,5 kg | Tira fotos ou observa com longo alcance |
 }}
 
-:
+
 {{classTable,decoration,frame,wide
 ##### Armaduras e Escudos
-| Nome | Preço | Peso | Propriedade |
-|:-----|:-----:|:----|:------------|
-| x | X Belly | Y kg | Acuidade, arremesso, rapidez | 
+| Nome                         | Preço      | Peso     | Propriedade |
+|------------------------------|:----------:|:--------:|:------------|
+| *Armaduras Pesadas* | | | | |
+| Peitoral de Aço | 450 Belly  | 10 kg    | +2 Resistência, -2 Agilidade, Desvantagem em Furtividade |
+| Armadura de Escamas | 400 Belly  | 9 kg     | +2 Resistência, -1 Agilidade, Desvantagem em Furtividade |
+| Placas Articuladas | 500 Belly  | 11 kg    | +2 Resistência, -1 Agilidade, -1 Persistência, impõe ruído ao andar |
+| *Armaduras Médias* | | | | |
+| Couro Endurecido | 250 Belly  | 6 kg | +1 Resistência, -1 Carisma, aparência robusta |
+| Manto Reforçado | 200 Belly  | 4 kg | +1 Disciplina, nenhuma penalidade |
+| *Armaduras Leves* | | | | |
+| Casaco Naval de Comando | 180 Belly  | 3 kg | +1 Aparência, vantagem social entre marinheiros |
+| Colete de Fibra Leve | 160 Belly  | 2.5 kg | Resistência a um tipo dano físico, permite movimentos ágeis |
+| *Roupas e Mantos* | | | | |
+| Jaqueta Cerimonial | 220 Belly  | 2 kg | +2 Aparência, não fornece defesa real |
+| Uniforme Real de Gala | 300 Belly  | 3 kg | +2 Aparência, vantagem em interações formais |
+| Manto de Fumaça Quente | 350 Belly  | 3.5 kg | Resistência a frio, leve dissipação de fumaça |
+| Roupa Científica Isolada | 400 Belly  | 4 kg | Resistência a calor/choque, requer manutenção |
+| *Escudos* | | | | |
+| Escudo Pequeno | 120 Belly | 2 kg | -1 de dano recebido por ataques físicos |
+| Escudo Médio | 180 Belly  | 3.5 kg | -2 de dano recebido por todos os tipos de dano -1 Agilidade |
+| Escudo Grande | 250 Belly | 5.5 kg | -3 de dano recebido por todos os tipos de dano, -2 Agilidade |
 }}
+
 
 ![Armamentos dos chapéus](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/f1a692fe-284f-43f5-aebf-d7200e926f79/d6ly315-738506e6-062a-4cd7-ad31-7ba4e8a2b7a0.png/v1/fill/w_1142,h_700/one_piece_chapter_664_cover__lineart_by_phantomred17_d6ly315-pre.png) {position:absolute,bottom:-30px,right:-70px,width:1000px}
 
@@ -1596,61 +1695,182 @@ Cao você possua mais do que uma especialização que adiciona custo ao uso de u
 \page
 
 ## Qualidade e Durabilidade
-a
+
+Nem todas as armas ou ferramentas são forjadas com a mesma perícia. A qualidade de um equipamento define sua confiabilidade e resistência a longo prazo, enquanto sua durabilidade representa quantos impactos, falhas ou tensões ele pode suportar antes de se partir.
+
+Cada item possui uma **Categoria de Qualidade**, que determina sua **Durabilidade base** — um valor entre 1 e 5 que funciona como a "vida útil" do objeto. A cada uso extremo, erro crítico ou evento traumático, esse valor pode se reduzir.
+
+A perda de 1 ponto de durabilidade ocorre quando:
+
+---
+
+- O personagem causa **um erro crítico** com a arma ou ferramenta.
+- A arma ou escudo **bloqueia um ataque crítico** do oponente.
+- A ferramenta sofre **excesso de uso ou dano direto** narrado pelo Mestre.
+
+Quando a durabilidade chega a 0, o equipamento **se quebra ou torna-se inutilizável**, exigindo reparo completo ou substituição.
+
+| Categoria de Qualidade | Durabilidade Base | Exemplos Narrativos |
+|:-----------------------|:------------------:|:---------------------|
+| Ruim                  | 1                | Arma enferrujada, lâmina torta, ferramenta improvisada |
+| Mediana               | 2                | Equipamento funcional, comum nas cidades portuárias |
+| Boa                   | 3                | Ferramenta de ofício refinada, armamento militar padrão |
+| Excelente             | 4                | Forjado por especialistas, usado por agentes e caçadores |
+| Obra-Prima            | 5                | Meito, relíquias lendárias, equipamentos de linhagem nobre |
+
+Itens de qualidade superior custam mais caro, mas oferecem maior longevidade — especialmente em aventuras prolongadas ou em mãos de usuários frequentes.
+
 
 ## Grau de Raridade
-Grau comum = nada
-:
-Graus acima = aumenta escala de dano, multiplica durabilidade
 
-### Meito - Armas de Grau
+O universo é vasto, e nele circulam armas lendárias, relíquias esquecidas, criações amaldiçoadas e obras-primas únicas. O **Grau de Raridade** representa não apenas o quão difícil é encontrar uma arma, mas também seu poder intrínseco.
 
-#### Armas Comuns
-+0 a +1 
+Ao contrário da qualidade (que define a integridade física), a raridade **altera diretamente a escala de dano, precisão e durabilidade máxima** de um equipamento.
 
-#### Grau Simples
-+2 à +3
+Cada grau fornece um bônus de acerto e dano (que pode variar dentro do intervalo do grau) e um **multiplicador de durabilidade**, aplicado sobre o valor base da categoria de qualidade.
 
-#### Grau Habilidoso
-+4 à +5
+| <span style="white-space:nowrap;">Grau de Raridade</span> | Bônus de Acerto/Dano | Mult. de Durabilidade | Aumento de Escala de Dano |
+|:-------------------|:--------------:|:------------------:|:---------------------:|
+| Comum                | +0 a +1             | x1 | –                          |
+| Grau Simples         | +2 a +3             | x2 | +1                  |
+| Grau Habilidoso      | +4 a +5             | x3 | +2                 |
+| Grande Grau          | +6 a +7             | x4 | +3                 |
+| Grau Supremo         | +8 a +10            | x5 | +4                 |
 
-#### Grande Grau
-+6 à +7
+O Mestre decide qual o bônus exato é dentro da faixa do grau. Itens com raridade elevada são normalmente únicos, herdados, roubados de inimigos formidáveis ou forjados após jornadas intensas.
 
-#### Grau Supremo
-+8, +9 a +10
+
+### Meito – Armas de Grau
+
+Inspirado diretamente pela mitologia de One Piece, o sistema adota o termo **Meito** para classificar armas, armaduras e ferramentas de raridade superior. Um Meito não é apenas uma arma afiada — é um símbolo de maestria, história e poder.
+
+---
+
+- **Grau Simples** representa lâminas respeitadas entre combatentes comuns.
+- **Grau Habilidoso** já é alvo de cobiça de piratas e oficiais da Marinha.
+- **Grande Grau** é citado em livros, enciclopédias ou cartazes de procurado.
+- **Grau Supremo** define armas lendárias, associadas a figuras épicas ou eventos históricos do mundo.
+
+Um Meito de Grau Supremo pode possuir nome, estilo próprio, técnica exclusiva ou até conexão com o Haki, Chi ou Akuma no Mi.
+
+---
 
 ## Armas Amaldiçoadas
-b
 
-## Usando Amarduras
-c
+Nem todo poder vem sem custo. Armas Amaldiçoadas são equipamentos que carregam uma maldição, espírito ou influência negativa que afeta quem as empunha. Em troca, concedem **habilidades únicas, bônus drásticos ou efeitos sobrenaturais**.
+
+Ao escolher empunhar uma arma amaldiçoada, o personagem aceita uma **condição de maldição ativa**, como:
+
+---
+
+- Perda gradual de Vigor ou Vida a cada uso.
+- Vozes, visões ou impulsos narrados pelo Mestre.
+- Restrições morais, sociais ou de alinhamento.
+- Impossibilidade de largar, repassar ou destruir o item sem um ritual.
+
+Em termos mecânicos, armas amaldiçoadas:
+
+---
+
+- Recebem uma habilidade de efeito temática.
+- Não podem ser aprimoradas por meios normais, exceto em locais ou eventos únicos.
+- Podem crescer com o personagem, revelando novos efeitos conforme a narrativa evolui.
+
+Uma arma pode ser tanto **Meito quanto Amaldiçoada**, caso sua origem envolva uma entidade mística, pacto ou corrupção.
+
+O uso de armas amaldiçoadas **não é recomendado para novatos** — mas para veteranos ousados, podem ser a chave para feitos inigualáveis.
+
+{{pageNumber,auto}}
+\page
+
+## Usando Armaduras
+
+Diferente de muitos mundos de fantasia, no universo de A Vontade dos Mares as armaduras não definem se um golpe atinge ou não um personagem — essa função é cumprida pela **Classe de Acerto (CA)**, que representa esquiva, leitura de combate, reflexos e movimentação fluida.
+
+Em vez disso, **armaduras, roupas especiais, mantos e equipamentos de corpo** afetam outros aspectos do personagem: aumentam resistências, reduzem ou aumentam atributos derivados, e às vezes influenciam até o papel social do usuário.
+
+
+### Efeitos Possíveis
+Cada peça de armadura ou vestimenta especial pode fornecer um ou mais dos efeitos abaixo:
+
+---
+
+- **Bônus de Resistência** contra tipos específicos de dano (ex: concussão, corte, perfuração, fogo, frio, eletricidade).
+- **Penalidade ou bônus de Velocidade** (redução ao usar armaduras pesadas ou aumento com equipamentos leves).
+- **Redução de Dano mínimo** de ataques físicos (ex: -1 no dano mínimo de cada golpe recebido).
+- **Bônus de Aparência ou Intimidação**, quando a armadura é imponente, cerimonial ou personalizada.
+- **Desvantagem em Furtividade ou Acrobacia**, no caso de peças rígidas ou barulhentas.
+- **Habilidades únicas**, como resistência contra venenos, proteção contra fogo, ou disfarce oculto.
+
+
+### Armaduras e Competência
+Algumas armaduras ou vestes especiais exigem **Competência específica** para uso ideal, especialmente:
+
+---
+
+- Equipamentos tecnológicos (Ex: coletes anti-impacto, vestes reforçadas com kairoseki).
+- Trajes de combate personalizados.
+- Fardamentos cerimoniais de alta patente.
+
+Sem a competência adequada, o personagem pode não usufruir de todos os efeitos ou até sofrer penalidades.
+
+### Considerações Narrativas
+
+- Um manto flamejante pode proteger contra fogo, mas também atrair atenção indesejada.
+- Uma armadura de placas pesadas pode funcionar como escudo em combate naval, mas te afundar se cair ao mar.
+- Um uniforme de elite pode abrir portas sociais — ou transformá-lo em alvo de caçadores de recompensas.
+
+> Armaduras são mais do que defesa: são escolhas táticas, simbólicas e narrativas. Em *A Vontade dos Mares*, vestir algo é declarar um estilo, uma função — e um risco.
+
+:
 
 ## Melhorando e Consertando
-d
 
-{{note
-##### Durabilidade
+Nem todo equipamento nasce lendário — mas quase todo equipamento pode ser lapidado.
 
-Durabilidade
-}}
+Seja para restaurar uma arma desgastada em batalha ou elevar uma ferramenta ao status de relíquia, o processo de aprimoramento envolve tempo, materiais e mestres dedicados à forja.
 
-## Kits
+#### Consertar Equipamentos
 
-##### Todos os Kits Funcionais
-| Nome do Kit                        | Tipo        | Descrição e Uso Sugerido |
-|-----------------------------------|-------------|--------------------------|
-| **Kit Médico Simples** | Médico | Bandagens, ervas, frascos. Cura leve com Conhecimento ou Medicina. |
-| **Kit de Navegação** | Navegador   | Bússola, sextante, mapa. Vantagem em Navegação Marítima. |
-| **Kit de Cozinha Portátil** | Cozinheiro  | Temperos, panela. Produz 2 refeições leves por descanso longo (cura 1d4 Vigor). |
-| **Kit de Escavação** | Arqueólogo  | Pincel, estilete, escova. Vantagem em testes de História e exploração de ruínas. |
-| **Kit de Ferramentas de Carpintaria** | Carpinteiro | Martelo, serrote, pregos. Repara itens e estruturas com Eng. Naval. |
-| **Kit de Cientista** | Cientista | Reagentes, frascos, tubos. Testa substâncias ou cria toxinas leves com Alquimia. |
-| **Kit de Treino** | Suporte | Bandagem, óleo, fruta. Remove 1 nível de exaustão em descanso. |
-| **Kit de Armadilhas Simples** | Guerrilheiro| Cordas, estacas, óleo. Monta armadilhas básicas (queda, laço, queimadura). |
-| **Kit de Improviso** | Especialista| Cola, fios, parafusos. Cria soluções improvisadas com Engenharia ou Improviso. |
-| **Kit de Infiltração** | Assassino | Bomba de fumaça, trapo escuro, óleo de silêncio. Auxilia furtividade e fuga. |
-| **Kit de Distração** | Ladrão | Moedas falsas, graxa, tralhas. Vantagem em Enganação e Diversão. |
+Quando a durabilidade de uma arma ou ferramenta é reduzida por uso excessivo, falhas críticas ou impactos severos, ela pode ser reparada com:
+
+---
+
+- Um **ferreiro, engenheiro ou artesão qualificado**.
+- Um **kit de manutenção** ou oficina básica.
+- **Materiais compatíveis** com a natureza do item (metal, madeira, fibra, etc).
+- Um custo proporcional à complexidade: geralmente entre **5% e 15% do valor do item por ponto de durabilidade restaurado**.
+
+Consertos podem ser feitos em descanso longo, desde que haja ferramentas adequadas e um personagem com a competência necessária. Restaurar completamente um item quebrado (0 de durabilidade) exige uma oficina fixa ou navio-forja e pode levar várias horas.
+
+#### Melhorar Equipamentos
+
+Melhorar é transformar um item comum em algo excepcional.
+
+Esse processo envolve **elevar a qualidade** (aumentando a durabilidade base) ou **aumentar o Grau de Raridade** (tornando-o um Meito de grau superior).
+
+Para isso, são necessários três elementos fundamentais:
+
+---
+
+1. **Um Ferreiro de Prestígio**  
+   Quanto mais raro o item ou mais alto o grau almejado, mais habilidoso deve ser o artesão.  
+   Apenas mestres reconhecidos podem aprimorar armas lendárias, amaldiçoadas ou de Grau Supremo.
+
+2. **Materiais de Alta Qualidade**  
+   Incluem metais raros, fragmentos de armas míticas, catalisadores alquímicos, pedaços de monstros ou componentes únicos obtidos em aventuras.  
+   O ferreiro pode fornecer parte dos materiais, mas muitos exigirão busca ativa pelos jogadores.
+
+3. **Um Investimento Significativo**  
+   Melhorar um item custa caro. A base geralmente é entre **50% e 150% do valor total do item**, dependendo do grau a ser alcançado e da reputação do ferreiro.  
+   Itens narrativamente únicos ou amaldiçoados podem exigir pagamentos não convencionais — promessas, favores ou desafios.
+
+---
+
+Melhorias levam tempo. Simples reforços ou ajustes podem ser feitos em poucas horas, mas **mudanças reais de qualidade ou raridade** costumam demorar **dias inteiros**, podendo envolver rolagens de teste, eventos narrativos e até consequências inesperadas.
+
+> Lembre-se: armas lendárias não são forjadas à toa. Cada melhoria carrega consigo a história de quem ousou ir além dos limites do aço.
+
 
 {{pageNumber,auto}}
 \page
@@ -1765,6 +1985,9 @@ Humanos são variados e espalhados pelo mundo. Como um humano, **você recebe +1
 Além disso, você faz parte de uma tribo com características distintas, como: 
 *Humano Comum*, *Braço-Longo*, *Perna-Longa* ou *Pescoço de Cobra*
 
+
+![chapéus](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/f1a692fe-284f-43f5-aebf-d7200e926f79/d6pdz0v-ed0a53a3-b1bc-4ec5-ac88-e4c8765039ad.png) {position:absolute,bottom:-65px,right:0px,width:900px}
+
 {{pageNumber,auto}}
 \page
 
@@ -1853,10 +2076,33 @@ Você gasta 1D10 de Vigor, inimigos acertados pelo dano de Electro devem fazer u
  
 **Customização:** Ao criar novas habilidades para seu personagem Mink, você pode adicionar o uso do Electro nelas, se beneficiando de seus efeitos.
 
-### Sulong
-*Atualização 3.0...*
+### Sulong  
+*O Espírito da Lua Desperta.*
 
-\column
+Ao encarar a lua cheia, o corpo de um Mink entra em um estado primal chamado **Sulong**. Sua pelagem cresce, seus olhos brilham em branco e seus movimentos se tornam instintivos, rápidos e devastadores. No entanto, controlar essa forma exige mente firme e treino árduo — ou o usuário corre o risco de se tornar uma fera fora de controle.
+
+**Ativação:**  
+Você pode tentar ativar a forma **Sulong** sempre que estiver sob a luz direta da lua cheia (decidido pelo Mestre). A ativação requer um teste de Vontade (CD 20 - metade do seu nível de classe). Em falha, você entra em **estado de fúria incontrolável por 1d4 turnos**, atacando inimigos ou aliados próximos. Em sucesso, você assume o controle total da forma por 10 minutos (10 turnos).
+
+> **Personagens de nível inferior a 10** têm desvantagem no teste de Vontade para manter o controle da forma.
+
+**Efeitos da Forma Sulong:**
+
+---
+
+- +4 em todos os Atributos Físicos (Força, Destreza, Velocidade e Resistência)
+- +12 metros de Deslocamento
+- Seus ataques físicos causam **+1 na Escala de Dano**
+- Você pode usar o **Electro** com dano aumentado em +1d8
+- Você ignora efeitos de medo, paralisia e dor temporariamente
+
+**Custo:**  
+Você gasta 2d6 de Vigor por turno para manter a forma ativa. Ao atingir 0 de Vigor, você retorna automaticamente à forma normal e sofre **5 níveis de Exaustão**.
+
+**Reativação:**  
+Você só pode tentar ativar Sulong **uma vez por descanso completo**.
+
+::
 
 ## Povo Do Céu
 Nativos das ilhas flutuantes, os povos celestiais carregam asas simbólicas, cultura milenar e domínio natural dos Dials, artefatos únicos dos céus.
@@ -1969,17 +2215,6 @@ Ao escolher sua Classe, você não define apenas como luta — define quem você
 
 ::
 
-#### Dano Desarmado p/ Cada Classe ao Longo dos Níveis
-| Nível de Classe | Lutador | Guerrilheiro | Artista Marcial | Outras Classes
-|:--:|:------------:|:------------:|:-----------:|:-----:|
-|	01 | 1d6 + Força  | 1d4 + Força  | 1d4 + Bônus | Força |
-| 05 | 1d8 + Força  | 1d6 + Força  | 2d4 + Bônus | Força |
-| 09 | 1d10 + Força | 1d8 + Força  | 3d4 + Bônus | Força |
-| 13 | 2d6 + Força  | 1d10 + Força | 4d4 + Bônus | Força |
-| 17 | 2d10 + Força  | 2d6 + Força  | 5d4 + Bônus | Força |
-
-::::
-
 #### Vida e Vigor Inicial p/ Classe *(Nível 1)*
 | Classe | Vida Inicial | Vigor Inicial | 
 |:------:|:------------:|:-------------:|
@@ -1991,6 +2226,19 @@ Ao escolher sua Classe, você não define apenas como luta — define quem você
 |Especialista   | 6 + RES | 10 + PERS |
 |Assassino      | 4 + RES | 12 + PERS |  
 |Ladino         | 4 + RES | 12 + PERS | 
+
+\column
+
+#### Dano Desarmado p/ Cada Classe ao Longo dos Níveis
+| Nível de Classe | Lutador | Guerrilheiro | Artista Marcial | Outras Classes
+|:--:|:------------:|:------------:|:-----------:|:-----:|
+|	01 | 1d6 + Força  | 1d4 + Força  | 1d4 + Bônus | Força |
+| 05 | 1d8 + Força  | 1d6 + Força  | 2d4 + Bônus | Força |
+| 09 | 1d10 + Força | 1d8 + Força  | 3d4 + Bônus | Força |
+| 13 | 2d6 + Força  | 1d10 + Força | 4d4 + Bônus | Força |
+| 17 | 2d10 + Força  | 2d6 + Força  | 5d4 + Bônus | Força |
+
+::
 
 #### Equipamento Inicial por Classe
 | Classe          | Armas / Ferramentas                                          | Item Temático / Kit                                   | Belli Inicial |
@@ -2015,6 +2263,7 @@ O lutador é um combatente puro, que confia no próprio corpo como arma. Suas m�
 Seja um pirata como Luffy, um marinheiro como Garp e Sengoku, todo lutador impõe sua presença com impacto e brutalidade.
 
 - Você inicia com Nível 1 na Competência de Combate Desarmado e na competência de Arma Improvisada.
+- Sua **Vida inicial** é 10 + Resistência e seu **Vigor inicial** é 6 + Persistência.
 
 ### Chuva de Golpes
 Como um lutador confiando apenas em seu corpo, você é capaz de atacar com toda parte livre de seu corpo *(a escolha)* e diversas vezes.  
@@ -2063,6 +2312,7 @@ O guerrilheiro canaliza sua força por meio de armas. Seja empunhando uma lâmin
 Inspirado em figuras como Barba Branca, Shanks ou Roger, o guerrilheiro representa a força tradicional das lendas.
 
 - Você inicia com Nível 1 na Competência de uma arma a escolha e de uma Ferramenta de Profissão ou Manutenção a escolha.
+- Sua **Vida inicial** é 10 + Resistência e seu **Vigor inicial** é 6 + Persistência.
 
 ----
 
@@ -2237,6 +2487,7 @@ Artistas marciais são mestres de um estilo de luta. Para eles, o combate é uma
 De Sanji *(Estilo Perna Negra)* a Jinbe, passando por Ivankov e Koala, cada artista marcial carrega consigo uma doutrina de combate única.
 
 - Você inicia com Nível 1 na Competência de Combate Desarmado e de uma Ferramenta de Criação.
+- Sua **Vida inicial** é 8 + Resistência e seu **Vigor inicial** é 8 + Persistência.
 
 ### Arte Marcial 
 No 1º nível você deve escolher o seu estilo de luta:
@@ -2317,6 +2568,7 @@ Espadachins são aqueles que dedicam sua vida à espada. Seja com uma, duas ou t
 Com Zoro como maior representante, espadachins são guerreiros dedicados a um único propósito: dominar a arte do corte.
 
 - Você inicia com Nível 1 na Competência de uma Lâmina a escolha e na Ferramenta Kit de Manutenção de Armas Brancas.
+- Sua **Vida inicial** é 8 + Resistência e seu **Vigor inicial** é 8 + Persistência.
 
 ### Tipos de Espachim  
 Ao dedicar sua vida ao caminho da espada, você deve focar seu treinamento no *Caminho da Empunhadura Pesada* (Força) ou no *Caminho da Empunhadura Leve* (Destreza).  
@@ -2396,6 +2648,7 @@ Atiradores confiam na precisão, no alcance e na cadência de disparo. Usam desd
 Personagens como Yasopp, Van Augur e Usopp exemplificam esse estilo de combate, onde a pontaria é tão importante quanto a coragem.
 
 - Você inicia com Nível 1 na Competência de uma Arma a distância a escolha e na Ferramenta Kit de Manutenção de Armas de Fogo.
+- Sua **Vida inicial** é 6 + Resistência e seu **Vigor inicial** é 10 + Persistência.
 
 ### Recarga Rápida
 
@@ -2427,7 +2680,62 @@ A partir do 3º nível você pode usar sua ação para manter a mira em um alvo 
 ### Disparo Extra
 A partir do 5º nível, o segundo disparo que você realizar em sua ação de ataque não acumula desvantagem.
 
-:::
+### Técnica de Precisão
+No 9º nível sua prática constante com a mira transforma seu próximo disparo em uma ameaça real.
+
+---
+
+- Uma vez por turno, você pode **gastar 1 de Vigor** para aumentar sua margem de crítico com armas de fogo para **19–20**.
+- Caso esteja com a mira travada, o dano crítico ignora resistências físicas.
+
+### Cadência Impossível
+Ao alcançar o nível 11, você domina o ritmo do disparo como se fosse uma música de combate.
+
+---
+
+- O terceiro disparo realizado com *Múltiplos Disparos* **não acumula desvantagem**.
+- Você pode executar um segundo disparo com armas que tem 0 disparos extras.
+- Você pode recarregar até duas armas ao mesmo tempo com uma única *Interação com Objeto*.
+
+### Balística Aumentada
+A partir do 15º nível, você ajusta seus projéteis, ângulo ou potência com talento inigualável.
+
+---
+
+- Você pode alterar o tipo de dano de seus ataques com arma de fogo para: **Contundente, Perfurante, Cortante ou Elemental (fogo, frio, choque)**, conforme a munição ou técnica utilizada gastando apenas uma interação com objeto.  
+*(Isso requer justificar o tipo de arma e estar preparado para isso narrativamente.)*
+- Você ignora **½ cobertura** ao atacar.
+- Você pode disparar munições explosivas sem desvantagens, caso as possua.
+
+
+### Marca Mortal
+No nível 17, se você **mantiver a mira por 2 turnos consecutivos** no mesmo alvo, você pode gastar 2d4 de Vigor para efetuar um **Disparo Marcado**:
+
+---
+
+- O ataque é realizado com **acerto automático**.
+- Causa **dano crítico maximizado**.
+- O alvo deve fazer uma Salvaguarda de Vontade ou Resistência *(Somando metade do seu nível de atirador a CD)*, ou ficará **Incapaz de usar Reação e Complemento da Ação até o fim do próximo turno.**
+
+---
+
+### Fuzileiro Lendário
+No nível 20 sua capacidade de tiro se torna lendária.
+
+---
+
+- **1x por combate**, você pode realizar uma sequência de disparos igual a quantidade de Disparos Extras da sua arma +3, cada um pode ter alvos diferentes no raio de alcance da sua arma.
+
+Cada disparo:
+
+---
+
+- Não gasta Vigor.
+- Tem **acerto com vantagem**.
+- Ignora resistências, escudos e coberturas.
+
+{{pageNumber,auto}}
+\page
 
 ## Especialista
 ***Atributo Principal: Escolha entre Destino, Conhecimento ou Aparência.***
@@ -2436,31 +2744,54 @@ Especialistas são usuários de equipamentos únicos e imprevisíveis. Não conf
 
 Nami com seu Clima Tact, Hawkins prevendo o destino com seu baralho de cartas e Perona com seus fantasminhas são exemplos de como um especialista pode dominar o campo usando recursos que ninguém mais entende.
 
-- Você inicia com Nível 1 na Competência de sua Arma Personalizada e em uma Ferramenta a escolha.
+- Você inicia com Nível 1 na Competência de sua Arma Personalizada e em uma Ferramenta à escolha.
+- Sua Vida inicial é 6 + Resistência e seu Vigor inicial é 10 + Persistência.
 
-### Especialidade 
-Como um Especialista você escolhe uma *Arma Personalizada*. Sua *Arma Personalizada* tem ficha própria *(Tendo pontos de vida e atributos se for uma forma de vida)*, com ataque básico customizável e habilidades que descendem dele.
+### Especialidade
+Como um Especialista, você escolhe uma Arma Personalizada. Ela possui ficha própria, com Pontos de Vida, atributos e funcionamento próprio — podendo ser viva, mágica, tecnológica ou uma fusão criativa de todos esses elementos. Seu ataque básico é customizável e serve como base para todas as habilidades que virão.
 
 ### Habilidade Especial
+No 1º nível, você começa com uma habilidade especial que representa o principal efeito da sua Arma Personalizada. Essa habilidade é definida com o Mestre e pode ser ativa ou passiva. Ela deve se alinhar ao estilo, temática e propósito do seu equipamento — podendo ser um ataque único, uma defesa criativa, um efeito ambiental ou um suporte diferenciado.
 
-### Nível 3
+---
 
-### Nível 5
+### Sincronia com a Arma  
+No nível 3 você desenvolve um elo mais íntimo com sua criação ou instrumento. A partir de agora, pode fazer com que a Arma Personalizada atue de forma separada, utilizando uma Ação Bônus sua para executar um ataque ou habilidade simples. Se a arma for um objeto não vivo, você pode alterar sua forma física uma vez por combate, desde que a mudança respeite sua função original *(por exemplo, um bastão que se converte em um lança-raios portátil)*.
 
-### Nível 9
-*Nível 9*
+---
 
-### Nível 11
-*Nível 11*
+### Circuito Aumentado  
+Ao alcançar o nível 5 você e sua arma operam em frequência paralela. Agora, é possível acionar duas habilidades por rodada: uma através de você, outra através da Arma Personalizada. Além disso, a arma ganha sua própria reserva de recursos — podendo armazenar Pontos de Habilidade ou Vigor iguais ao dobro do seu bônus de Maestria. 
 
-### Nível 15
-*Nível 15*
+Por fim, uma das habilidades da arma pode ser trocada após cada descanso completo, representando adaptações técnicas ou espirituais.
 
-### Nível 17
-*Nível 17*
+::
 
-### Nível 20
-*Nível 20*
+### Núcleo Elemental  
+No nível 9 você adiciona ou desbloqueia elementos naturais ou místicos à sua arma. Escolha dois efeitos elementais permanentes — como fogo, eletricidade, veneno, gelo, som ou vento. Uma vez por combate, você pode ativar um desses elementos como Ação Bônus, alterando temporariamente o tipo de dano causado e aplicando um efeito secundário *(como empurrar, imobilizar, cegar, ou causar dano contínuo)*. 
+Esses efeitos podem ser visualmente únicos e adaptados pelo jogador.
+
+### Fusão Avançada  
+Com a chegada do nível 11 sua Arma Personalizada torna-se uma extensão inevitável do seu estilo de luta. 
+
+Se ela agir de forma independente, você ainda pode usar um Ataque Extra com ela durante sua Ação. 
+
+Caso seja uma criatura ou entidade viva, ela passa a possuir uma Ação Bônus própria por turno, permitindo estratégias em dupla com fluidez tática inédita.
+
+
+### Modo Núcleo  
+Com o nível 15, você desbloqueia o verdadeiro potencial oculto da sua arma. Uma vez por Descanso Completo, pode ativar o chamado *“Modo Núcleo”* por até 3 rodadas. Esse estado transforma a funcionalidade da arma, concedendo um efeito supremo, como: alterar o campo de batalha, absorver ataques mágicos, criar tempestades localizadas, gerar um aliado autônomo ou ampliar os efeitos de Haki. 
+
+O Modo Núcleo é sempre único, sendo descrito em conjunto com o Mestre.
+
+
+### Substituição Tática
+No nivel 17, quando sua Arma Personalizada for destruída, desativada ou capturada, você pode gastar 3 de Vigor para ativar um protocolo de emergência. Um modelo reserva ou versão alternativa a substitui imediatamente, com aparência e efeitos definidos com o Mestre. Todos os recursos, habilidades e estados são mantidos.
+
+Se a arma possuir vontade própria, o protocolo também pode restaurá-la — resgatando sua consciência ou essência em um novo recipiente, mesmo à distância, desde que ainda exista conexão entre vocês.
+
+### Criação Suprema  
+No nível 20 a sua Arma Personalizada transcende o conceito de objeto. Ela se torna uma entidade lendária, com sua própria vontade e presença narrativa. Você pode definir uma nova habilidade lendária exclusiva, apresentada em consenso com o Mestre. A arma passa a agir de forma totalmente independente, como um aliado pleno. Além disso, você pode se fundir com ela uma vez por dia, tornando-se um avatar do seu próprio engenho: ganha +2 em todos os atributos, imunidade a silenciamento, desarme e anulação por meio de frutas, podendo usar qualquer habilidade da arma como Ação Livre durante 1 minuto.
 
 {{pageNumber,auto}}
 \page
@@ -2473,6 +2804,7 @@ Assassinos vivem e matam nas sombras. São rápidos, letais e cirúrgicos. Prefe
 Robin, Daz Bonez e outros personagens táticos e furtivos representam essa classe que vive à margem da moral — mas no centro da letalidade.
 
 - Você inicia com Nível 1 na Competência de uma Arma de acordo com sua Forma de Matar e com a Ferramenta Kit de Química.
+- Sua **Vida inicial** é 4 + Resistência e seu **Vigor inicial** é 12 + Persistência.
 
 ### Forma de Matar
 
@@ -2596,6 +2928,7 @@ O Ladrão é o mestre da evasão, do furto e da adaptação. Ele vive entre brec
 Como Nami no início da sua jornada, o ladrão vê o mundo não como um campo de guerra, mas como uma oportunidade criativa para vencer com estilo, surpresa e escárnio.
 
 - Você inicia com Nível 1 na Competência de uma Arma a escolha e na Ferramenta Kit de Ladrão.
+- Sua **Vida inicial** é 4 + Resistência e seu **Vigor inicial** é 12 + Persistência.
 
 ### Técnicas de Ladrão
 
@@ -2704,12 +3037,10 @@ Toda tripulação funcional precisa de profissionais competentes — seja um nav
 | *Timoneiro*  | Manopla de navegação, mini-bússola | Luvas antiderrapantes, 1 rede dobrável | B$5.500 |
 | *Cientista*  | Frascos, tubo de ensaio, reagentes básicos | Óculos de proteção, jaleco velho, bloco de notas | B$6.500 |
 
-:::::::::::::::::
-
-##### Lista de Profissões Convencionais *(Geralmente Piratas)*:
-
 {{pageNumber,auto}}
 \page
+
+##### Lista de Profissões Convencionais *(Geralmente Piratas)*:
 
 ## Capitão
 ***Atributo Principal: Carisma***
@@ -2995,6 +3326,7 @@ Ao escolher a profissão Artilheiro no **1º nível**, você se torna perito no 
 - Você recebe **+2 níveis na Competência de Canhões**, podendo operar **2 canhões simultaneamente** durante batalhas navais.
 - Você recebe **+2 níveis na Aptidão de Percepção**.
 - Você recebe **+1 no atributo de Destreza por nível** de Artilheiro.
+- Você recebe **+1 nível na Competência de Ferramentas de Carpintaria**.
 
 ### Ajuste de Mira  
 Ainda no **1º nível**, você passa a calcular o impacto com rapidez e segurança.
@@ -3058,7 +3390,6 @@ Ao atingir o 4º nível, você aprende a preparar disparos e munições com prec
 {{pageNumber,auto}}
 \page
 
-
 ### Domínio de Artilharia  
 Ao atingir o **5º nível**, você alcança o ápice da sua rota de especialização.
 
@@ -3070,26 +3401,42 @@ Ao atingir o **5º nível**, você alcança o ápice da sua rota de especializa�
 **Se você for Engenheiro Balístico:** Uma vez por descanso completo, você pode criar uma *Munição Suprema*:
     - Você cria uma munição customizada com efeitos a depender do que foi usado na sua construção, sendo totalmente customizável.
 
-\column
+::::
 
 ## Cozinheiro
 ***Atributo Principal: Disciplina***
 
+Cozinheiros são os alquimistas do cotidiano. Com facas afiadas, mãos hábeis e um paladar certeiro, eles sustentam a energia, a moral e o espírito da tripulação. Um prato certo pode curar, fortalecer, unir — ou até salvar uma vida.
+
+Em alto-mar, onde recursos são limitados e ferimentos inevitáveis, a boa comida se torna milagre. Sanji é o exemplo máximo: guerreiro, cavalheiro e mestre da culinária, seu fogo nunca apaga enquanto houver alguém faminto ao seu lado.
+
 ### Mantendo Todos da Tripulação Dispostos
-- Você ganha +2 Níveis na Competência de Instrumentos de Cozinha e pode usá-los p/ batalha em último caso.
-- Você ganha +2 Níveis na Aptidão de Gastronomia.
-- Você ganha +1 no atributo de Raciocínio p/ Nível.
+- Você ganha **+2 Níveis na Competência de Instrumentos de Cozinha** e pode usá-los p/ batalha em último caso.
+- Você ganha **+2 Níveis na Aptidão de Gastronomia**.
+- Você ganha **+1 no atributo de Raciocínio p/ Nível**.
 
 ### Refeição Completa
 1x por dia você pode preparar uma Refeição Completa Especial para sua tripulação. A refeição demora 2h para ser preparada e serve até 10 pessoas. 
 
-Quem comer da refeição recebe 1 acúmulo de *saciado* que dura por 12h. O ponto de saciado pode ser usado para recuperar *2D4+4* de vida em uma ação bônus ou para receber vantagem em uma jogada de d20.
+Quem comer da refeição recupera até 4 pontos de Exaustão e recebe 1 acúmulo de *saciado* que dura por 12h. O ponto de saciado pode ser usado para recuperar *2Dd+4* de vida em uma ação bônus ou para receber vantagem em uma jogada de d20.
 
-### Nível 3
-*Nível 3*
+### Prato Certo, Hora Certa  
+No nível 2 você passa a preparar pequenas porções energéticas durante os descansos. 
 
-### Nível 5
-*Nível 5*
+Após um Descanso Curto ou Emergencial, você pode distribuir até dois lanches táticos a aliados. Cada um pode ser consumido como Ação Bônus, restaurando 2d4 de Vida ou Vigor (à escolha do consumidor). Você pode preparar um número extra de lanches igual ao seu nível de Cozinheiro por descanso longo.
+
+### Menu Tático  
+Ao alcançar o nível 3 você domina receitas adaptativas que moldam o comportamento e o corpo dos que se alimentam delas. 
+
+Fora de combate, você pode preparar duas refeições especiais que concedem bônus situacionais por até 1 hora. Os efeitos podem incluir aumento temporário de resistência, leve aceleração de reflexos ou foco emocional. Cada pessoa só pode receber os efeitos de um prato por vez. Ingredientes raros permitem pratos únicos a critério do mestre.
+
+### Estômago de Aço  
+No nível 4 sua experiência em alimentar e cuidar de organismos distintos faz com que você possa criar refeições seguras mesmo nas piores condições. 
+
+Você e seus aliados ignoram penalidades por alimentos estragados, água contaminada ou ambientes tóxicos moderados enquanto estiverem sob seus cuidados culinários. Além disso, seus pratos agora recuperam 1 Ferimento leve a mais durante descansos completos.
+
+### Alma do Navio  
+Com o nível 5 você pode preparar um banquete lendário por Descanso Completo. Ele serve até 20 aliados e fortalece corpo e espírito. Todos que participarem do banquete recebem +1 em testes de resistência e +1d4 nas rolagens de ataque por 1 hora. A refeição também remove um Ferimento leve e garante 5 pontos temporários de Vigor. Se consumida antes de uma missão importante, a moral da tripulação é elevada a um ponto que impede efeitos de medo ou manipulação emocional até o próximo descanso.
 
 {{pageNumber,auto}}
 \page
@@ -3097,10 +3444,14 @@ Quem comer da refeição recebe 1 acúmulo de *saciado* que dura por 12h. O pont
 ## Músico
 ***Atributo Principal: Carisma***
 
+Músicos são a alma invisível do navio. Seus sons embalam a esperança, afugentam o medo e mantêm os corações batendo em sintonia mesmo diante da morte. Em sua arte vive a memória da tripulação, os sonhos não ditos e o riso que resiste.
+
+Eles curam o invisível, acalmam tempestades internas e transformam momentos simples em eternos. Brook é o arquétipo perfeito — um cadáver que canta, dança e jamais deixa o silêncio vencer.
+
 ### A Alma da Tripulação
-- Seus testes de Atuação/Enganação, Convencimento e Intimidação possuem vantagem.
-- Você ganha +1 Nível na Aptidão de Músico ou Compositor e +1 Nível na Aptidão de Atuação ou Enganação.
-- Você ganha +1 no atributo de Aparência p/ Nível.
+- Seus testes de Atuação/Enganação, Convencimento e Intimidação **possuem vantagem**.
+- Você ganha **+1 Nível na Aptidão de Músico ou Compositor** e **+1 Nível na Aptidão de Atuação ou Enganação**.
+- Você ganha **+1 no atributo de Aparência p/ Nível**.
 - Você recebe **+1 nível na Competência de um Instrumento Musical a Escolha**.
 
 ### Inspiração Musical
@@ -3110,49 +3461,266 @@ O dado inicial é 1d4 que aumenta com os níveis e dura até 10min. O dado de in
 
 Cada personagem só pode ter 1 inspiração por vez e deve escolher se usará o dado antes do mestre dizer o resultado do seu teste.
 
-### Nível 3
-*Nível 3*
+### Ecos Duradouros  
+No nível 2, quando você inspira um aliado com sua música, a melodia reverbera além do instante.
 
-### Nível 5
-*Nível 5*
+O alvo mantém o dado de inspiração ativo por até 1 hora, mesmo que se afaste. Se o dado não for usado dentro desse tempo, ele é perdido. Além disso, ao usar uma música de inspiração fora de combate, você pode restaurar 1d4 de Vigor em um aliado que estiver ouvindo e descansando.
+
+### Repertório Versátil  
+Ao alcançar o nível 3 sua arte se adapta aos momentos. Você aprende a executar três estilos musicais distintos que alteram o efeito da sua inspiração. Pode alternar entre eles com uma nova melodia usando uma Ação Bônus. 
+
+O estilo **Bravura** incentiva ofensivas ousadas e adiciona +1d4 ao dano.
+
+O estilo **Harmonia** gera estabilidade, fornecendo +1 na CA do aliado até o próximo turno. 
+
+O estilo **Êxtase** impulsiona movimentos, permitindo que o aliado se desloque 4,5m adicionais. 
+
+Apenas um estilo pode estar ativo por vez e exige Foco.
+
+### Música do Vínculo  
+No nível 4 a conexão emocional com seus aliados se fortalece a cada nota. 
+
+Sempre que um aliado com um dado de inspiração seu for reduzido a 0 pontos de vida, ele pode gastar o dado automaticamente para estabilizar-se com 1 ponto de vida. Esse efeito pode ocorrer uma vez por descanso longo por aliado. 
+
+Você também pode usar sua Reação para transferir seu dado de inspiração de um aliado para outro que esteja a até 9 metros, caso o primeiro não o tenha utilizado.
+
+### Concerto de Batalha  
+Ao alcançar o nível 5 você pode realizar uma apresentação suprema uma vez por descanso completo. Durante um minuto inteiro, enquanto mantiver concentração e puder ser ouvido, todos os seus aliados recebem +1d6 por turno em qualquer rolagem à escolha *(ataque, dano ou teste)*. 
+Cada aliado pode se mover até 3 metros como reação sem provocar ataques, uma vez durante o efeito. 
+
+Além disso, condições leves como medo, provocação ou confusão são removidas dos aliados no início de seus turnos enquanto a música continua. 
+
+Manter a música exige foco e um teste de Apresentação ou do Instrumento musical *(CD 12)*.
 
 :
-## Arqueólogo
-***Atributo Principal: Persistência***
 
-### O Único Que Pode Levar à Verdade
-- Você conhece segredos do mundo que ninguém mais sabe, e pode usá-los ao seu favor.
-- Você ganha +1 Nível na Aptidão de História e +1 Nível na Aptidão de Colher Informações.
-- Você ganha +1 no atributo de Conhecimento p/ Nível.
-- Você recebe **+1 nível na Competência de Instrumentos de Arqueólogo**.
-
-### Leitura de Poneglyphs
-
-### Nível 3
-*Nível 3*
-
-### Nível 5
-*Nível 5*
-
-\column
+{{pageNumber,auto}}
+\page
 
 ## Carpinteiro
 ***Atributo Principal: Persistência***
 
-### Aquele Que Nos Mantém Sobre o Mar
+Carpinteiros são os construtores do sonho. Cada tábua, cada prego, cada reforço no convés — tudo passa por suas mãos. Mais do que um mestre da madeira, o carpinteiro é responsável por manter o lar da tripulação inteiro.
 
-:::
+Nos mares imprevisíveis, saber construir, improvisar e reforçar pode ser a linha entre a vida e o naufrágio. Franky é o arquétipo do carpinteiro definitivo: criador de navios vivos, construtor de lendas, e verdadeiro protetor do Sunny.
+
+### Aquele Que Nos Mantém Sobre o Mar
+- Você é capaz de **reparar navios, construir estruturas** e improvisar barricadas com engenhosidade.
+- Você recebe **+2 Níveis na Competência de Ferramentas de Carpintaria**.
+- Você recebe **+2 Níveis na Aptidão de Construção Naval ou Reparo Estrutural**.
+- Você ganha **+1 no atributo de Força ou Raciocínio por nível de Carpinteiro**.
+
+### Reparo Rápido
+No 1º nível, você pode usar uma Ação Completa fora de combate para restaurar parte da integridade de uma estrutura ou veículo.  
+Com acesso a ferramentas e materiais básicos, você pode reparar uma área danificada, restaurando até 1d10 + seu nível de Carpinteiro de pontos de estrutura.  
+
+Se o alvo for um item equipado *(armadura, arma ou escudo)*, você restaura 1d4 de durabilidade. Esse reparo pode ser feito até 3 vezes por descanso longo.
+
+### Construção Improvisada
+Ao alcançar o 2º nível, você é capaz de montar estruturas rápidas e resistentes em pouco tempo.  
+Durante um Descanso Emergencial ou Curto, você pode erguer uma proteção improvisada — como uma barricada, cobertura ou abrigo — que concede +2 na CA para quem estiver atrás dela, ou vantagem contra efeitos de clima extremo.  
+Cada estrutura dura até o fim do combate ou até ser destruída (PV = 8 + seu nível de Carpinteiro + Raciocínio)
+
+### Oficina Móvel
+No nível 3, seu talento transforma qualquer ambiente em um pequeno canteiro de obras.
+
+Você pode declarar que está “ativando” sua Oficina Móvel — um espaço temporário com acesso a ferramentas, mecanismos e itens de suporte que você pode usar durante o combate ou exploração.  
+
+Enquanto estiver nesse estado, você pode:
+
+---
+
+- Reforçar armas e armaduras como Ação Bônus, aumentando a durabilidade delas em 1.
+- Criar armadilhas simples ou lançar dispositivos narrativos *(como pregos no chão, trancas em portas, pisos falsos)*.
+
+A Oficina dura 10 minutos e pode ser usada 1 vez por descanso completo.
+
+### Engenho do Improviso
+Ao atingir o 4º nível, você aprende a adaptar equipamentos danificados em campo.
+
+Você pode gastar uma Ação para transformar um item inoperante ou quebrado em um recurso temporário:
+
+---
+
+- Um pedaço de arma quebrada vira uma armadilha.
+- Um mastro ou tábua vira uma lança ou escudo improvisado.
+- Um resto de armadura vira um reforço defensivo (+1 CA por 2 turnos).
+
+Essa adaptação dura até o fim do combate. Pode ser feita uma vez por combate ou três vezes por descanso completo.
+
+### Arquitetura Viva
+No nível 5, sua maestria alcança o extraordinário.
+
+Uma vez por descanso completo, você pode construir — em até 30 minutos — uma estrutura de médio porte com funcionalidades complexas, como:
+
+---
+
+- Uma torre com mecanismo de rotação,
+- Uma embarcação pequena funcional,
+- Um elevador improvisado entre andares,
+- Um abrigo com mecanismos de defesa básicos.
+
+A estrutura dura de forma estável até o fim da sessão ou aventura atual, a critério do mestre. Usar essa habilidade consome todos os seus recursos de Construção Improvisada e Oficina Móvel até um novo descanso completo.
+
+{{pageNumber,auto}}
+\page
 
 ## Timoneiro
 ***Atributo Principal: Disciplina***
 
 ### A Mão Que Guia a Tripulação
+- Você domina a condução de embarcações e pode manobrar navios mesmo em condições caóticas.
+- Você recebe +2 Níveis na Competência de Navegação.
+- Você recebe +2 Níveis na Aptidão de Direção de Embarcações ou Pilotagem.
+- Você ganha +1 no atributo de Agilidade ou Conhecimento por nível de Timoneiro.
+
+### A Toda Vela
+No 1º nível, sempre que estiver conduzindo o navio ou outro veículo, você soma seu nível de Profissão ao Deslocamento da embarcação.
+
+Além disso, durante confrontos navais, você pode usar um Complemento da Ação para realizar uma manobra ágil: evitar um ataque, dobrar o leme ou aproveitar uma rajada de vento. Isso concede +2 na Defesa do navio até o início do seu próximo turno.
+
+### Controle de Embate
+Ao atingir o 2º nível, você domina a arte da colisão e do giro.
+
+Durante um combate naval ou terrestre com veículos, você pode:
+- Forçar um teste de resistência em uma embarcação inimiga ao colidir de forma controlada (CD = 8 + seu nível de Timoneiro + Agilidade).
+- Girar o navio em 180º sem perder deslocamento total.
+- Reduzir em 1 grau o impacto de uma colisão ou ataque de grande escala contra sua embarcação.
+
+Essas ações podem ser usadas uma vez por turno, consumindo seu Complemento da Ação.
+
+### Intuição Náutica
+No nível 3, você desenvolve instinto quase sobrenatural para alterações no mar.
+
+Você detecta redemoinhos, correntes ocultas e formações de rochas antes de qualquer outro navegador. Pode também:
+- Realizar manobras automáticas para evitar obstáculos.
+- Declarar uma rota otimizada antes de uma perseguição ou fuga, concedendo vantagem a toda tripulação nos primeiros turnos.
+
+Você também ganha vantagem em testes de Pilotagem fora de combate sempre que estiver em mar agitado.
+
+### Manobra Audaciosa
+Ao chegar ao 4º nível, você pode executar uma jogada ousada para mudar o rumo do combate.
+
+Uma vez por descanso curto, você pode declarar uma Manobra Audaciosa, como virar o navio de lado para atirar com todos os canhões, lançar-se por rampas ou fazer uma travessia arriscada.  
+Essa manobra permite:
+- Vantagem em todos os testes de Pilotagem e Navegação até o fim do turno.
+- Concede Ação Bônus para o Artilheiro da embarcação ou para o Capitão emitir uma ordem extra.
+
+### Alma do Leme
+Ao alcançar o nível 5, você se torna um com o navio.
+
+Enquanto estiver no controle da embarcação:
+- Sua CA aumenta em +1.
+- Você pode ignorar o primeiro efeito negativo de cada turno causado por clima, onda ou desequilíbrio de terreno.
+- Uma vez por combate, você pode fazer com que sua embarcação se mova mesmo que esteja imobilizada ou em condição de Falha Crítica — conduzindo-a com pura vontade e técnica.
+
+Essa habilidade representa um domínio lendário do leme, visível a todos que assistirem sua condução.
+
+{{pageNumber,auto}}
+\page
+
+## Arqueólogo
+***Atributo Principal: Persistência***
+
+Arqueólogos são caçadores da verdade. Vasculham ruínas, decifram línguas mortas e conectam fatos esquecidos pela história. Enquanto outros buscam poder imediato, o arqueólogo procura as raízes do mundo — e, com elas, os segredos que podem mudá-lo.  
+
+Nico Robin é a personificação desse ideal: a mulher que lê os séculos, com um fardo maior do que muitos reinos ousariam carregar.
+
+### O Único Que Pode Levar à Verdade
+- Você conhece **segredos do mundo** que ninguém mais sabe, e pode **usá-los ao seu favor**.
+- Você ganha **+1 Nível na Aptidão de História** e **+1 Nível na Aptidão de Colher Informações**.
+- Você ganha **+1 no atributo de Conhecimento por Nível**.
+- Você recebe **+1 nível na Competência de Instrumentos de Arqueólogo**.
+
+### Leitura de Poneglyphs
+Você é capaz de identificar e interpretar estruturas antigas, textos codificados e materiais históricos únicos.
+
+Sempre que estiver diante de inscrições enigmáticas, relíquias ou construções incomuns, você pode realizar um teste de Conhecimento com vantagem para obter significado, localização e contexto.  
+Se bem-sucedido, pode descobrir eventos históricos, rotas de navegação extintas ou ativações ocultas em artefatos mágicos ou tecnológicos.
+
+### Memória do Mundo  
+No nível 2, sua mente carrega mapas, dados e registros vivos do mundo. Fora de combate, você pode recordar informações detalhadas sobre um local, civilização ou personagem histórico com um teste simples de Conhecimento.  
+
+Durante o combate, você pode gastar 1 ponto de Vigor para relembrar uma fraqueza, tática ou lenda relacionada ao inimigo, recebendo vantagem no próximo teste de ataque, resistência ou investigação contra ele.
+
+### Códigos Perdidos  
+Ao atingir o nível 3, você se torna capaz de criar ou interpretar linguagens codificadas, cifras e pistas não verbais.  
+
+Você pode escrever ou deixar mensagens ilegíveis para quem não possua um código específico, e pode decifrar textos em línguas extintas com tempo suficiente.  
+
+Além disso, uma vez por descanso completo, ao decifrar algo importante em cena *(mesmo sob pressão)*, você recebe um bônus narrativo imediato: prever uma armadilha, encontrar uma rota alternativa, ou identificar a fraqueza de um artefato.
+
+::::
+
+### Testemunha Silenciosa  
+No nível 4, você passa a perceber os "vestígios emocionais" deixados por eventos importantes.  
+Ao tocar uma ruína, objeto ou local significativo, você pode realizar um teste de Colher Informações *(CD 14)* para sentir resquícios de intenções, emoções ou memórias vinculadas ao passado daquele lugar.  
+Esse efeito pode revelar a presença de antigos aliados, inimigos ou indicar onde está o próximo passo de uma jornada maior. Pode ser usado uma vez por cena, a critério do mestre.
+
+### Guardião do Passado  
+Ao atingir o nível 5, você se torna capaz de interferir diretamente com heranças esquecidas.  
+
+Uma vez por descanso completo, você pode ativar um artefato adormecido, traduzir um pergaminho impossível ou mesmo canalizar a sabedoria de um povo extinto.  
+
+O efeito pode conceder um bônus único à cena: conjurar uma técnica selada, revelar um mapa oculto ou proteger aliados com um campo ancestral.  
+
+Além disso, qualquer grupo sob sua orientação passa a receber +1 em testes de exploração, investigação e sobrevivência em regiões históricas, ruínas ou túneis esquecidos.
+
+
+{{pageNumber,auto}}
+\page
+
+## Exótico
+***Atributo Principal: Aparência ou Conhecimento***
+
+Os Exóticos são os desviantes da norma. São mágicos de rua, ilusionistas, artistas performáticos, aberrações de circo, domadores de monstros ou portadores de habilidades que ninguém compreende.  
+Eles não se encaixam nas profissões convencionais, mas seu valor é indiscutível: improvisam, encantam, chocam — e às vezes, salvam.  
+Buggy, Perona, Hawkins e Bon Clay representam diferentes formas de excentricidade que mudam o rumo da história.
+
+### Um Ser Fora da Curva
+- Você recebe **+2 níveis** em qualquer Aptidão de Representação, Improviso ou Conhecimento Esotérico.
+- Você ganha **+1 no atributo de Aparência ou Conhecimento por nível** (escolha no 1º nível).
+- Você recebe **+1 nível em uma Competência incomum à sua escolha**, como Instrumentos Exóticos, Manipulação de Marionetes, Domínio de Animais, ou outras a combinar com o mestre.
+
+### Improviso Bizarro
+Você pode usar objetos incomuns, criaturas ou truques como formas de ação.  
+Uma vez por descanso curto, você pode improvisar um efeito narrativo surpreendente, a depender do contexto e da criatividade: prender um inimigo com tinta mágica, causar distração com fogos, invocar um animal bizarro treinado, etc.  
+
+Esse efeito concede vantagem em uma rolagem ou impõe desvantagem ao alvo.
+
+### Talento Estranho  
+No nível 2, você pode utilizar um de seus talentos únicos como Ação Bônus em combate.  
+O efeito pode ser intimidação performática, distração mágica, ilusão corporal, dança hipnótica ou qualquer outro fenômeno estilizado — definido com base na descrição do personagem e validado pelo mestre.
+
+### Presença Surreal  
+Ao alcançar o nível 3, sua mera presença perturba ou fascina os que o veem.  
+Durante interações sociais, inimigos ou NPCs sem forte convicção devem realizar um teste de Disciplina *(CD soma sua Aparência)* para não se sentirem desconcertados ou atraídos por você.  
+
+Em combate, você pode gastar 1 ponto de Vigor para impor desvantagem a um ataque contra você, com base em uma ação performática ou efeito bizarro.
+
+### Técnica Insólita  
+No nível 4, você pode criar uma técnica pessoal que utiliza uma mistura de suas aptidões e efeitos inusitados.  
+
+Essa técnica pode envolver uso de máscaras, bonecos, profecias, tatuagens vivas, entre outros.  
+Ela pode causar dano leve, debuff, buff narrativo ou distração — com custo de Vigor ou ação, conforme o efeito. O mestre ajudará a equilibrar.
+
+### Assombro Vivo  
+No nível 5, você se torna uma lenda viva — sua reputação e bizarrice o precedem.  
+
+Uma vez por descanso completo, você pode realizar uma ação absolutamente memorável que muda o clima de uma cena: interromper uma guerra com uma dança, fugir usando um balão de gás caseiro, ou assustar inimigos ao ponto de desistirem de lutar.  
+
+Inimigos de nível igual ou inferior ao seu devem passar em um teste de Determinação para resistir.  
+Aliados ganham vantagem em testes sociais enquanto você estiver presente em cena.
 
 {{pageNumber,auto}}
 \page
 
 ## Cientista
 ***Atributo Principal: Disciplina.***
+
+Cientistas são o ápice da racionalidade e da inovação em alto-mar. Com um pé na tecnologia e outro na teoria, eles criam engenhocas, manipulam reações, testam hipóteses e moldam o impossível com suas mãos. Um cientista de verdade não precisa de sorte ou destino — ele tem cálculo, planejamento e genialidade o suficiente para virar o jogo.
+
+Personagens como Caesar Clown, Vegapunk ou Franky *(em seu lado engenheiro)* mostram como a ciência, em mãos criativas, pode ser tão devastadora quanto qualquer poder místico.
 
 ### O Cérebro da Tripulação
 - Você pode conceder reparos a estruturas, construções e tecnologia mesmo sem ter a aptidão específica e somando seu atributo.
@@ -3165,11 +3733,23 @@ Você é capaz de criar um tipo de tecnologia baseado em sua aptidão cientifica
 
 Essa tecnologia está em seu acesso desde o início, sendo **customizável** para suas habilidades e lhe garantindo uma *passiva* útil.
 
-### Nível 3
-*Nível 3*
+### Aplicação Prática  
+Ao alcançar o nível 2 você pode construir e aplicar até dois dispositivos auxiliares por descanso longo. Cada dispositivo possui função utilitária baseada em suas aptidões científicas, como drones de observação, campos de isolamento, braços mecânicos, lentes de leitura avançada ou sensores químicos. A ativação de um dispositivo é uma *Ação Bônus*. Os dispositivos duram até 1 hora ou até serem danificados. Você pode desmontar um deles para recuperar materiais e reutilizá-los após um Descanso Completo.
 
-### Nível 5
-*Nível 5*
+### Núcleo de Invenção  
+No nível 3 você instala ou desbloqueia um Núcleo Tecnológico exclusivo em seu equipamento principal ou traje, criando uma função estável de uso tático. 
+
+Esse Núcleo pode ser temático — como energia térmica, análise bioquímica, controle gravitacional leve, ou distorção sonora — e permite uma nova habilidade ativa. O Núcleo pode ser trocado fora de combate com acesso a seu kit. Habilidades criadas com o núcleo custam Vigor ou pontos de habilidade, conforme o impacto narrativo.
+
+### Campo de Testes  
+Ao chegar ao 4º nível, durante os preparativos antes de uma missão, você pode realizar experimentos controlados que lhe concedem vantagens táticas. 
+
+Após um Descanso Longo, escolha dois dos seguintes benefícios para durar até o próximo combate ou desafio: resistência temporária a um tipo de dano, visão aprimorada em baixa luminosidade, amortecimento contra quedas, amplificação de voz ou sinalizador químico rastreável. 
+
+Você pode aplicar esses benefícios a si mesmo ou a aliados próximos.
+
+### Gênio Incompreendido  
+Atingindo o nível 5 você atinge um ápice de complexidade e genialidade que ultrapassa o senso comum. Uma vez por Descanso Completo, você pode ativar uma criação suprema: uma tecnologia singular, que age como uma combinação de invenção e fenômeno narrativo. Pode ser um dispositivo de dobra curta, uma arma anti-akuma, um campo de contenção etérea ou outro efeito de escala limitada porém decisiva. O efeito deve ser acordado com o mestre, dura poucos minutos e consome todos os seus dispositivos auxiliares do dia. Após a ativação, você sofre -2 em todos os testes de Raciocínio até um descanso longo.
 
 {{pageNumber,auto}}
 \page
@@ -3186,6 +3766,9 @@ As Profissões Independentes representam esse tipo de trajetória:
 Ao escolher uma Profissão Independente, você assume também um **papel político e social** dentro do mundo de *A Vontade dos Mares*. Isso pode trazer recompensas únicas, mas também obrigações, supervisão e riscos maiores.
 
 Você pode ser o braço da justiça ou a ponta da lança de uma rebelião. Mas, acima de tudo, você é alguém que não se limita a um navio. Você age pelo mundo — e o mundo te conhece.
+:
+
+##### As Profissões Independentes são: Caçador de Recompensas, Marinheiro e Revolucionário.
 
 ::
 
@@ -3196,31 +3779,111 @@ Você pode ser o braço da justiça ou a ponta da lança de uma rebelião. Mas, 
 | *Marinheiro*        | Uniforme básico, apito naval | Manual de conduta + 2 rações + insígnia do Governo Mundial | B$6.000       |
 | *Revolucionário*    | Capa de viagem reversível, manifesto oculto | Ração camuflada + compartimento secreto para mensagens | B$5.500 |
 
-\column
 
-##### Lista de Profissões Independentes:
+{{descriptive
+### Hierarquia da Marinha
+
+##### Divisão de Infantaria da Marinha
+- Aprendiz de Marinheiro 
+- Marinheiro de 3ª Classe ou Marujo  
+- Marinheiro de 2ª Classe  
+- Marinheiro de 1ª Classe  
+- Cabo  
+- Sargento  
+- Sargento-Mor  
+- Alferes  
+
+##### Oficiais da Marinha 
+- Segundo-Tenente  
+- Primeiro-Tenente  
+- Tenente  
+- Tenente-Comandante  
+- Comandante  
+- Capitão  
+- Comodoro  
+- Contra-Almirante  
+- Vice-Almirante  
+- Almirante  
+- Almirante da Frota  
+
+##### Patentes Especiais
+- Instrutor  
+- Inspetor-Geral  
+}}
+
+{{pageNumber,auto}}
+\page
+
 
 ## Caçador de Recompensas
 ***Atributo Principal: Resistência***
 
 ### Caçando Numa Selva de Monstros
-- Você ganha +1 em um atributo a escolha p/ Nível.
-- Você ganha +1 Nível na Aptidão de Tenacidade e +1 Nível na Aptidão de Improviso.
-- Você ganha +1 no atributo de Vitalidade p/ Nível.
-- Você recebe +1 nível na Competência de uma Ferramentas a escolha.
+- Você ganha **+1 em um atributo à escolha** por Nível.
+- Você ganha **+1 Nível na Aptidão de Tenacidade** e **+1 Nível na Aptidão de Improviso**.
+- Você ganha **+1 no atributo de Vitalidade** por Nível.
+- Você recebe **+1 nível na Competência de uma Ferramenta à escolha**.
 
-### Viajante Autossustentável
+### Viajante Autossustentável  
 Você ganha 4 pontos para distribuir entre as aptidões Especializadas.  
 
-Um dos seus atributos pode passar do valor 10 no nível 1.
+Um dos seus atributos pode passar do valor 7 no nível 1.
 
-Como um Caçador de Recompensas, você sempre sabe a localização do *Bar dos Caçadores*. Esse local é um porto seguro para os caçadores, tendo um em cada *Blue* e mais dois na *Grand Line*.
+Como um Caçador de Recompensas, você sempre sabe a localização do *Bar dos Caçadores*. Esse local é um porto seguro para os caçadores, com um em cada *Blue* e mais dois na *Grand Line*.
 
-### Nível 3
-*Nível 3*
+Além disso, você recebe de 10% a 20% extra em qualquer serviço pago relacionado à captura, escolta ou entrega de alvos procurados, quando realizado com sucesso.
 
-### Nível 5
+---
+
+### Marca de Caça
+Com o nível 2 você pode gastar uma Ação Bônus para marcar um alvo que esteja à vista como seu *alvo prioritário*. A marca dura até o final do combate ou até você escolher outro alvo.
+
+Enquanto o alvo estiver marcado:
+
+---
+
+- Você tem vantagem em testes de Rastreio e Colher Informações contra ele.
+- O primeiro ataque realizado contra ele causa +1d6 de dano adicional.
+- Você pode usar sua Reação para mover-se até 3 metros ao ver o alvo se mover, sem provocar ataques de oportunidade.
+
+### Intuição do Predador
+No nível 3 você pode gastar 1 ponto de Vigor para ativar sua intuição de caçador. Até o fim da cena ou combate:
+
+---
+
+- Você pode sentir a presença de inimigos escondidos ou disfarçados num raio de até 15 metros.
+- Testes de Percepção e Enganação recebem +2 enquanto você estiver perseguindo ou enfrentando seu alvo marcado.
+- Você identifica se alguém está mentindo ao mencionar uma pessoa procurada ou envolvimento com crimes — com base na linguagem corporal e experiências anteriores.
+
+---
+
+### Contatos
+Nível 4, você conhece os atalhos e os intermediários certos para movimentar seu dinheiro sujo ou adquirir informações delicadas.
+
+Uma vez por semana, você pode recorrer a um *Contato Oculto* para:
+- Lavar até B$ 50.000 de origem criminosa por sessão de negociação.
+- Descobrir informações relevantes sobre um alvo procurado *(último paradeiro, cúmplices, nível de ameaça, hábitos)*.
+- Comprar ou vender itens ilegais por valores reduzidos/em conta.
+
+Se usado em cidade desconhecida ou hostil, o sucesso exige um teste de Improviso ou Enganação *(CD 14)*. Falha atrai atenção indesejada.
+
+---
+
+### Abate ou Captura
 *Nível 5*
+
+Você atinge o ápice da sua carreira. Uma vez por descanso completo, você pode declarar que irá *Abater ou Capturar* um alvo específico, mesmo fora de combate.
+
+Durante esse efeito:
+
+---
+
+- Você ignora camuflagem, duplicatas ou ilusões visuais do alvo escolhido.
+- Seu primeiro ataque contra ele sempre tem vantagem e ignora reduções de armadura.
+- Se o alvo estiver inconsciente ou rendido, você pode aplicar um *Trancamento Especializado* que o impede de escapar por meios normais (resistência física, ilusões ou teleporte), a critério do Mestre.
+
+Você também recebe 10% a mais de pagamento por recompensas concluídas — seja capturando, matando ou trazendo provas concretas da ação.
+
 
 
 {{pageNumber,auto}}
@@ -3262,42 +3925,44 @@ Como um oficial, você tem direito à uma embarcação própria, tripulação de
 
 Apesar da liberdade, oficiais de baixa patente são constantemente enviados em missões e recebem punições severas em caso de desobediência.
 
-### Nível 4
-*Nível 4*
+### Glória ou Degradação  
+*Cargos: Comandante à Capitão*  
+:
+Ao atingir o nível 4, você recebe sua própria patente de médio escalão e passa a comandar uma base, divisão ou frente de operações.  
 
-### Nível 5
-*Nível 5*
+Você pode requisitar recursos da Marinha *(navios, munições, homens)* para missões com aprovação superior. Quando age dentro das diretrizes do Governo Mundial, recebe **+1d4 em testes de Autoridade, Intimidação ou Diplomacia** contra NPCs subordinados à lei ou cidadãos comuns.
 
-{{descriptive
-### Hierarquia da Marinha
+Entretanto, você também passa a ser alvo direto de denúncias e investigações — seus atos são observados por superiores, jornalistas e rivais dentro da própria Marinha. Dependendo de suas ações, você poderá ser promovido... ou caçado.
 
-##### Divisão de Infantaria da Marinha
-- Aprendiz de Marinheiro 
-- Marinheiro de 3ª Classe ou Marujo  
-- Marinheiro de 2ª Classe  
-- Marinheiro de 1ª Classe  
-- Cabo  
-- Sargento  
-- Sargento-Mor  
-- Alferes  
+### Punho da Justiça  
+*Cargos: Vice-Almirante*  
+:
+No nível 5, você é reconhecido como uma das armas do Governo Mundial. Os Vice-Almirantes são combatentes de elite, estrategistas e líderes capazes de lidar com piratas de alto calibre, ameaças sobrenaturais ou rebeliões.  
 
-##### Oficiais da Marinha 
-- Segundo-Tenente  
-- Primeiro-Tenente  
-- Tenente  
-- Tenente-Comandante  
-- Comandante  
-- Capitão  
-- Comodoro  
-- Contra-Almirante  
-- Vice-Almirante  
-- Almirante  
-- Almirante da Frota  
+Você recebe uma **recompensa simbólica de B$100.000** como promoção e direito de nomear **uma técnica personalizada exclusiva** que represente seu legado.
 
-##### Patentes Especiais
-- Instrutor  
-- Inspetor-Geral  
-}}
+Você pode também requisitar **reforços de elite** da Marinha, como pacifistas, comandantes aliados ou embarcações especiais, com autorização prévia.
+
+Como Vice-Almirante, você tem passe livre para qualquer território do Governo Mundial e pode intervir diretamente em assuntos globais — o que inclui ignorar ordens, se estiver disposto a arcar com as consequências.
+
+---
+
+### Sobre Promoções a Almirante  
+*Cargos: Almirante e Almirante de Frota*  
+:
+O posto de Almirante não é atingido por progressão de nível — é uma **posição narrativa** conquistada por mérito, feitos extraordinários e impacto mundial.  
+
+Para ser promovido, o personagem deve:
+
+---
+
+- Ter nível 5 na profissão Marinheiro.
+- Ter vencido ou capturado inimigos de altíssimo escalão.
+- Estar envolvido em operações de escala global ou com impacto histórico.
+- Ser aceito politicamente pelo Governo Mundial *(ou forçar uma nomeação pela Marinha, em casos excepcionais)*.
+
+O Almirante da Frota, por sua vez, é o comandante supremo da Marinha e só pode haver um por vez.
+
 
 
 {{pageNumber,auto}}
@@ -3307,21 +3972,71 @@ Apesar da liberdade, oficiais de baixa patente são constantemente enviados em m
 ***Atributo Principal: A Escolha***
 
 ### Vivendo Para Trazer A Revolução
-- Você ganha +1 em um atributo a escolha p/ Nível.
-- Você ganha 3 para distribuir entre as Aptidões Especializadas.
-- Você ganha +1 no atributo de Vontade p/ Nível.
-- Você recebe +1 nível na Competência de uma Ferramentas a escolha.
+- Você ganha **+1 em um atributo a escolha** p/ Nível.
+- Você ganha **+3 pontos para distribuir entre as Aptidões Especializadas**.
+- Você ganha **+1 no atributo de Vontade** p/ Nível.
+- Você recebe **+1 nível na Competência de uma Ferramentas a escolha**.
 
 ### Insubordinados ao Sistema
-Você ganha uma *Técnica de Combate* de acordo com o seu personagem & +15 pontos de habilidade.
+Você ganha uma *Técnica de Combate* de acordo com o seu personagem & **+15 pontos de habilidade**.
 
 Você responde diretamente ao Comandante do Mar em que você se encontra, tendo como dever cumprir missões e repassar informaçãos as bases do Exército Revolucionário.
 
-### Nível 3
-*Nível 3*
+### Voz das Ruas  
+*Cargos: Sargento da Rebelião à Infiltrado Local*  
+:
+No nível 2, você aprende a extrair informação e influenciar grupos através de sua reputação, presença e domínio das narrativas revolucionárias.
 
-### Nível 5
-*Nível 5*
+---
+
+- Você pode gastar 1 ponto de Vigor fora de combate para ativar o **Movimento Popular**: por 1 hora, NPCs comuns *(trabalhadores, civis, comerciantes)* se tornam receptivos às suas palavras, oferecendo ajuda, informações ou abrigo básico — mesmo sem conhecê-lo pessoalmente. O efeito exige carisma ou discurso coerente com os ideais da revolução.
+
+- Em ambientes urbanos ou politicamente instáveis, você pode realizar um **teste de Conhecimento ou Enganação** para identificar pontos de tensão, identificar espiões ou detectar tropas do Governo disfarçadas.
+
+### Levantar a Bandeira  
+*Cargos: Agente Local à Emissário Secreto*  
+:
+Ao alcançar o nível 3, você recebe uma **causa formal** e **autonomia de célula**. Você agora lidera pequenas operações locais, recruta aliados e dissemina ideais de liberdade, igualdade ou destruição dos opressores — conforme sua visão revolucionária.
+
+Você pode declarar uma **zona de influência** (bairro, vila ou região insular) como território protegido. Nesse local, aliados e simpatizantes garantem acesso a abrigo, suprimentos e informações gratuitamente. Você também pode ativar a habilidade:
+
+**“A Bandeira Levanta”** — Uma vez por descanso completo, você pode gastar sua ação para conclamar aliados e civis. Durante os próximos 3 turnos:
+
+---
+
+- Todos os aliados que puderem ouvir ou ver você recebem *+1d4 em testes de resistência e ataque*.
+- NPCs neutros na cena realizam um teste de Vontade *(CD soma seu Carisma)* e, em caso de sucesso, se tornam aliados temporários ou se recusam a obedecer ordens tirânicas.
+
+### A Luta Continua  
+*Cargos: Emissário Secreto à Capitão Celular*  
+:
+Ao atingir o nível 4, você se torna um símbolo vivo da resiliência revolucionária. Seus ideais moldam sua força, e sua convicção contagia aliados.
+
+---
+
+- Quando cair a 0 PV pela primeira vez em um combate, você pode fazer um teste de Vontade (CD 10 + número de inimigos envolvidos). Em sucesso, você permanece de pé com 1 PV e **inspira aliados próximos**, concedendo +1d6 em sua próxima jogada de ataque ou resistência.
+
+- Além disso, uma vez por descanso completo, você pode **marcar um inimigo como “Inimigo do Povo”**. Durante 1 minuto, todos os seus aliados somam seu bônus de Vontade ao dano causado contra esse alvo. Essa marca só pode estar ativa em um inimigo por vez e desaparece se você cair inconsciente.
+
+### Incendiar o Mundo  
+*Cargos: Capitão Celular à Comandante Regional*  
+:
+Ao atingir o nível 5, você torna-se um **líder insurgente de alto escalão**, com acesso a planos confidenciais, armamento exclusivo e suporte de outras células. Você pode invocar:
+
+---
+
+- **Ajuda Regional**: uma vez por arco narrativo, você pode requisitar reforço de revolucionários (NPCs equivalentes a um pequeno pelotão ou um combatente de elite, a critério do mestre).
+- **Tecnologia Irregular**: você recebe uma criação revolucionária única — como bombas silenciosas, glifos de rebelião, papéis codificados ou ferramentas anti-Governo — feita sob medida pelo arsenal do Exército. Pode ser usada uma vez por missão e requer aprovação do mestre.
+
+Você também pode fundar sua **própria célula revolucionária** com até 6 membros treinados, que ganham lealdade a você e podem executar tarefas entre sessões.
+
+---
+
+### Sobre o Comando Supremo  
+Os líderes supremos do Exército Revolucionário — como Dragon e Ivankov — operam além da hierarquia formal. Tornar-se um **Comandante Global** ou **Figura Icônica da Rebelião** depende de atos transformadores, como derrubar uma fortaleza da Marinha, libertar nações ou desafiar diretamente o Governo Mundial.
+
+O Exército Revolucionário preza tanto por liberdade quanto por estratégia. Nem todo rebelde é herói — mas todos têm algo a perder. E algo pelo que queimar o mundo.
+
 
 {{pageNumber,auto}}
 \page
@@ -4205,10 +4920,10 @@ Você realiza um ataque básico a distância, com o alcance igual ao seu desloca
 {{pageNumber,auto}}
 \page
 
-# Parte 3: Navegando 
+# Parte 3: Navegação
 
 {{classTable,wide
-##### Tabela de Barcos Genéricos
+##### Tipos de Barcos
 | Tipo de Barco | Tamanho | Carga | Tripulação | Velocidade | Canhões | Vida | Resistência | Classe de Acerto |
 |:-----------------|:--:|-------:|:-:|:------:|:--:|:--:|:--:|:--:|
 |Saveiro 					 | P  | 0.5 Ton| 3 | 15 nós | 0  | 60 | 1  | 10 | 
@@ -4229,53 +4944,138 @@ Você realiza um ataque básico a distância, com o alcance igual ao seu desloca
 }}
 
 ## Seu Barco
-Resumo das Médias dos Tamanhos:
 
-P (Pequeno): ~20m  
+| Tamanho | Comprimento Médio | Exemplos de Navios       |
+|---------|--------------------|---------------------------|
+| P       | +- 20 metros         | Saveiro, Lugre, Submarino P |
+| M       | +- 45 metros         | Escuna, Corsário, Fragata  |
+| G       | +- 58 metros         | Bergantim, Veleiro, Naus   |
+| GG      | +- 112,5 metros      | Galeão, Caravela GG        |
 
-M (Médio): ~45m  
+Barcos são muito mais que meios de transporte. Eles abrigam histórias, servem como quartel-general e são companheiros de jornada. Cada navio tem seu papel em alto-mar — seja veloz como um veleiro, resistente como um galeão ou mortal como um submarino torpedeiro.
 
-G (Grande): ~58m  
-
-GG (Gigante): ~112.5m
+*Ficha do barco na att 3.5.*
 
 ## Navegando
-Próxima att...
+
+Em um mundo coberto por oceanos e repleto de ilhas desconhecidas, navegar é mais que um deslocamento: é um ato de fé, ousadia e descoberta. Navegar é buscar aventura. Desde pequenos botes a embarcações lendárias, tudo começa quando o navio parte rumo ao horizonte.
+
+Navegadores têm papel central em qualquer tripulação. Eles leem os ventos, interpretam as correntes e guiam os destinos de seus companheiros — tanto em mar aberto quanto em batalha.
+
+Opcionalmente, o Mestre pode utilizar Tabelas de Eventos Marítimos para representar perigos naturais, encontros aleatórios ou lendas vivas.
 
 ## Batalha Naval
 
-Uma Batalha em Alto Mar tem funcionamento diferente de uma batalha entre personagens.
+Uma batalha em alto-mar possui ritmo e escala distintos de um combate entre personagens.
 
-Começando pela proporção do Grid, que passa a ter 1 milha naútica p/ quadrado e pela duração das rodadas, que passam a ter 1min.
+- Cada quadrado do grid representa **1 milha náutica** (que é o mesmo que 1 nó).
+- Cada rodada equivale a **1 minuto inteiro de ação**.
+- A iniciativa é rolada **por navio**, utilizando o valor mais alto entre:  
+  `1d20 + Conhecimento + Profissão (Navegador, Timoneiro ou Capitão)`
 
-### Descolamento
-Em alto mar, quem se locomove é o barco a comando do Capitão e do Navegador.   
-A distância percorrida depende da Velocidade da embarcação e segue a seguinte métrica:
+### Deslocamento
 
-**1 quadrado = 1 milha náutica = 1 nó.**
+O navio se movimenta pela velocidade expressa em nós, guiado pelas ordens do capitão e pela perícia do navegador.  
+Cada nó permite mover 1 quadrado por turno.
 
 ### Combate
-Ao iniciar um combate marítimo, os Navegadores de cada embarcação rolam um teste de iniciativa *(Em falta de um navegador, o timoneiro faz os testes. Na falta de um timoneiro, o capitão realiza os testes)*
 
-Uma tripulação tem uma série de ações e reações possíveis, que podem ou não ser realizadas ao mesmo tempo.  
+Cada membro de uma tripulação pode realizar uma ou mais ações por turno, dependendo da coordenação dos oficiais a bordo. Os comandos são definidos pelo capitão, mas as execuções seguem as capacidades individuais.
+:
+**Ações Disponíveis:**
 
-***Ações Disponíveis:*** *Manobrar, Locomover, Atacar, Abordar ou Fugir.*
+##### Manobrar
+O navegador ou timoneiro executa uma manobra tática. Exige um teste de atributo (normalmente Conhecimento ou Destreza) e permite alterar o curso do combate com efeitos variados, como ganho de velocidade, mudança de direção ou vantagem posicional.
 
-***Reações Disponíveis:*** *Aparar Ataques, Defender.*
+Cada navio só pode realizar **1 manobra por turno**, a menos que possua uma melhoria especial.
+
+##### Locomover
+Movimenta o navio uma quantidade de quadrados igual à sua Velocidade em nós. O deslocamento é direto e segue a direção escolhida pelo navegador.
+
+Não exige teste, a menos que o mar esteja agitado, sob efeito de tempestade ou outra condição adversa.
+
+##### Atacar
+O Artilheiro (ou membro equivalente) comanda o disparo de canhões, torpedos ou armamentos próprios a distância. Alguns armamentos do navio entram em recarga após o ataque.
+
+Esses ataques realizam uma jogada de ataque padrão, usando a competência do personagem.
+
+{{pageNumber,auto}}
+\page
+
+##### Abordar
+Representa a tentativa de reduzir a distância entre as embarcações para iniciar combate direto. Para isso:
+
+- A embarcação precisa estar a **1 nó (1 milha náutica)** de distância.
+- É necessário realizar uma **manobra de aproximação**, como a *Investida de Abordagem*.
+- Em sucesso, a tripulação pode usar cordas, pranchas, ganchos ou salto direto para iniciar combate tradicional em grid tático.
+
+> Navios Gigantes (GG) não podem abordar navios Pequenos (P) diretamente sem reduzir sua velocidade ou ancorar parcialmente.
+:
+##### Fugir
+Tentar escapar do combate naval por completo. Para isso:
+
+1. O navio deve estar a pelo menos **4 nós** de distância do inimigo.
+2. Deve realizar uma **manobra de fuga**, como *Fuga Desesperada*.
+3. Se conseguir **manter distância superior a 4 nós** por dois turnos consecutivos, considera-se que escapou com sucesso.
+
+> Em ambientes com névoa, tempestade ou disfarces, o Mestre pode alterar os critérios de sucesso.
+
+:
+**Reações Disponíveis:**
+
+##### Aparar Ataques
+Permite a membros da tripulação com Potencial Sobre-Humano ou superior tentar bloquear ataques de grande escala (tiros de canhão, torpedos, golpes de monstros marinhos ou feixes de energia).
+
+##### Defender
+Tripulantes podem utilizar defesas improvisadas, escudos instalados ou movimentações evasivas para resistir ao ataque.
+
+Esta reação pode aumentar temporariamente a Classe de Acerto do navio ou impedir dano crítico em uma área específica (GM decide).
 
 #### Tiros de Canhão
 Canhões precisam de 1 turno para serem carregados após disparar. 
 
 Seu ataque é realizado pela ordem do membro da tripulação com melhor habilidade no uso de canhões e usa seus bônus na jogada de ataque, que é realizada normalmente contra a embarcação alvo.
 
-#### Manobras
+:
+### Manobras
 
-##### PlaceHolder
+Manobras são ações táticas realizadas pelo navegador, timoneiro ou pelo capitão. Elas exigem testes de atributo e afetam diretamente o curso do combate naval. Use Conhecimento, Destreza ou outros atributos conforme a situação.
+
+##### Virada Brusca
+*Pré-requisito: indisponível apenas para navios Gigantes (GG).*  
+O navio gira repentinamente, mudando sua direção sem custo de movimento.  
+Teste de Destreza ou Conhecimento (CD 14).  
+
+##### Fuga Desesperada
+*Pré-requisito: todos os tamanhos de navio podem usar, mas navios Gigantes (GG) reduzem o bônus para +2 nós.*  
+Você força o navio a escapar de forma acelerada.  
+Teste de Conhecimento (CD 15). Em sucesso, o navio se move +3 nós neste turno. Em falha, perde 1 nó de velocidade.  
+
+##### Disparada Reta
+Você abdica de manobras e posicionamento para obter maior propulsão.  
+Move +4 nós, mas o navio não pode atacar neste turno.  
+
+##### Investida de Abordagem
+*Pré-requisito: navios Pequenos (P), Médios (M) e Grandes (G). Navios Gigantes (GG) não podem usar esta manobra sem ancorar parcialmente ou reduzir velocidade para 0.*  
+Aproxima-se com violência e precisão.  
+Teste de Destreza (CD 16). Em sucesso, você entra em posição de abordagem automaticamente.  
+
+##### Curva Larga com Velas Estendidas
+*Pré-requisito: todos os tamanhos de navio podem usar, mas navios Pequenos (P) ganham +2 quadrados em vez de +1.*  
+Você realiza uma curva aberta usando o vento a favor.  
+Move normalmente e ganha +1 quadrado de bônus no próximo turno se mantiver a direção.  
 
 #### Aparando Ataques
-Membros da tripulação com potencial Sobre-Humano ou superior podem aparar ataques de uma embarcação inimiga usando sua reação para isso.
 
-Para aparar um ataque, você realiza um ataque ou uma habilidade *(Gastando o mínimo de vigor)* e realiza um teste de resistência somando o bônus do ataque/habilidade usada. A dificuldade do teste é igual ao valor do acerto do ataque.
+Membros da tripulação com Potencial Sobre-Humano ou superior podem usar sua reação para tentar aparar ataques de grande escala — como disparos de canhão, torpedos, feixes de energia ou ataques de monstros marinhos.
+
+Para aparar:
+
+- Gaste o mínimo de Vigor necessário para realizar um ataque ou habilidade.
+- Role um teste de salvaguarda, somando o bônus da técnica usada.
+- A dificuldade do teste é igual ao valor de Acerto do ataque inimigo.
+
+Um sucesso anula completamente o impacto na região atingida. Falhas parciais ou críticas devem ser narradas pelo Mestre com efeitos apropriados *(ex: desvio parcial, ferimentos ou colisões secundárias)*.
 
 {{pageNumber,auto}}
 \page
@@ -4428,11 +5228,12 @@ As Zoan canalizam a força primordial da vida. Aqueles que as consomem tornam-se
 
 Não se trata apenas de mudar de forma. O usuário de uma Zoan **vive a fera** que carrega dentro de si.
 
-:
-
 ### Vantagens Iniciais
 
 Ao comer uma Zoan, o personagem recebe benefícios imediatos, que crescem com seu domínio sobre a fruta:
+
+---
+
 
 - **+1 em Resiliência** imediatamente, e mais +1 a cada 2 níveis da fruta.  
 - **+2 em atributos principais**, dependendo do tipo de criatura:
@@ -4444,13 +5245,15 @@ Ao comer uma Zoan, o personagem recebe benefícios imediatos, que crescem com se
 | Mítica         | +2 Destino                                 |
 | Ancestral      | +2 em dois atributos à escolha             |
 
-- **+X Dados de Reserva extras** para Vida ou Vigor (X = nível da fruta).
-- **Descansos com vantagem** nos dados de reserva de Vida e Vigor.
-- **Acesso a duas habilidades básicas**:
-  - **Forma Híbrida**  
-  - **Forma Animal**
+Além desses pontos, a forma animal e a forma híbrida podem conceder pontos de atributo extras.
 
 ---
+
+- **+X Dados de Reserva extras** para Vida ou Vigor (X = nível da fruta).
+- **Descansos com vantagem** nos dados de reserva de Vida e Vigor.
+- **Acesso a duas habilidades básicas**: *Forma Híbrida* e *Forma Animal*.
+
+
 
 ### As Formas da Fera
 
@@ -4464,13 +5267,6 @@ Toda Zoan oferece ao usuário **três estágios de transformação**:
 
 Com treinamento e criatividade, formas alternativas podem ser desbloqueadas — membros extras, aumentos de escala, ou mesmo transformações parciais como garras e olhos.
 
-:
-
-#### Custos e Escalas
-Por conta da natureza animal das Zoans e seus incrementos naturais em atributos, seus usuários tem mais dificuldade em melhorar atributos com o treino. 
-
-Pagando preços mais altos, como indicado na seção de treino.
-
 | Tipo da Zoan | Forma Animal | Forma Híbrida | Efeitos Notáveis |
 |--------------|----------------------|------------------------|------------------|
 | **Normal**   | 1d4 por turno | 1d6 por turno          | Garras, sentidos aguçados, força ampliada, entre outros |
@@ -4482,27 +5278,39 @@ Ao atingir o **Despertar**, reduz-se mais uma vez.
 
 > *Exemplo*: Um usuário com Zoan Mítica nível 10 reduziria 1d10 → 1d8 → 1d6 em sua forma animal.
 
----
+#### Custos e Escalas
+Por conta da natureza animal das Zoans e seus incrementos naturais em atributos, seus usuários tem mais dificuldade em melhorar atributos com o treino. 
+
+Pagando preços mais altos, como indicado na seção de treino.
+
+#### Vitalidade da Fera
+
+Ao se transformar, o usuário de uma Zoan recebe **Pontos de Vida Extras temporários** com base na forma assumida e no Nível da Fruta. Esse bônus não se acumula com outras formas e só pode ser recebido **uma vez por forma por combate**.
+
+| Tipo de Zoan | PV Extra (Híbrida) | PV Extra (Animal) |
+|--------------|--------------------|--------------------|
+| **Normal**   | 3 × Nível da Fruta | 4 × Nível da Fruta |
+| **Ancestral**| 5 × Nível da Fruta | 6 × Nível da Fruta |
+| **Mítica**   | 4 × Nível da Fruta | 5 × Nível da Fruta |
+
+Os PVs extras somem ao retornar à forma natural.
+Se o usuário mudar de forma (ex: híbrida → animal), **substitua** os PVs extras — nunca acumule.
+Não é possível **receber os mesmos PVs novamente** ao retornar a uma forma já usada no mesmo combate.
 
 ### Zoan Ancestral  
 Permite ao usuário transformar-se em uma criatura extinta. Como tais animais não existem no presente, o jogador possui **total liberdade narrativa** para definir os hábitos, comportamento e habilidades especiais da criatura. Essa liberdade é compensada por um custo de vigor mais alto. Zoans Ancestrais são raras, misteriosas e evocam ecos de uma era esquecida.
 
 Usuários de Zoan ancestral podem usar quantos dados quiser de suas reservas em qualquer descanso e recuperam o dobro de Exaustão. 
 
----
 
 ### Zoan Mítica  
 Baseadas em **seres lendários**, essas Zoans são as mais poderosas do tipo. Além das formas clássicas, concedem ao usuário **poderes adicionais normalmente vistos em outros tipos de fruta**, como:
 
 ---
 
-- **Manipulação de elementos** (chamas, relâmpagos, névoas)
-- **Curas milagrosas**
-- **Efeitos simbólicos e metafísicos** ligados ao mito da criatura (ex: veneno de serpente divina, domínio do céu ou submundo)
+- **Manipulação de elementos** (chamas, relâmpagos, névoas), **Curas milagrosas** e  **Efeitos simbólicos e metafísicos** ligados ao mito da criatura (ex: veneno de serpente divina, domínio do céu ou submundo)
 
 Zoans Míticas são tão raras que sua aparição muitas vezes marca a história.
-
----
 
 ### Transformar-se é só o Começo
 
@@ -4600,7 +5408,7 @@ Mas nem tudo é invencível: Haki, planejamento e fraquezas elementais garantem 
 
 
 ## Despertar
-*Versão 3.0 ...*
+*Versão 4.0 ...*
 
 {{pageNumber,auto}}
 \page
@@ -4732,8 +5540,10 @@ Algumas das habilidades de criaturas são capazes de causar condições especiai
 :
 ##### Essas condições estão descritas abaixo em ordem alfabética:
 
-### Afogando
-
+### Afogado
+- Quando um usuário de Fruta fica completamente submerso, seu deslocamento se torna 0 e ele não pode se beneficiar de qualquer bônus de deslocamento.  
+- Ao entrar na água, o personagem pode prender a respiração por um número de turnos igual ao seu valor de Resiliência. Após isso, no início de cada turno submerso, sofre 1d6 de dano por afogamento.  
+- Enquanto Afogado, o personagem falha automaticamente em testes de Vitalidade e Resiliência e não pode falar ou usar habilidades que exijam respiração.  
 
 ### Agarrado
 - O deslocamento de uma criatura agarrada se torna 0, e ela não poderá se beneficiar de qualquer bônus para o seu deslocamento.
@@ -4758,8 +5568,6 @@ Algumas das habilidades de criaturas são capazes de causar condições especiai
 ### Cego
 - Uma criatura cega não pode enxergar e falha automaticamente em testes de Atributo que dependam da visão.
 - Jogadas de ataque contra a criatura têm vantagem e jogadas de ataque da criatura têm desvantagem.
-
-\column
 
 ### Chamuscado
 - Uma criatura chamuscada sofre dano ígneo no início de cada um de seus turnos até que o fogo seja apagado. A quantidade de dano recebida varia de acordo com cada fonte e quantidade de dano. 
@@ -4798,6 +5606,11 @@ O máximo de exaustão que uma criatura pode ter é 10, qualquer nível acima de
 :
 #### Removendo Exaustão
 Terminar um descanso longo reduz o nível de exaustão de uma criatura em um valor igual ao seu valor de Vitalidade ou de Resiliência, terminar um descanso pleno reduz o nível de exaustão de uma criatura para 0, considerando que tanto no descanso longo quanto no descanso pleno, a criatura também tenha ingerido comida e água.
+
+### Desorientado
+- Uma criatura desorientada sofre desvantagem em jogadas de Ataque e em testes de qualquer Atributo.  
+- A condição dura até o fim de seu próximo turno.  
+- No início de seu próximo turno, a criatura pode fazer um teste de Resiliência (CD 10). Em sucesso, encerra a condição; em falha, permanece desorientada até então.
 
 ### Incapacitado
 - Uma criatura incapacitada não pode realizar ações ou reações
@@ -4839,6 +5652,11 @@ Terminar um descanso longo reduz o nível de exaustão de uma criatura em um val
 
 {{pageNumber,auto}}
 \page
+
+### Queimadura Química
+- Uma criatura com Queimadura Química sofre 1d4 de dano Ácido no início de cada um de seus turnos.  
+- Seu deslocamento é reduzido em 3 m enquanto durar a condição.  
+- Como ação, a criatura pode realizar um teste de Medicina ou Resiliência (CD 12). Em sucesso, trata a área afetada e encerra a condição; em falha, a queimadura persiste.  
 
 ### Sangramento
 - Algumas habilidades especiais e algumas armas podem causar Sangramento, o sangramento é medido em pontos, esses pontos são cumulativos. Ao receber 1 ponto de sangramento você recebe 1 ponto de dano no início de cada um de seus turnos, ao receber um novo ponto de sangramento você recebe 2 pontos de dano ao invés de 1 e assim por diante. Seus pontos de Sangramento se mantém até que você cure ao menos 1 ponto de vida, ou alguém faça um teste de medicina com CD igual a 8 + o dobro do valor atual de sangramento. Médicos realizam esse teste com vantagem.

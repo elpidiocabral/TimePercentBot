@@ -3,12 +3,12 @@ const { EmbedBuilder } = require('discord.js');
 module.exports = {
   run: async (client, msg, args) => {
     const embed = new EmbedBuilder()
-      .setTitle("📘 Comandos Disponíveis – A Vontade dos Mares & Vampiro V5")
+      .setTitle("📘 Comandos Disponíveis – A Vontade dos Mares (3.0) & Vampiro V5")
       .setColor(0x0099ff)
       .addFields(
         {
           name: "🔍 Consulta - A Vontade dos Mares",
-          value: "`%buscar`, `%reação`, `%trunfo`",
+          value: "`%buscar`, `%reação`, `%trunfo`, `%sistema`",
         },
         {
           name: "⚔️ Combate",
