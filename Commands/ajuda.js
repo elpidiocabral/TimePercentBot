@@ -8,7 +8,7 @@ module.exports = {
       .addFields(
         {
           name: "🔍 Consulta - A Vontade dos Mares",
-          value: "`%buscar`, `%reação`, `%trunfo`, `%sistema`",
+          value: "`%buscar`, `%reação`, `%trunfo`, `%sistema`, `%haki`",
         },
         {
           name: "⚔️ Combate",
